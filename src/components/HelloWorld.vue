@@ -32,7 +32,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'The Waldgrave welcomes you'
+      msg: 'The Waldgrave Welcomes You'
     }
   }
 }
