@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+
+    <router-link to="/thepurplecircle" class="purple-circle"><img src="./assets/thepurplecircle.jpg"></router-link>
+
     <h2>Core Values</h2>
     <ul>
       <li>
@@ -13,7 +16,7 @@
         <span>Effort</span>
       </li>
     </ul>
-    <h2>Goal</h2>
+    <h2>Goals</h2>
     <ul>
       <li>
         <p>We are creatures of creation and expression, but our everyday
@@ -52,5 +55,9 @@ li {
 }
 a {
   color: #42b983;
+}
+
+.purple-circle {
+  position: relative;
 }
 </style>
