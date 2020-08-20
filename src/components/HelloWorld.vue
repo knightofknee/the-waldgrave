@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
 
-    <router-link to="/thepurplecircle" class="purple-circle"><img src="./assets/thepurplecircle.jpg"></router-link>
+    <router-link to="/thepurplecircle" class="purple-circle"><img src="../assets/thepurplecircle.jpg"></router-link>
 
     <h2>Core Values</h2>
     <ul>
