@@ -1,8 +1,8 @@
 <template>
 <div>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <div><img class="bigw" src="../assets/w.jpg"></div>
+    <h1 style="z-index:2;">{{ msg }}</h1>
+    <div style="margin: -2em 0;"><img class="bigw" src="../assets/transparentw.png"></div>
 
     <h2>Core Values</h2>
     <ul>
@@ -16,8 +16,8 @@
         <span>Effort</span>
       </li>
     </ul>
-    <div>
-      <router-link to="/thepurplecircle" class="purple-circle" ><img src="../assets/thepurplecircle.jpg"></router-link>
+    <div class="purple-circle-container">
+      <router-link to="/thepurplecircle"><img class="purple-circle" src="../assets/thepurplecircle.jpg"></router-link>
     </div>
     <h2>Goals</h2>
     <ul>
@@ -65,8 +65,26 @@ a {
   width: auto;
   height: 200px;
   border-radius: 90%;
+  position: relative;
   float: right;
-  left: -40px;
+  right: 2em;
+  top: -7em;
+}
+
+.purple-circle-container {
+  height: 10px;
+}
+
+@media (max-width: 960px) {
+  .purple-circle-container {
+    order: 1;
+    margin: 500px 0;
+  }
+  .purple-circle {
+    float: none;
+    right: 0;
+    top: 0;
+  }
 }
 
 .bigw {

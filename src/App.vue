@@ -20,10 +20,4 @@ export default {
   color: #2c3e50;
 }
 
-.bigw {
-  height: auto;
-  max-width: 500px;
-  margin: -10% 0;
-}
-
 </style>
