@@ -1,8 +1,8 @@
 <template>
+<div>
   <div class="hello">
     <h1>{{ msg }}</h1>
-
-    <router-link to="/thepurplecircle" class="purple-circle"><img src="../assets/thepurplecircle.jpg"></router-link>
+    <img class="bigw" src="../assets/w.jpg">
 
     <h2>Core Values</h2>
     <ul>
@@ -26,6 +26,10 @@
         </p>
       </li>
     </ul>
+  </div>
+  <div>
+    <router-link to="/thepurplecircle" class="purple-circle" ><img src="../assets/thepurplecircle.jpg"></router-link>
+  </div>
   </div>
 </template>
 
@@ -58,6 +62,22 @@ a {
 }
 
 .purple-circle {
-  position: relative;
+  width: auto;
+  height: 200px;
+  border-radius: 90%;
+  float: right;
+  left: -40px;
+}
+
+.bigw {
+  height: auto;
+  max-width: 500px;
+  margin: -10% 0;
+}
+
+.hello {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 </style>

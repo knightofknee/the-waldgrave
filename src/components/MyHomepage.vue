@@ -1,8 +1,8 @@
 <template>
-  <div class="hello">
+  <div class="hello" style="background-image: '../assets/thepurplecircle.jpg'">
     <h1>{{ msg }}</h1>
     <div><router-link to="/">here</router-link></div>
-    <img src="../assets/thepurplecircle.jpg">
+    <!-- <img src="../assets/thepurplecircle.jpg"> -->
     <h2></h2>
   </div>
 </template>
