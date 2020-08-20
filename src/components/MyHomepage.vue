@@ -1,5 +1,5 @@
 <template>
-  <div class="hello" style="background-image: '../assets/thepurplecircle.jpg'">
+  <div class="hello" style="background-image: url('../assets/thepurplecircle.jpg')">
     <h1>{{ msg }}</h1>
     <div><router-link to="/">here</router-link></div>
     <!-- <img src="../assets/thepurplecircle.jpg"> -->

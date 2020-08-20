@@ -2,7 +2,7 @@
 <div>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <img class="bigw" src="../assets/w.jpg">
+    <div><img class="bigw" src="../assets/w.jpg"></div>
 
     <h2>Core Values</h2>
     <ul>
@@ -16,6 +16,9 @@
         <span>Effort</span>
       </li>
     </ul>
+    <div>
+      <router-link to="/thepurplecircle" class="purple-circle" ><img src="../assets/thepurplecircle.jpg"></router-link>
+    </div>
     <h2>Goals</h2>
     <ul>
       <li>
@@ -26,9 +29,6 @@
         </p>
       </li>
     </ul>
-  </div>
-  <div>
-    <router-link to="/thepurplecircle" class="purple-circle" ><img src="../assets/thepurplecircle.jpg"></router-link>
   </div>
   </div>
 </template>
