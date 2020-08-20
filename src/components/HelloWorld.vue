@@ -19,8 +19,7 @@
         <p>We are creatures of creation and expression, but our everyday
           lives do not always give us outlets, so we must create spaces that do.
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
-          and to promote the creation and capturing of ideas. Our tools are aimed at both the
-          experienced creative and the person who lacks a current outlet.
+          and to promote the creation and capture of ideas. Current projects and goals of the Waldgrave include a music blog, a bookclub app, a notes app, fixing social security, and reducing income equality
         </p>
       </li>
     </ul>
