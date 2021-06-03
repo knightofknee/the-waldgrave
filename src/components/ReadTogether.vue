@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>log in to a book room: </div>
-    <input type="text"/>
+    <input type="text" v-model="code" placeholder="enter room code"/>
     <button type="click">enter</button>
     <BookRoom v-bind:roomCode="code"></BookRoom>
   </div>
@@ -17,7 +17,7 @@ export default {
   },
   data () {
     return {
-      code: '123'
+      code: ''
     }
   }
 }
