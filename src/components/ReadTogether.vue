@@ -3,7 +3,7 @@
     <div>log in to a book room: </div>
     <input type="text"/>
     <button type="click">enter</button>
-    <BookRoom></BookRoom>
+    <BookRoom v-bind:roomCode="code"></BookRoom>
   </div>
 </template>
 
@@ -17,7 +17,7 @@ export default {
   },
   data () {
     return {
-      msg: 'Here I will post my own creative endeavors'
+      code: '123'
     }
   }
 }

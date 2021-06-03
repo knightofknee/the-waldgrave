@@ -1,12 +1,13 @@
 <template>
   <div>
-    rawrrrrrr
+    {{roomCode}}
   </div>
 </template>
 
 <script>
 export default {
   name: 'BookRoom',
+  props: { roomCode: String },
   data () {
     return {
       msg: 'Here I will'
