@@ -1,16 +1,23 @@
 <template>
   <div>
     {{roomCode}}
+    <div>
+      <BookComment v-for="comment in bookComments" :key="comment.id" :comment="comment"></BookComment>
+    </div>
   </div>
 </template>
 
 <script>
+import BookComment from './BookComment'
+
 export default {
   name: 'BookRoom',
   props: { roomCode: String },
+  components: BookComment,
   data () {
     return {
-      msg: 'Here I will'
+      pageNumber: 1,
+      bookComments: [{name: "josephina"}]
     }
   }
 }
