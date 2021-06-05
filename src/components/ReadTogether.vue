@@ -1,9 +1,9 @@
 <template>
   <div>
     <div>log in to a book room: </div>
-    <input type="text" v-model="code" placeholder="enter room code"/>
-    <button type="click">enter</button>
-    <BookRoom v-bind:roomCode="code"></BookRoom>
+    <input type="text" v-model="roomCode" placeholder="enter room code"/>
+    <button type="click" v-on:click="findRoom">enter</button>
+    <BookRoom v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
   </div>
 </template>
 
@@ -17,7 +17,19 @@ export default {
   },
   data () {
     return {
-      code: ''
+      roomCode: '',
+      bookComments: [{name: 'carl', text: 'you right you right'}]
+    }
+  },
+  methods: {
+    findroom: function() {
+      // need to get from the database here
+
+      //var useThis = this.roomCode
+
+      var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]
+
+      this.bookComments = roomComments
     }
   }
 }

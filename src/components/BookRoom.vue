@@ -2,7 +2,7 @@
   <div>
     {{roomCode}}
     <div>
-      <BookComment v-for="comment in bookComments" :key="comment.id" v-bind:comment="comment">{{comment.name}}</BookComment>
+      <BookComment v-for="comment in bookComments" :key="comment.id" v-bind:comment="comment"></BookComment>
     </div>
   </div>
 </template>
@@ -12,12 +12,11 @@ import BookComment from './BookComment'
 
 export default {
   name: 'BookRoom',
-  props: { roomCode: String },
+  props: { roomCode: String, bookComments: [Object] },
   components: { BookComment },
   data () {
     return {
-      pageNumber: 1,
-      bookComments: [{name: 'josephina'}]
+      pageNumber: 1
     }
   }
 }

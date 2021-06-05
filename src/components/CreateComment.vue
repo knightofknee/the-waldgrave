@@ -1,18 +1,16 @@
 <template>
   <div>
-    <span>{{comment.name}}</span>
-    <span>{{comment.text}}</span>
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'BookComment',
-  props: { comment: Object },
+  name: 'CreateComment',
+  props: { },
   data () {
     return {
-      replyText: 'dunno if ill use this var'
+      test: 'dunno if ill use this var'
     }
   }
 }
