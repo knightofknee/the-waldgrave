@@ -3,6 +3,7 @@
     <div>log in to a book room: </div>
     <input type="text" v-model="roomCode" placeholder="enter room code"/>
     <button type="click" v-on:click="findRoom">enter</button>
+    <!-- v-on:click="findRoom" -->
     <BookRoom v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
   </div>
 </template>
@@ -22,14 +23,19 @@ export default {
     }
   },
   methods: {
-    findroom: function() {
+    findroom () {
       // need to get from the database here
+      console.log('rawrrr')
 
-      //var useThis = this.roomCode
+      this.roomCode = "is this thing on?"
 
-      var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]
+      //  var useThis = this.roomCode
 
-      this.bookComments = roomComments
+      // var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]
+
+      // this.bookComments = roomComments
+
+      this.console.log('rawrrr22222')
     }
   }
 }
