@@ -19,23 +19,21 @@ export default {
   data () {
     return {
       roomCode: '',
-      bookComments: [{name: 'carl', text: 'you right you right'}]
+      bookComments: [{name: 'carl', text: 'you right you right', id: '22'}]
     }
   },
   methods: {
-    findroom () {
+    findRoom: function () {
       // need to get from the database here
       console.log('rawrrr')
 
       this.roomCode = "is this thing on?"
 
-      //  var useThis = this.roomCode
+      console.log("meeeoooooowww")
 
-      // var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]
+      var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]
 
-      // this.bookComments = roomComments
-
-      this.console.log('rawrrr22222')
+      this.bookComments.push(roomComments[0])
     }
   }
 }
