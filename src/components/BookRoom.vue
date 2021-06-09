@@ -1,10 +1,11 @@
 <template>
-  <div>
-    {{roomCode}}
-    <div>
-      <BookComment v-for="comment in bookComments" :key="comment.id" v-bind:comment="comment"></BookComment>
-    </div>
+<div>
+  <div v-if="roomCode.length > 0">
+    Room Code: {{roomCode}}
   </div>
+  <div v-else>||</div>
+  <BookComment v-for="comment in bookComments" :key="comment.id" v-bind:comment="comment"></BookComment>
+</div>
 </template>
 
 <script>
