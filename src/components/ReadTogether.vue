@@ -9,6 +9,7 @@
 
 <script>
 import BookRoom from './BookRoom'
+import axios from 'axios'
 
 export default {
   name: 'ReadTogether',
@@ -19,12 +20,13 @@ export default {
     return {
       roomCode: '',
       typedCode: '',
-      bookComments: [{name: 'carl', text: 'you right you right', id: '22'}]
+      bookComments: [{ name: 'carl', text: 'you right you right', id: '22', pageNumber: 2 }]
     }
   },
   methods: {
     findRoom: function () {
       this.roomCode = this.typedCode
+      // axios.Get(this.typedCode)
 
       // need to get from the database here
       var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]

@@ -3,8 +3,15 @@
   <div v-if="roomCode.length > 0">
     Room Code: {{roomCode}}
   </div>
-  <div v-else>||</div>
-  <BookComment v-for="comment in bookComments" :key="comment.id" v-bind:comment="comment"></BookComment>
+  <div>
+    <div>Change the page number to reveal more comments: </div>
+    <input type="number" v-model="pageNumber" placeholder="enter page number"/>
+    <!-- <button type="click" v-on:click="findRoom">enter</button> -->
+    <br/>
+    <div>There are {{hiddenCount}} hidden comments</div>
+    <br/>
+  </div>
+  <BookComment v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
 </div>
 </template>
 
@@ -18,6 +25,15 @@ export default {
   data () {
     return {
       pageNumber: 1
+    }
+  },
+  computed: {
+    revealedComments: function () {
+      return this.bookComments.filter(comment => 
+      comment.pageNumber <= this.pageNumber)
+    },
+    hiddenCount: function () {
+      return this.bookComments.length - this.revealedComments.length
     }
   }
 }
