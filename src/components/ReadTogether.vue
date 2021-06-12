@@ -20,7 +20,7 @@ export default {
     return {
       roomCode: '',
       typedCode: '',
-      bookComments: [{ name: 'carl', text: 'you right you right', id: '22', pageNumber: 2 }]
+      bookComments: [{ author: 'carl', text: 'you right you right', id: '22', pageNumber: 2, replies: [{author: 'subAuth1', text: 'wowzer bowser', id: '55'}] }]
     }
   },
   methods: {
@@ -29,7 +29,7 @@ export default {
       // axios.Get(this.typedCode)
 
       // need to get from the database here
-      var roomComments = [{name: 'replaceMEOW', text: 'holding until we get from db'}]
+      var roomComments = [{author: 'replaceMEOW', text: 'holding until we get from db', id: '', pageNumber: 33}]
 
       this.bookComments = roomComments
     }
