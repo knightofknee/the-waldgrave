@@ -8,7 +8,9 @@
     <input type="number" v-model="pageNumber" placeholder="enter page number"/>
     <!-- <button type="click" v-on:click="findRoom">enter</button> -->
     <br/>
-    <div>There are {{hiddenCount}} hidden comments</div>
+    <div v-if="hiddenCount > 1">There are {{hiddenCount}} hidden comments</div>
+    <div v-if="hiddenCount === 1">There is 1 hidden comment</div>
+    <div v-if="hiddenCount === 0">There are no more hidden comments</div>
     <br/>
   </div>
   <BookComment v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
