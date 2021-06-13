@@ -1,5 +1,5 @@
 <template>
-  <div style="display:flex;flexDirection:column;justifyContent:center">
+  <div v-if="comment.pageNumber > 0" style="display:flex;flexDirection:column;justifyContent:center">
     <span>{{comment.author}} - ({{comment.pageNumber}})</span>
     <span>{{comment.text}}</span>
     <ul>
