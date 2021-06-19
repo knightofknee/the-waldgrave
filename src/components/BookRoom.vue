@@ -10,10 +10,10 @@
     <br/>
     <div v-if="hiddenCount > 1">There are {{hiddenCount}} hidden comments</div>
     <div v-if="hiddenCount === 1">There is 1 hidden comment</div>
-    <div v-if="hiddenCount === 0">There are no more hidden comments</div>
+    <div v-if="hiddenCount === 0">There are no hidden comments</div>
     <br/>
   </div>
-  <BookComment v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
+  <BookComment v-if="revealedComments.length > 0" v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
 </div>
 </template>
 
@@ -31,8 +31,8 @@ export default {
   },
   computed: {
     revealedComments: function () {
-      return this.bookComments.filter(comment => 
-      comment.pageNumber <= this.pageNumber)
+      return this.bookComments.filter(comment =>
+        comment.pageNumber <= this.pageNumber)
     },
     hiddenCount: function () {
       return this.bookComments.length - this.revealedComments.length

@@ -3,13 +3,14 @@
     <div>log in to a book room: </div>
     <input type="text" v-model="typedCode" placeholder="enter room code"/>
     <button type="click" v-on:click="findRoom">enter</button>
-    <BookRoom v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
+    <BookRoom v-if="bookComments.length" v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
   </div>
 </template>
 
 <script>
 import BookRoom from './BookRoom'
 import axios from 'axios'
+import firebase from 'firebase/app'
 
 export default {
   name: 'ReadTogether',
@@ -27,11 +28,29 @@ export default {
     findRoom: function () {
       this.roomCode = this.typedCode
       // axios.Get(this.typedCode)
-
-      // need to get from the database here
-      var roomComments = [{author: 'replaceMEOW', text: 'holding until we get from db', id: '', pageNumber: 33, replies: []}]
-
-      this.bookComments = roomComments
+      
+      var database = firebase.database().ref("Books/Bible").get()
+      .then((snapshot) => {
+        if (snapshot.exists()) {
+          console.log("rawrwwwwww", snapshot.val());
+          
+          var currComments = snapshot.val()
+          var temp = []
+          for (var commentID in currComments) {
+            var commentValues = currComments[commentID]
+            temp.push({id: commentID, author: commentValues.author,
+              text: commentValues.text, pageNumber: commentValues.pageNumber,
+              replies: commentValues.replies})
+          }
+          
+          this.bookComments = temp
+          
+        } else {
+          console.log("No data available");
+        }
+      }).catch((error) => {
+        console.error(error);
+      });
     }
   }
 }

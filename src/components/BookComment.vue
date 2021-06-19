@@ -2,8 +2,8 @@
   <div v-if="comment.pageNumber > 0" style="display:flex;flexDirection:column;justifyContent:center">
     <span>{{comment.author}} - ({{comment.pageNumber}})</span>
     <span>{{comment.text}}</span>
-    <ul>
-      <div v-for="commentReply in comment.replies" v-bind:key="commentReply.id">
+    <ul v-if="comment.replies.length > 0">
+      <div v-for="commentReply in comment.replies">
         {{commentReply.author + " : " + commentReply.text}}
       </div>
     </ul>
@@ -14,7 +14,8 @@
 
 export default {
   name: 'BookComment',
-  props: { comment: Object },
+  props: { comment: {pageNumber: 0, author: "", text: "",
+    replies: [{author: "", text: ""}]} },
   data () {
     return {
       replyText: 'dunno if ill use this var'
