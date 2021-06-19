@@ -2,7 +2,7 @@
   <div v-if="comment.pageNumber > 0" style="display:flex;flexDirection:column;justifyContent:center">
     <span>{{comment.author}} - ({{comment.pageNumber}})</span>
     <span>{{comment.text}}</span>
-    <ul v-if="comment.replies.length > 0">
+    <ul v-if="comment.replies && comment.replies.length > 0">
       <div v-for="commentReply in comment.replies">
         {{commentReply.author + " : " + commentReply.text}}
       </div>
