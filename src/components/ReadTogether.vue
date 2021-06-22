@@ -3,7 +3,10 @@
     <div>log in to a book room: </div>
     <input type="text" v-model="typedCode" placeholder="enter room code"/>
     <button type="click" v-on:click="findRoom">enter</button>
-    <BookRoom v-if="bookComments.length" v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
+    <BookRoom v-if="bookComments.length && !hideRoom" v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
+    <div v-if="hideRoom">
+      {{roomCode}} - There is no room for this code
+    </div>
   </div>
 </template>
 
@@ -21,21 +24,18 @@ export default {
     return {
       roomCode: '',
       typedCode: '',
+      hideRoom: false,
       bookComments: [{ author: '', text: '', id: '', pageNumber: 0, replies: [{author: '', text: '', id: ''}] }]
     }
   },
   methods: {
     findRoom: function () {
-      this.roomCode = this.typedCode
-      // axios.Get(this.typedCode)
-      
-      var database = firebase.database().ref("Books/Bible").get()
+      var database = firebase.database().ref("Books/" + this.typedCode).get()
       .then((snapshot) => {
         if (snapshot.exists()) {
-          console.log("rawrwwwwww", snapshot.val());
-          
           var currComments = snapshot.val()
           var temp = []
+          this.roomCode = this.typedCode
           for (var commentID in currComments) {
             var commentValues = currComments[commentID]
             temp.push({id: commentID, author: commentValues.author,
@@ -47,6 +47,9 @@ export default {
           
         } else {
           console.log("No data available");
+          this.bookComments = []
+          this.hideRoom = true
+          this.roomCode = this.typedCode
         }
       }).catch((error) => {
         console.error(error);

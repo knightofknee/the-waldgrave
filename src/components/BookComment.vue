@@ -3,7 +3,7 @@
     <span>{{comment.author}} - ({{comment.pageNumber}})</span>
     <span>{{comment.text}}</span>
     <ul v-if="comment.replies && comment.replies.length > 0">
-      <div v-for="commentReply in comment.replies">
+      <div v-for="commentReply in comment.replies" v-bind:key="commentReply.text">
         {{commentReply.author + " : " + commentReply.text}}
       </div>
     </ul>
