@@ -35,7 +35,6 @@ export default {
         if (snapshot.exists()) {
           var currComments = snapshot.val()
           var temp = []
-          this.roomCode = this.typedCode
           for (var commentID in currComments) {
             var commentValues = currComments[commentID]
             temp.push({id: commentID, author: commentValues.author,
@@ -43,6 +42,8 @@ export default {
               replies: commentValues.replies})
           }
           
+          this.roomCode = this.typedCode // left off here
+          this.hideRoom = false
           this.bookComments = temp
           
         } else {
