@@ -4,9 +4,12 @@
     <input type="text" v-model="typedCode" placeholder="enter room code"/>
     <button type="click" v-on:click="findRoom">enter</button>
     <BookRoom v-if="bookComments.length && !hideRoom" v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
-    <div v-if="hideRoom">
+    <div v-if="hideRoom && roomCode.length > 0">
       {{roomCode}} - There is no room for this code
     </div>
+    <!-- <div v-if="hideRoom && roomCode.length == 0">
+      {{roomCode}} - There is no room for this code
+    </div> -->
   </div>
 </template>
 
@@ -24,7 +27,7 @@ export default {
     return {
       roomCode: '',
       typedCode: '',
-      hideRoom: false,
+      hideRoom: true,
       bookComments: [{ author: '', text: '', id: '', pageNumber: 0, replies: [{author: '', text: '', id: ''}] }]
     }
   },

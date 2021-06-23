@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div v-if="roomCode.length > 0">
+  <div>
     Room Code: {{roomCode}}
   </div>
   <div>
@@ -8,9 +8,10 @@
     <input type="number" v-model="pageNumber" placeholder="enter page number"/>
     <!-- <button type="click" v-on:click="findRoom">enter</button> -->
     <br/>
-    <div v-if="hiddenCount > 1">There are {{hiddenCount}} hidden comments</div>
+    <div>{{revealedComments.length}} / {{bookComments.length}} comments visible</div>
+    <!-- <div v-if="hiddenCount > 1">There are {{hiddenCount}} hidden comments</div>
     <div v-if="hiddenCount === 1">There is 1 hidden comment</div>
-    <div v-if="hiddenCount === 0 && revealedComments.length > 0">There are no hidden comments</div>
+    <div v-if="hiddenCount === 0 && revealedComments.length > 0">There are no hidden comments</div> -->
     <br/>
   </div>
   <BookComment v-if="revealedComments.length > 0" v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
