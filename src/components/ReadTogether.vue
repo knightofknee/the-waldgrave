@@ -33,7 +33,7 @@ export default {
   },
   methods: {
     findRoom: function () {
-      var database = firebase.database().ref("Books/" + this.typedCode).get()
+      firebase.database().ref("Books/" + this.typedCode).get()
       .then((snapshot) => {
         if (snapshot.exists()) {
           var currComments = snapshot.val()
@@ -44,11 +44,11 @@ export default {
               text: commentValues.text, pageNumber: commentValues.pageNumber,
               replies: commentValues.replies})
           }
-          
+
           this.roomCode = this.typedCode // left off here
           this.hideRoom = false
           this.bookComments = temp
-          
+
         } else {
           console.log("No data available");
           this.bookComments = []

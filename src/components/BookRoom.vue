@@ -15,7 +15,9 @@
     <br/>
   </div>
   <CreateComment />
-  <BookComment v-if="revealedComments.length > 0" v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
+  <div v-if="revealedComments.length > 0">
+    <BookComment v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
+  </div>
 </div>
 </template>
 
