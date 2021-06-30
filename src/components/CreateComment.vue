@@ -1,6 +1,7 @@
 <template>
   <div style="display:flex;justify-content:space-evenly">
-    <form style="display:flex;flex-direction:column;align-items:flex-end;">Create a comment
+    <form v-on:submit.prevent="postComment"
+    style="display:flex;flex-direction:column;align-items:flex-end;">Create a comment
       <div>
         <label name="author">Name</label>
         <input type="text" name="author" v-model="name" />
@@ -13,6 +14,7 @@
         <label name="comment">Comment</label>
         <textarea style="width:100%;" rows="5" name="comment" v-model="comment" />
       </div>
+      <button type="submit">submit</button>
     </form>
   </div>
 </template>
@@ -23,12 +25,12 @@ import firebase from 'firebase/app'
 
 export default {
   name: 'CreateComment',
-  props: { roomCode },
+  props: { roomCode: String },
   data () {
     return {
       name: '',
       pageNumber: 0,
-      comment
+      comment: ''
 
     }
   },
@@ -42,10 +44,12 @@ export default {
       })
       .then((snapshot) => {
         if (snapshot.exists()) {
-          var currComments = snapshot.val()
+          var reply = snapshot.val()
+          console.log("woo", reply)
         }
       })
       .catch((error) => {
+        console.log("nerp")
         console.error(error);
       });
     }
