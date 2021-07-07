@@ -14,7 +14,7 @@
         <label name="comment">Comment</label>
         <textarea style="width:100%;" rows="5" name="comment" v-model="comment" />
       </div>
-      <button type="submit">submit</button>
+      <button type="submit" :disabled="disableSubmit">submit</button>
     </form>
   </div>
 </template>
@@ -30,13 +30,16 @@ export default {
     return {
       name: '',
       pageNumber: 0,
-      comment: ''
+      comment: '',
+      disableSubmit: false
 
     }
   },
   methods: {
     postComment: function () {
       if (this.name.length < 3 || this.pageNumber == 0) return;
+
+      this.disableSubmit = true;
       firebase.database().ref("Books/" + this.roomCode + "/" + this.name + "/" + this.pageNumber + Date.now()).set({
         name: this.name,
         pageNumber: this.pageNumber,
