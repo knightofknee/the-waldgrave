@@ -46,13 +46,15 @@ export default {
         comment: this.comment
       })
       .then((snapshot) => {
-        if (snapshot.exists()) {
+        if (snapshot && snapshot.exists()) {
           var reply = snapshot.val()
           console.log("woo", reply)
+          setTimeout(() => {this.disableSubmit = false}, 2000)
         }
       })
       .catch((error) => {
         console.log("nerp")
+        setTimeout(() => {this.disableSubmit = false}, 2000)
         console.error(error);
       });
     }
