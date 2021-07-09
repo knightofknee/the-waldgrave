@@ -46,6 +46,7 @@ export default {
         comment: this.comment
       })
       .then((snapshot) => {
+        console.log("walawala", snapshot)
         if (snapshot && snapshot.exists()) {
           var reply = snapshot.val()
           console.log("woo", reply)
