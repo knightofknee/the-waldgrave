@@ -1,8 +1,10 @@
 <template>
   <div>
     <div>log in to a book room: </div>
-    <input type="text" v-model="typedCode" placeholder="enter room code"/>
-    <button type="click" v-on:click="findRoom">enter</button>
+    <form v-on:submit.prevent="findRoom">
+      <input type="text" v-model="typedCode" placeholder="enter room code"/>
+      <button type="click">enter</button>
+    </form>
     <BookRoom v-if="bookComments.length && !hideRoom" v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
     <div v-if="hideRoom && roomCode.length > 0">
       {{roomCode}} - There is no room for this code

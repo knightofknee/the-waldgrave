@@ -4,6 +4,7 @@ import HelloWorld from '@/components/HelloWorld'
 import MyHomepage from '@/components/MyHomepage'
 import ReadTogether from '@/components/ReadTogether'
 import EndOfTheUniverse from '@/components/EndOfTheUniverse'
+import TeganAndSara from '@/components/TeganAndSara'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/endoftheuniverse',
       name: 'EndOfTheUniverse',
       component: EndOfTheUniverse
+    },
+    {
+      path: '/teganandsara',
+      name: 'TeganAndSara',
+      component: TeganAndSara
     }
   ]
 })
