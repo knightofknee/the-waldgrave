@@ -47,7 +47,7 @@ export default {
               replies: commentValues.replies})
           }
 
-          this.roomCode = this.typedCode // left off here
+          this.roomCode = this.typedCode
           this.hideRoom = false
           this.bookComments = temp
 

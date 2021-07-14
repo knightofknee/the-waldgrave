@@ -14,7 +14,7 @@
     <div v-if="hiddenCount === 0 && revealedComments.length > 0">There are no hidden comments</div> -->
     <br/>
   </div>
-  <CreateComment />
+  <CreateComment v-bind:roomCode="roomCode" />
   <div v-if="revealedComments.length > 0">
     <BookComment v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
   </div>
@@ -27,17 +27,17 @@ import CreateComment from './CreateComment'
 
 export default {
   name: 'BookRoom',
-  props: { roomCode: String, bookComments: [Object] },
+  props: { roomCode: String, bookComments: [{pageNumber: Number, author: String, test: String, replies: [{}]}] },
   components: { BookComment, CreateComment },
   data () {
     return {
-      pageNumber: 1
+      pageNumber: Number = 1
     }
   },
   computed: {
     revealedComments: function () {
       return this.bookComments.filter(comment =>
-        comment.pageNumber <= this.pageNumber)
+        parseInt(comment.pageNumber) <= parseInt(this.pageNumber))
     },
     hiddenCount: function () {
       return this.bookComments.length - this.revealedComments.length

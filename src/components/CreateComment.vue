@@ -40,12 +40,12 @@ export default {
       if (this.name.length < 3 || this.pageNumber == 0) return;
 
       this.disableSubmit = true;
-      firebase.database().ref("Books/" + this.roomCode + "/" + this.name + "/" + this.pageNumber + Date.now()).set({
-        name: this.name,
+      firebase.database().ref("Books/" + this.roomCode + "/" + Date.now()).set({
+        author: this.name,
         pageNumber: this.pageNumber,
-        comment: this.comment
+        text: this.comment
       })
-      .then((snapshot) => {
+      .then(snapshot => {
         console.log("walawala", snapshot)
         if (snapshot && snapshot.exists()) {
           var reply = snapshot.val()
