@@ -14,10 +14,11 @@
     <div v-if="hiddenCount === 0 && revealedComments.length > 0">There are no hidden comments</div> -->
     <br/>
   </div>
-  <CreateComment v-bind:roomCode="roomCode" />
   <div v-if="revealedComments.length > 0">
     <BookComment v-for="comment in revealedComments" :key="comment.id" v-bind:comment="comment"></BookComment>
   </div>
+  <br/>
+  <CreateComment v-bind:roomCode="roomCode" />
 </div>
 </template>
 

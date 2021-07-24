@@ -2,13 +2,14 @@
   <div>
     <div>log in to a book room: </div>
     <form v-on:submit.prevent="findRoom">
-      <input type="text" v-model="typedCode" placeholder="enter room code"/>
+      <input type="text" v-model="typedCode" placeholder="enter room code" />
       <button type="click">enter</button>
     </form>
     <BookRoom v-if="bookComments.length && !hideRoom" v-bind:roomCode="roomCode" v-bind:bookComments="bookComments"></BookRoom>
     <div v-if="hideRoom && roomCode.length > 0">
       {{roomCode}} - There is no room for this code
     </div>
+    <CreateBook v-if="hideRoom" />
     <!-- <div v-if="hideRoom && roomCode.length == 0">
       {{roomCode}} - There is no room for this code
     </div> -->
@@ -17,13 +18,14 @@
 
 <script>
 import BookRoom from './BookRoom'
-import axios from 'axios'
 import firebase from 'firebase/app'
+import CreateBook from './CreateBook'
 
 export default {
   name: 'ReadTogether',
   components: {
-    BookRoom
+    BookRoom,
+    CreateBook
   },
   data () {
     return {
