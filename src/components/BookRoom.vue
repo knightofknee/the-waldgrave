@@ -4,6 +4,9 @@
     Room Code: {{roomCode}}
   </div>
   <div>
+    Room Creator: {{roomCreator}}
+  </div>
+  <div>
     <div>Change the page number to reveal more comments: </div>
     <input type="number" v-model="pageNumber" placeholder="enter page number"/>
     <!-- <button type="click" v-on:click="findRoom">enter</button> -->
@@ -28,7 +31,7 @@ import CreateComment from './CreateComment'
 
 export default {
   name: 'BookRoom',
-  props: { roomCode: String, bookComments: [{pageNumber: Number, author: String, test: String, replies: [{}]}] },
+  props: { roomCode: String, bookComments: [{pageNumber: Number, author: String, test: String, replies: [{}]}], roomCreator: String },
   components: { BookComment, CreateComment },
   data () {
     return {

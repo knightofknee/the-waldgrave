@@ -52,12 +52,13 @@ export default {
         }
         else {
           console.log("in business") // is this the right way to add new data?
+          var roomCreator = this.creator.length > 0 ? this.creator : "anonymous"
           firebase.database().ref("Books/" + this.name).set({
-            creator: this.creator,
+            creator: roomCreator,
             password: this.password
           })
           .then(snapshot => {
-            console.log("walawala", snapshot.data)
+            console.log("walawala", snapshot)
 
             if (snapshot && snapshot.exists()) {
               var reply = snapshot.val()
