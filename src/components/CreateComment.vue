@@ -40,7 +40,7 @@ export default {
       if (this.name.length < 3 || this.pageNumber == 0) return;
 
       this.disableSubmit = true;
-      firebase.database().ref("Books/" + this.roomCode + "/" + Date.now()).set({
+      firebase.database().ref("Books/" + this.roomCode + "/Comments/" + Date.now()).set({
         author: this.name,
         pageNumber: this.pageNumber,
         text: this.comment

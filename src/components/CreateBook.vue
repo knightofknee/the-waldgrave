@@ -3,12 +3,16 @@
     <form v-on:submit.prevent="postBook"
     style="display:flex;flex-direction:column;align-items:flex-end;">Create a book room
       <div>
-        <label name="title">Book Name</label>
+        <label name="title">Book Name (required)</label>
         <input type="text" name="title" v-model="name" v-on:change="hideTaken" />
       </div>
       <div>
         <label name="password">Password</label>
         <input type="number" name="password" v-model="password" />
+      </div>
+      <div>
+        <label name="creator">Creator Name</label>
+        <input type="text" name="creator" v-model="creator" />
       </div>
       <button type="submit" :disabled="disableSubmit">submit</button>
     </form>
@@ -26,7 +30,8 @@ export default {
       name: '',
       password: '',
       disableSubmit: false,
-      taken: false
+      taken: false,
+      creator: ""
 
     }
   },
@@ -47,10 +52,9 @@ export default {
         }
         else {
           console.log("in business") // is this the right way to add new data?
-          firebase.database().ref("Books/" + this.name + "/" + Date.now()).set({
-            author: "system",
-            pageNumber: 1,
-            text: "first"
+          firebase.database().ref("Books/" + this.name).set({
+            creator: this.creator,
+            password: this.password
           })
           .then(snapshot => {
             console.log("walawala", snapshot.data)

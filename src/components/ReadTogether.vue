@@ -37,7 +37,7 @@ export default {
   },
   methods: {
     findRoom: function () {
-      firebase.database().ref("Books/" + this.typedCode).get()
+      firebase.database().ref("Books/" + this.typedCode + "/Comments").get()
       .then((snapshot) => {
         if (snapshot.exists()) {
           var currComments = snapshot.val()
