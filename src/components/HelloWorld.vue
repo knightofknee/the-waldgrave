@@ -30,6 +30,21 @@
         </p>
       </li>
     </ul>
+    <h2>What is the Waldgrave?</h2>
+    <ul>
+      <li>
+        <h4>Why is the Waldgrave?</h4>
+        <p>To promote regular crativity with friends in particular, and to promote  general ideation</p>
+      </li>
+      <li>
+        <h4>How is the Waldgrave?</h4>
+        <p>Through creativity, weird and effort. Creativity comes easy when you put in the effort to set up an environment where you want to be weird</p>
+      </li>
+      <li>
+        <h4>Who is the Waldgrave?</h4>
+        <p>You, or You and your friends, or You and some potential new friends</p>
+      </li>
+    </ul>
     <div>
       <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
     </div>
