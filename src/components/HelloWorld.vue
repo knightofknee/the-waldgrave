@@ -20,16 +20,14 @@
       <router-link to="/thepurplecircle"><img class="purple-circle" src="../assets/thepurplecircle.jpg"></router-link>
     </div>
     <h2>Goals</h2>
-    <ul>
-      <li>
         <!-- We are creatures of creation and expression, but our everyday
           lives do not always give us outlets, so we must create spaces that do.
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
           and to promote the creation and capture of ideas. -->
-        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave aims to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>, <router-link to="/readtogether"><img class="purple-circle">a bookclub app</router-link>, a notes app, fixing social security, reducing income equality and <router-link to="/endoftheuniverse">how to survive the heat death of the universe</router-link> (and a schedule-matching tool for finding best day of the week each week?)
+          <div>
+        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave aims to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>, <router-link to="/readtogether">a bookclub app</router-link>, a notes app, <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality and <router-link to="/endoftheuniverse">how to survive the heat death of the universe</router-link> (and a schedule-matching tool for finding best day of the week each week?)
         </p>
-      </li>
-    </ul>
+        </div>
     <h2>What is the Waldgrave?</h2>
     <ul>
       <li>
