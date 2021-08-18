@@ -42,6 +42,15 @@
         <h4>Who is the Waldgrave?</h4>
         <p>You, or You and your friends, or You and some potential new friends</p>
       </li>
+      <li>
+        <h4>What is Good?</h4>
+        <p>
+          Everything is Good, stop stressing the shoulds and worrying the woulds, can the coulds, everything is good.
+        </p>
+        <p>
+          On the cosmic level, we are insignificant and might not even have free will, so why should we spend so much time with judgements? I think the universe is a good thing, and we are a part of it. We are basically patterns, we can lean into the rest of the universe or pull back, and we can choose to observe more or less. We can learn from those interactions, but I don't see the need to judge a part of the universe for being how it is, even it is me. This brings us to the individual level. People exist as waves, constantly riding ups and downs. But we only observe people at one point at a time. This creates a perception issue, especially for people you don't know. Living in a city, the effect is heightened. If you are around a lot of people, it is expected that you will pass by people at the bottom or top of their waves regularly. If a good driver makes a small mistake once every 100 trips, but you are driving past 400 cars a day, expect to see at least 4 small mistakes. Everyone is driving a different spaceship through the same spacetime, the question becomes 'How does your wave interact with the waves aroud you?'
+        </p>
+      </li>
     </ul>
     <div>
       <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
