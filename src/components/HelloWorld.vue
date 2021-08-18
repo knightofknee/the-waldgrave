@@ -16,9 +16,9 @@
         <span>Effort</span>
       </li>
     </ul>
-    <div class="purple-circle-container">
+    <!-- <div class="purple-circle-container">
       <router-link to="/thepurplecircle"><img class="purple-circle" src="../assets/thepurplecircle.jpg"></router-link>
-    </div>
+    </div> -->
     <h2>Goals</h2>
         <!-- We are creatures of creation and expression, but our everyday
           lives do not always give us outlets, so we must create spaces that do.
