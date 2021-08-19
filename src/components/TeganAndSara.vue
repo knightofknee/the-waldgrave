@@ -15,6 +15,9 @@
     <p>
       full album lyrics breakdown?
     </p>
+    <div>
+      <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
+    </div>
   </div>
 </template>
 
