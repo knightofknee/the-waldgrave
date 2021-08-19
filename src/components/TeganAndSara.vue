@@ -1,10 +1,10 @@
 <template>
-  <div style="display:flex;justify-content:center">
+  <div style="display:flex;justify-content:center;flex-direction:column">
     <p>
       Introduce concept, self love in love songs between parts of oneself
     </p>
     <p>
-      https://youtu.be/wfYbgdo8e-8
+      The scientific foundation: https://youtu.be/wfYbgdo8e-8
     </p>
     <p>
       Discuss Carly Rae and the Sound, and discovery of Hey I'm just like You
