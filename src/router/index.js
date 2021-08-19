@@ -6,6 +6,7 @@ import ReadTogether from '@/components/ReadTogether'
 import EndOfTheUniverse from '@/components/EndOfTheUniverse'
 import TeganAndSara from '@/components/TeganAndSara'
 import SocialSecurityFix from '@/components/SocialSecurityFix'
+import ClimateChangeStrats from '@/components/ClimateChangeStrats'
 
 Vue.use(Router)
 
@@ -41,6 +42,11 @@ export default new Router({
       path: '/fixingsocialsecurity',
       name: 'SocialSecurityFix',
       component: SocialSecurityFix
+    },
+    {
+      path: '/climatechangestrats',
+      name: 'ClimateChangeStrats',
+      component: ClimateChangeStrats
     }
   ]
 })
