@@ -1,11 +1,12 @@
 <template>
-  <div style="display:flex;justify-content:center;flex-direction:column">
-    <p>
-      Introduce concept, self love in love songs between parts of oneself
-    </p>
-    <p>
-      The scientific foundation: https://youtu.be/wfYbgdo8e-8
-    </p>
+  <div style="display:flex;justify-content:center;flex-direction:column;align-items:center">
+    <h2>
+      'Hey I'm Just like You', the other You, and self love in love songs
+    </h2>
+    <h5>
+      The Scientific Foundation:
+    </h5>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wfYbgdo8e-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>
       Discuss Carly Rae and the Sound, and discovery of Hey I'm just like You
     </p>
