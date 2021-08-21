@@ -11,7 +11,7 @@ import ClimateChangeStrats from '@/components/ClimateChangeStrats'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     {
       path: '/',
@@ -47,6 +47,11 @@ export default new Router({
       path: '/climatechangestrats',
       name: 'ClimateChangeStrats',
       component: ClimateChangeStrats
-    }
+    },
+    {
+      path: '/*',
+      name: 'HelloWorld',
+      component: HelloWorld
+    },
   ]
 })
