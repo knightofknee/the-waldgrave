@@ -22,6 +22,50 @@
     <p>
       The core concept of this song confused me but it starts with brain concept (also found in The Fall) that the "we" we most associate with is a stream of consciousness. Not a single unbroken thought, but the cumulative thoughts that you pile up while awake. That is the immediate "you". This song is taking comfort in the temporary nature of feelings, that even if you feel bad now, another "you" will have a slightly different slate that they work with, and it isn't "your" problem now. If you hold your breath as long as you can, you pass out, lose consciousness, and other parts of your brain take over. When you "wake up", your brain has already been changed directly as it edits things during sleep.
     </p>
+    <h5>
+      Hey, I'm Just like You
+    </h5>
+    <p>text</p>
+    <h5>
+      I’ll Be Back Someday
+    </h5>
+    <p>text</p>
+    <h5>
+      Don’t Believe the Things They Tell You (They Lie)
+    </h5>
+    <p>text</p>
+    <h5>
+      Hello, I’m Right Here
+    </h5>
+    <p>text</p>
+    <h5>
+      I Don’t Owe You Anything
+    </h5>
+    <p>text</p>
+    <h5>
+      I Know I’m Not the Only One
+    </h5>
+    <p>text</p>
+    <h5>
+      Please Help Me
+    </h5>
+    <p>text</p>
+    <h5>
+      Keep Them Close ’Cause They Will Fuck You Too
+    </h5>
+    <p>text</p>
+    <h5>
+      We Don’t Have Fun When We’re Together Anymore
+    </h5>
+    <p>text</p>
+    <h5>
+      You Go Away and I Don’t Mind
+    </h5>
+    <p>text</p>
+    <h5>
+      All I Have to Give the World Is Me
+    </h5>
+    <p>text</p>
     <div>
       <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
     </div>
@@ -38,5 +82,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
+p {
+  margin: 0 5%;
+}
 
 </style>
