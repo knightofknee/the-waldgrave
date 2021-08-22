@@ -13,7 +13,7 @@
     </p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6o0EN7CoLao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>
-      At this time, I was listening to 'Hey I'm Just like You' on repeat often, and after I heard a lyric in this light, I couldn't not hear it. Maybe parts of this are obvious, but I argue that every character in this album is a different part of the same person, the person singing and the audience. To demonstrate, I will break down the key lyrics from each song below. One important item to note is the nature of this album. Tegan and Sara took material from their high school days and made music with the help of that. They wrote this album right as they were approaching the age of 40. Turning 30 soon myself, I vibe with the material. They are talking about how to grow with yourself, a midlife crisis of sorts, from the persective of a high schooler and a 40-year old simultaneously, making it a timeless discussion of growth.
+      At this time, I was listening to 'Hey I'm Just like You' on repeat often, and after I heard a lyric in this light, I couldn't not hear it. Maybe parts of this are obvious, but I argue that every character in this album is a different part of the same person, the person singing and the audience. To demonstrate, I will break down the key lyrics from each song below. One important item to note first is the nature of this album. Tegan and Sara took material from their high school days and made music with the help of that. They wrote this album right as they were approaching the age of 40. Turning 30 soon myself, I vibe with the material. They are talking about how to grow with yourself, a midlife crisis of sorts, from the persective of a high schooler and a 40-year old simultaneously. Your relationship with yourself is the center of this album. The plot that ties the songs together is this self relationship evolving over time.
       <!-- Start going through the songs in order, hitting highlights -->
     </p>
     <h5>
@@ -25,35 +25,47 @@
     <h5>
       Hey, I'm Just like You
     </h5>
-    <p>text</p>
+    <p>
+      "Stranded and I'm so lost, my mind is wired
+Overcome and overdone, my fate is on fire
+Eat the drugs and dance to screaming in my head
+I'm so happy that we're friends, me and you"
+    </p>
+    <p>
+      "Together in the light, I swear all for you
+Tonight in the dark, we're seeing colors"
+    </p>
+    <p>
+      The first other 'self' we are introduced is the confident, drug-fueled self. T&amp;S have talked before about their LSD use when they were young. A litte messed up and unsure of yourself, you lean on this version of yourself, it's "fun you". As the chorus emphasizes, there is a lot of power in this self.
+    </p>
     <h5>
       I’ll Be Back Someday
     </h5>
-    <p>text</p>
+    <p>Now our main character is bored with their current/past self, and they are boldly going outward. They are not killing their past self necessarily, but they are ditching it in any direction, like an animal in a trap. they have found that they have been lying to themselves, and know that to get to where they want to be, they can't stay here</p>
     <h5>
       Don’t Believe the Things They Tell You (They Lie)
     </h5>
-    <p>text</p>
+    <p>This song directly talks about a struggle with self love in the verses. The chorus discusses lying, pushing you to learn for yourself, question everything even if it is coming from yourself.</p>
     <h5>
       Hello, I’m Right Here
     </h5>
-    <p>text</p>
+    <p>This song goes back to the consciousness theme of the first song. 'Until I've done all that I can', that until could refer to until the day is over. "Hello, I'm right here" is the answer to that potential 'death', fully embracing the present</p>
     <h5>
       I Don’t Owe You Anything
     </h5>
-    <p>text</p>
+    <p>The struggle is full-fledged, the MC has reverted back in their ways many times, but is trying to cast off their past self. They have reached a limit.</p>
     <h5>
       I Know I’m Not the Only One
     </h5>
-    <p>text</p>
+    <p>This song is honoring the different 'selves', and moving on despite it.</p>
     <h5>
       Please Help Me
     </h5>
-    <p>text</p>
+    <p>"wh hurting in the struggle, opening up about doubts, finally vulnerable. "needed a plaace to rst my head</p>
     <h5>
       Keep Them Close ’Cause They Will Fuck You Too
     </h5>
-    <p>text</p>
+    <p>Here we start to solve the problem. Starting something new can be hard. But now we have a self that is helpful. It seems to be that inner self from before, but now evolved.</p>
     <h5>
       We Don’t Have Fun When We’re Together Anymore
     </h5>
