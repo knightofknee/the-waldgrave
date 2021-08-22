@@ -61,7 +61,7 @@ Tonight in the dark, we're seeing colors"
     <h5>
       Please Help Me
     </h5>
-    <p>"wh hurting in the struggle, opening up about doubts, finally vulnerable. "needed a plaace to rst my head</p>
+    <p>In the struggle to be who they want to be, she is facing the fear of failure and not sure how to proceed. "needed a plaace to rest my head", she is embracing this current self that is giving her some ground to stand on, a foundation. "who am I to disagree? who am I to fall apart?" I resonate with this line because reality is what it is, acceptance is just part of observing reality objectively, what do you achieve by making yourself feel bad about what you do 'wrong'? You can learn like reading a book about someone else, but overly judging yourself doesn't do anything productive. You can just live as best you can. </p>
     <h5>
       Keep Them Close ’Cause They Will Fuck You Too
     </h5>
@@ -69,15 +69,47 @@ Tonight in the dark, we're seeing colors"
     <h5>
       We Don’t Have Fun When We’re Together Anymore
     </h5>
-    <p>text</p>
+    <p>The title describes the stage in the relationship with the youthful and/or drug-related persona. She is tired of her own bullshit. It also has the angle of the inner right brain (RB) talking to her. She is tired of the drinking, tired of all the crap she is doing that never takes the time to enjoy her own mind. She is only ever bored and then trying to do something else.</p>
     <h5>
       You Go Away and I Don’t Mind
     </h5>
-    <p>text</p>
+    <p>The stage of acceptance is here, she is ready to leave her past self behind. She still feels the same way, but wants to grow. "it's your mind that makes you mine" describes the relationship of RB on the nose, RB is singing to you and is linked literally by your mind.</p>
     <h5>
       All I Have to Give the World Is Me
     </h5>
-    <p>text</p>
+    <p>"Faced Myself in the Mirror Last night, I looked for things you said you liked
+The person I am when no one's around,
+The girl I don't want to be found"</p>
+<p>(chorus)</p>
+<p>
+  "All I have to give this world is me, and that's it
+All I have to show this world is me, and that's it
+Just me, just me, just me
+And that's it"
+</p>
+"Convinced myself not to be so strange
+I hope I still take your breath away
+I look in the mirror, I see the face
+The one who worries, it can change
+You don't have to change, you don't have to change
+You don't have to change"
+
+<p>
+  "Staring down my two halves in the glass
+Feels like a heart attack
+Telling me to choose one or the other
+I get so panicked
+I don't wanna lose, but if I choose love
+What will happen then?
+Staring down my two halves in the glass
+What then?
+Go ahead and choose, go ahead and choose
+Go ahead and choose"
+
+</p>
+<p>
+  That's kind of most of the song, but it all seems to finally be explicitly talking about her two inner selves, her inner (RB) self and the active consciousness that is her. The chorus brings home the idea of embracing yourself as you are, and being yourself unabashedly.
+</p>
     <div>
       <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
     </div>
