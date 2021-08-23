@@ -7,7 +7,7 @@ import EndOfTheUniverse from '@/components/EndOfTheUniverse'
 import TeganAndSara from '@/components/TeganAndSara'
 import SocialSecurityFix from '@/components/SocialSecurityFix'
 import ClimateChangeStrats from '@/components/ClimateChangeStrats'
-import Brainstree from '@/component/Brainstree'
+import Brainstree from '@/components/Brainstree'
 
 Vue.use(Router)
 
@@ -52,7 +52,7 @@ export default new Router({
     {
       path:'/brainstree',
       name: 'Brainstree',
-      component: BrainsTree
+      component: Brainstree
     },
     {
       path: '/*',
