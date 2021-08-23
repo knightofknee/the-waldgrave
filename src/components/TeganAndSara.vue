@@ -36,7 +36,7 @@ I'm so happy that we're friends, me and you"
 Tonight in the dark, we're seeing colors"
     </p>
     <p>
-      The first other 'self' we are introduced is the confident, drug-fueled self. T&amp;S have talked before about their LSD use when they were young. A litte messed up and unsure of yourself, you lean on this version of yourself, it's "fun you". As the chorus emphasizes, there is a lot of power in this self.
+      The first other 'self' we are introduced is the confident, drug-fueled self. T&amp;S have talked before about their LSD use when they were young. A litte messed up and unsure of yourself, you lean on this version of yourself, it's "fun you". As the chorus emphasizes, there is a lot of power in this full embracement of self that the lifestyle enables.
     </p>
     <h5>
       I’ll Be Back Someday
