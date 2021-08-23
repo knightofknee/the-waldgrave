@@ -7,7 +7,7 @@ import EndOfTheUniverse from '@/components/EndOfTheUniverse'
 import TeganAndSara from '@/components/TeganAndSara'
 import SocialSecurityFix from '@/components/SocialSecurityFix'
 import ClimateChangeStrats from '@/components/ClimateChangeStrats'
-import Brainstree from '@/component/BrainsTree'
+import Brainstree from '@/component/Brainstree'
 
 Vue.use(Router)
 
