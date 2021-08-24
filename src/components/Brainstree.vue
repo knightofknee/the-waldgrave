@@ -1,7 +1,7 @@
 <template>
   <div style="display:flex;justify-content:center;flex-direction:column;align-items:center">
     <h2>
-      (Notes app under initial construction. Below I will be adding notes of my own that I think are share-worthy, as I do so I hope to edit the site to my liking. As I gain users, I will look to create options and alternative versions to optimize to other tastes. Like the Netflix algorithm that found most people fall into 18 or so categories for movie taste, I hope to find trends so I can provide a combination of ease of use and customization)
+      (Notes app under initial construction. Below I will be adding notes of my own that I think are share-worthy (Brain's tree), as I do so I hope to edit the site to my liking. As I gain users, I will look to create options and alternative versions to help optimize to how others take notes (and to form a larger Brains tree). Like the Netflix algorithm that found most people fall into 18 or so categories for movie taste, I hope to find trends so I can provide a combination of ease of use and customization 8)
     </h2>
     <h5>
       Meditation:
@@ -10,10 +10,16 @@
       Meditation might be as old as 7,000 years old. It is an exercise for the brain that has stood the test of time because it happens to work. It is also our only real direct exercise for the brain. You can do indirect things, like read or paint or improve your motor skills, but these are all indirect. Like you want to be fast but only play pickup basketball, you get in better shape but your heart health and speed would be much better if you did a running exercise, and you'd get in better shape while using less time. Or you want big biceps so you decide to carry boxes every day. It helps you be stronger, definitely, but it is not targeting the biceps like a lifting exercise could. Again, there is only ONE (please correct me if I'm wrong, mindfulness is kind of the same thing but I digress) surefire exercise for your brain; Meditation. After doing it just 5 minutes a day for a few weeks, there is observable growth in the prefrontal cortex. That's like the executive decision part of your brain, it's a big part of where "you" as in your consciousness resides. (how to meditate: sit with good posture (if possible), breathe through your nose, and count your breaths up to 5. After 5 or if you forget where you were, start over. As thoughts come to you, gently acknowledge where they are coming from and let them go, focus back on your breath. Thoughts that are harder to shake are like heavier weights. By struggling against them, you are working harder than when it is easy, so don't be discouraged. Focus on your breath like you haven't observed it before. When a kid is young, they see a brick wall it is interesting, later they learn that it is just another wall. Our brains are the same, just with different settings. You can choose to focus on a wall intently, and your brain can behave in similar ways to that of a learning child. In meditation, you pay attention to your breath, these physical sensations that you "feel" all of the time but do not pay attention to. Try to feel the air coming in your nose and into your lungs, or the way your chest rises and falls, or any other detail you can find. Focus your intent on your breath like Sauron's eye looking for Frodo)
     </p>
     <h5>
-      Next:
+      Christopher Columbus Conspiracy: One units mistake and a journey across the world?, or one units mistake and a heist partway across the world?
     </h5>
     <p>
-      (placeholder)
+      Intro for how I got interested, then story about Japan, then Lief Erickson, then Eristophanes, then circle back, make claim
+    </p>
+    <h5>
+      Yoga
+    </h5>
+    <p>
+      I can only speak from experience, but if you are inflexible, daily yoga (10 minutes a day can suffice) has great quality of life benefits. I'm nearing 3 months of trying it and I feel I can comfortably sit with close to ideal posture on my sitbones. A yoga instructor once said that in a class, 'sitbones', and I had no clue what it even meant. To sit as she was suggesting, I had to twist my then-inflexible body in a way that seemed quite unnatural and uncomfortable. But as I have stretched, I've become more aware of my body mechanics. I don't have aches and pains outside of a heavy lifting day. Walking and running still mystify me, honestly, it's really like you're swinging two golf clubs simultaneously, except you also have the flick of a wrist motion of your foot itself as well. There are many variables and many good enough solutions. If walking was so simple, there wouldn't be any bow-legged people, and everyone would walk similarly. Running takes it to another level by increasing the range of possibilities. At full speed, Usain Bolt is doing what looks like a butt kick and high knees at the same time. But I digress, yoga/stretching is like meditation, your body responds well to the consistency. The "time" you lose each day is well-past saved by the stable building process, 6 days of 10 minutes a day of yoga will do more for you than one 60 minute yoga session, and those 10 minutes can be flexibly scheduled wherever.
     </p>
   </div>
 </template>
