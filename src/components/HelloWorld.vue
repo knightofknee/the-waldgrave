@@ -32,23 +32,22 @@
       <img style="width:3rem;" src="../assets/thew1.png">
     </div>
     <h2>What is the Waldgrave?</h2>
-    <ul>
-      <li>
+      <div>
         <h4>Why is the Waldgrave?</h4>
         <p>To promote regular crativity with friends in particular, and to promote  general ideation</p>
-      </li>
-      <li>
+      </div>
+      <div>
         <h4>How is the Waldgrave?</h4>
         <p>Through creativity, weird and effort. Creativity comes easy when you put in the effort to set up an environment where you want to be weird</p>
-      </li>
-      <li>
+      </div>
+      <div>
         <h4>Who is the Waldgrave?</h4>
         <p>You, or You and your friends, or You and some potential new friends</p>
-      </li>
-      <li>
+      </div>
+      <div>
         <img style="width:3rem;" src="../assets/thew2.png">
-      </li>
-      <li>
+      </div>
+      <div>
         <h4>What is Good?</h4>
         <p>
           Everything is Good, stop stressing the shoulds and worrying the woulds, can the coulds, everything is good.
@@ -59,8 +58,7 @@
         <p>
           Additionally, it is imperative that you fully acknowledge that you are a biological computer that is constantly re-programming itself based on neural paths taken. We have limited processing power. We think in a very indirect, complicated neural net, but if your complicated neural net is fully occupied, it cannot do other things. That's part of the power of meditation, bringing yourself out of trains of thought that you don't want to ride. Being positive isn't only about helping others, primarily it helps your own brain.
         </p>
-      </li>
-    </ul>
+      </div>
   </div>
   </div>
 </template>
