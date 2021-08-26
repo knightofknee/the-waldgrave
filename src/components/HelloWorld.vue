@@ -45,7 +45,7 @@
         <p>You, or You and your friends, or You and some potential new friends</p>
       </div>
       <div>
-        <img style="width:3rem;" src="../assets/thew2.png">
+        <img style="width:2rem;" src="../assets/thew2.png">
       </div>
       <div>
         <h4>What is Good?</h4>
