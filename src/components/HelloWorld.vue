@@ -46,6 +46,9 @@
         <p>You, or You and your friends, or You and some potential new friends</p>
       </li>
       <li>
+        <img style="width:3rem;" src="../assets/thew2.png">
+      </li>
+      <li>
         <h4>What is Good?</h4>
         <p>
           Everything is Good, stop stressing the shoulds and worrying the woulds, can the coulds, everything is good.
