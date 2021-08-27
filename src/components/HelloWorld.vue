@@ -38,11 +38,16 @@
       </div>
       <div>
         <h4>How is the Waldgrave?</h4>
-        <p>Through creativity, weird and effort. Creativity comes easy when you put in the effort to set up an environment where you want to be weird</p>
+        <p>Through creativity, weird and effort. Creativity comes easy when you put in the effort to set up an environment where you can comfortably be weird</p>
       </div>
       <div>
         <h4>Who is the Waldgrave?</h4>
         <p>You, or You and your friends, or You and some potential new friends</p>
+      </div>
+      <div>
+        <h4>What is a Wacky Wednesday</h4>
+        <p>It is a recurring event in which you and some friends* gather together for some creativity and socializing. It is recommended that each Wacky Wednesday have a 'pack leader', someone who has prepared a main creative event for everyone to participate in. Any variation on this model ensures there is some structure. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group be better with the "yes and..." philosphy. </p>
+        <p>*works individually as well</p>
       </div>
       <div>
         <img style="width:2rem;" src="../assets/thew2.png">
