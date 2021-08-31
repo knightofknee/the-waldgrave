@@ -1,4 +1,5 @@
 <template>
+<div id="newOuterShell" style="display:flex;justify-content:center;align-items:center;">
   <div style="display:flex;justify-content:center;flex-direction:column;align-items:center">
     <h2>
       'Hey I'm Just like You', the other You, and self love in love songs
@@ -19,6 +20,7 @@
     <h5>
       Hold My Breath Until I Die
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>
       The core concept of this song confused me but it starts with brain concept (also found in The Fall) that the "we" we most associate with is a stream of consciousness. Not a single unbroken thought, but the cumulative thoughts that you pile up while awake. That is the immediate "you". This song is taking comfort in the temporary nature of feelings, that even if you feel bad now, another "you" will have a slightly different slate that they work with, and it isn't "your" problem now. If you hold your breath as long as you can, you pass out, lose consciousness, and other parts of your brain take over. When you "wake up", your brain has already been changed directly as it edits things during sleep. This starts our story by establishing that the MC is curious about how the brain works and is interested in manipulating it because of some level of struggle.
     </p>
@@ -114,13 +116,35 @@ Go ahead and choose"
       <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
     </div>
   </div>
+  <div v-if="song.length > 0" style="position:-webkit-sticky;position:sticky;top:0;bottom:0;">
+    <Song v-bind:song="song"/>
+  </div>
+  </div>
 </template>
 
 <script>
+import songsData from '../assets/TandSSongs'
+import Song from './Song'
 
 export default {
   name: 'TeganAndSara',
-  props: { }
+  props: { },
+  data () {
+    return {
+      songs: songsData,
+      song: ''
+    }
+  },
+  methods: {
+    showLyrics: function(title) {
+      console.log("yahooll", title, "-wee-", this.songs)
+
+      var newSong = this.songs.find(x => x.title == title);
+console.log("yahoo2", newSong.lyrics, "-", newSong['lyrics'])
+      if (newSong != undefined) this.song = newSong.lyrics
+    }
+  },
+  components: Song
 }
 </script>
 
@@ -132,6 +156,6 @@ p {
 }
 
 iframe {
-  margin: 0 2%;
+  margin: 2% 0;
 }
 </style>
