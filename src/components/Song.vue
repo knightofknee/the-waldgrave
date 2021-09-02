@@ -1,6 +1,6 @@
 <template>
-  <div v-if="comment.pageNumber > 0" style="display:flex;flexDirection:column;justifyContent:center">
-    {{song}}
+  <div style="display:flex;flexDirection:column;justifyContent:center">
+    Lyrics: {{song}}
   </div>
 </template>
 

@@ -27,6 +27,7 @@
     <h5>
       Hey, I'm Just like You
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>
       "Stranded and I'm so lost, my mind is wired
 Overcome and overdone, my fate is on fire
@@ -43,42 +44,52 @@ Tonight in the dark, we're seeing colors"
     <h5>
       I’ll Be Back Someday
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>Now our main character is bored with their current/past self, and they are boldly going outward. They are not killing their past self necessarily, but they are ditching it in any direction, like an animal in a trap. they have found that they have been lying to themselves, or not living up to their own expectations and know that to get to where they want to be, they can't stay here. We hit a fun-damental problem with the brain and consciousness: it is fully shaped by the past, it wants to guess the future, and it only exists in the now. Knowing what she knows about  </p>
     <h5>
       Don’t Believe the Things They Tell You (They Lie)
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>This song directly talks about a struggle with self love in the verses. The chorus discusses lying, pushing you to learn for yourself, question everything even if it is coming from yourself. The "They" in the title is both the voices of other people and the inner voices of the MC. In terms of brain science, thoughts and feelings aren't really directly controllable, only how we react to them. MC feels burned by their brain in its current state, and is trying to reevaluate her relationship with her brain. </p>
     <h5>
       Hello, I’m Right Here
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>This song goes back to the consciousness theme of the first song. 'Until I've done all that I can', that until could refer to until the day is over. "Hello, I'm right here" is the answer to that potential 'death', fully embracing the present</p>
     <h5>
       I Don’t Owe You Anything
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>The struggle is full-fledged, the MC has reverted back in their ways many times, but she have reached a limit. She trying to cast off her past self, still acknowledging how she wants to go back to that lifestyle. She is announcing her departure.</p>
     <h5>
       I Know I’m Not the Only One
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>This song is honoring the different 'selves', and moving on despite it. There is a duet here, maybe this is the most complicated song. ( they give it away with the 'yours' to 'my' words I think, follow up on it)</p>
     <h5>
       Please Help Me
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>In the struggle to be who they want to be, she is facing the fear of failure and not sure how to proceed. "needed a plaace to rest my head", she is embracing this current self that is giving her some ground to stand on, a foundation. "who am I to disagree? who am I to fall apart?" I resonate with this line because reality is what it is, acceptance is just part of observing reality objectively, what do you achieve by making yourself feel bad about what you do 'wrong'? You can learn like reading a book about someone else, but overly judging yourself doesn't do anything productive. You can just live as best you can. (wanted something better than this) She is facing the doubts while being thankful "who am I disagree" really does hit well, she is thankful for who she has been and the comforting music makes it sound like the comfort is working against the doubts</p>
     <h5>
       Keep Them Close ’Cause They Will Fuck You Too
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>Here we start to solve the problem. Starting something new can be hard. But now we have a self that is helpful. It seems to be that inner self from before, but now evolved. Instead of working against her inner selves, she is incorporating them in herself a bit.</p>
     <h5>
       We Don’t Have Fun When We’re Together Anymore
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>The title describes the stage in the relationship with the youthful and/or drug-related persona. She is tired of her own bullshit. It also has the angle of the inner right brain (RB) talking to her. She is tired of the drinking, tired of all the crap she is doing that never takes the time to enjoy her own mind. She is only ever bored and then trying to do something else. Now RB is taunting her. "I wouldn't let you get this way this time, get lost this time' 'what you gonna do whe you wae up in someone else's head?''All we get when we get together is bored'. Her relationship with herself is at its lowpoint. She is stuck, "close my eyes and fall behind". </p>
     <h5>
       You Go Away and I Don’t Mind
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>The stage of acceptance is here, she is ready to leave her past self behind. She still feels the same way, but wants to grow. "it's your mind that makes you mine" describes the relationship of RB on the nose, RB is singing to her here. As much as she wants to leave this part of herself in the past, it's all just parts of her brain. She can leave memories and thoughts in the past, even if they are part of how she became who she is. </p>
     <h5>
       All I Have to Give the World Is Me
     </h5>
+    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
     <p>"Faced Myself in the Mirror Last night, I looked for things you said you liked
 The person I am when no one's around,
 The girl I don't want to be found"</p>
@@ -116,7 +127,7 @@ Go ahead and choose"
       <div id='rg_embed_link_4726856' class='rg_embed_link' data-song-id='4726856'>Read <a href='https://genius.com/Tegan-and-sara-hold-my-breath-until-i-die-lyrics'>“Hold My Breath Until I Die” by Tegan and Sara</a> on Genius</div> <script crossorigin src='//genius.com/songs/4726856/embed.js'></script>
     </div>
   </div>
-  <div v-if="song.length > 0" style="position:-webkit-sticky;position:sticky;top:0;bottom:0;">
+  <div style="position:-webkit-sticky;position:sticky;top:0;bottom:0;">
     <Song v-bind:song="song"/>
   </div>
   </div>
@@ -144,7 +155,7 @@ console.log("yahoo2", newSong.lyrics, "-", newSong['lyrics'])
       if (newSong != undefined) this.song = newSong.lyrics
     }
   },
-  components: Song
+  components: { Song }
 }
 </script>
 
