@@ -128,7 +128,7 @@ Go ahead and choose"
     </div>
   </div>
   <div style="position:-webkit-sticky;position:sticky;top:0;bottom:0;">
-    <Song v-bind:song="song"/>
+    <Song v-bind:lyrics="song"/>
   </div>
   </div>
 </template>
@@ -143,7 +143,7 @@ export default {
   data () {
     return {
       songs: songsData,
-      song: ''
+      song: ['']
     }
   },
   methods: {
