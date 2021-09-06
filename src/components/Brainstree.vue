@@ -21,6 +21,13 @@
     <p>
       I can only speak from experience, but if you are inflexible, daily yoga (10 minutes a day can suffice) has great quality of life benefits. I'm nearing 3 months of trying it and I feel I can comfortably sit with close to ideal posture on my sitbones. A yoga instructor once said that in a class, 'sitbones', and I had no clue what it even meant. To sit as she was suggesting, I had to twist my then-inflexible body in a way that seemed quite unnatural and uncomfortable. But as I have stretched, I've become more aware of my body mechanics. I don't have aches and pains outside of a heavy lifting day. Walking and running still mystify me, honestly, it's really like you're swinging two golf clubs simultaneously, except you also have the flick of a wrist motion of your foot itself as well. There are many variables and many good enough solutions. If walking was so simple, there wouldn't be any bow-legged people, and everyone would walk similarly. Running takes it to another level by increasing the range of possibilities. At full speed, Usain Bolt is doing what looks like a butt kick and high knees at the same time. But I digress, yoga/stretching is like meditation, your body responds well to the consistency. The "time" you lose each day is well-past saved by the stable building process, 6 days of 10 minutes a day of yoga will do more for you than one 60 minute yoga session, and those 10 minutes can be flexibly scheduled wherever.
     </p>
+    <h5>
+      Arm massaging for lifting
+    </h5>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jx-Bw97XHoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>
+      I've had problems with lifting and basketball causing elbow pain. I'm hoping to get similar benefits from this as I do from yoga, to improve muscle growth and flexibility. I think it makes your other work more efficient and prevents injury. Will report back
+    </p>
   </div>
 </template>
 
