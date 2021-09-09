@@ -8,6 +8,7 @@ import TeganAndSara from '@/components/TeganAndSara'
 import SocialSecurityFix from '@/components/SocialSecurityFix'
 import ClimateChangeStrats from '@/components/ClimateChangeStrats'
 import Brainstree from '@/components/Brainstree'
+import PresidentialPlans from '@/components/PresidentialPlans'
 
 Vue.use(Router)
 
@@ -55,9 +56,14 @@ export default new Router({
       component: Brainstree
     },
     {
+      path:'/presidentialplans',
+      name: 'PresidentialPlans',
+      component: PresidentialPlans
+    },
+    {
       path: '/*',
       name: 'HelloWorld',
       component: HelloWorld
-    },
+    }
   ]
 })

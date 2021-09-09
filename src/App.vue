@@ -39,4 +39,8 @@ import 'firebase/auth'
   color: #2c3e50;
 }
 
+p {
+  margin: 0 5%;
+}
+
 </style>
