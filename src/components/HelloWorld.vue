@@ -50,7 +50,9 @@
         <p>*works individually as well</p>
       </div>
       <div>
-        <img style="width:2rem;" src="../assets/thew2.png">
+        <router-link to="/story">
+          <img style="width:2rem;" src="../assets/thew2.png">
+        </router-link>
       </div>
       <div>
         <h4>What is Good?</h4>

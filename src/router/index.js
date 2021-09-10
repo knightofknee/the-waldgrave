@@ -9,6 +9,7 @@ import SocialSecurityFix from '@/components/SocialSecurityFix'
 import ClimateChangeStrats from '@/components/ClimateChangeStrats'
 import Brainstree from '@/components/Brainstree'
 import PresidentialPlans from '@/components/PresidentialPlans'
+import Story from '@/components/Story'
 
 Vue.use(Router)
 
@@ -59,6 +60,11 @@ export default new Router({
       path:'/presidentialplans',
       name: 'PresidentialPlans',
       component: PresidentialPlans
+    },
+    {
+      path:'/story',
+      name: 'Story',
+      component: Story
     },
     {
       path: '/*',

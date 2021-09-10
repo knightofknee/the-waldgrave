@@ -25,7 +25,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped lang="scss">
+<style scoped >
   .hr {
 
     width: 100%;
@@ -35,7 +35,7 @@ export default {
     margin-bottom: 0em;
     padding: 2em 0;
 
-    &:after,
+    /* &:after,
     &:before {
 
         content: "";
@@ -85,14 +85,14 @@ export default {
         0% { background-position: 0%; }
         100% { background-position: 200%; }
 
-    }
+    } */
 
 }
 
 
 
 
-.hr.anim {
+/* .hr.anim {
     &:before {
         background: linear-gradient(
             90deg,
@@ -133,5 +133,5 @@ export default {
             animation-duration: 2s;
         }
     }
-}
+} */
 </style>
