@@ -6,8 +6,8 @@ const history = require('connect-history-api-fallback');
 app = express();
 app.use(serveStatic(__dirname + "/dist"));
 
-app.get('/.well-known/acme-challenge/sJ6wHrFRc81C9_XJGEWXsiOupFuGXYYJlIYOrCmXims', (req, res) => {
-  res.send(`sJ6wHrFRc81C9_XJGEWXsiOupFuGXYYJlIYOrCmXims.qrcQEr-yX_-d1mMWDJ7MxPeZpMknbyClWtwLuisGXV4`)
+app.get('/.well-known/acme-challenge/RhOO0oMxnE7HkNsxDhX5ldcdF4SIhMu3D0xte5XsoT4', (req, res) => {
+  res.send(`RhOO0oMxnE7HkNsxDhX5ldcdF4SIhMu3D0xte5XsoT4.qrcQEr-yX_-d1mMWDJ7MxPeZpMknbyClWtwLuisGXV4`)
 });
 
 app.get('/test', (req, res) => {
