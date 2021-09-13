@@ -10,6 +10,10 @@ app.get('/.well-known/acme-challenge/sJ6wHrFRc81C9_XJGEWXsiOupFuGXYYJlIYOrCmXims
   res.send(`sJ6wHrFRc81C9_XJGEWXsiOupFuGXYYJlIYOrCmXims.qrcQEr-yX_-d1mMWDJ7MxPeZpMknbyClWtwLuisGXV4`)
 });
 
+app.get('/test', (req, res) => {
+  res.send(`wooo`)
+});
+
 var port = process.env.PORT || 5000;
 app.use(history()).listen(port);
 console.log('server started '+ port);
