@@ -171,5 +171,14 @@ export default [
   But I'll be back someday
   I'll be back someday
   But I'll be back someday
-  I'll be back someday`]}
+  I'll be back someday`]},
+  { title: `Don’t Believe the Things They Tell You (They Lie)`, lyrics: [``]},
+  { title: `Hello, I’m Right Here`, lyrics: [``]},
+  { title: `I Don’t Owe You Anything`, lyrics: [``]},
+  { title: `I Know I’m Not the Only One`, lyrics: [``]},
+  { title: `Please Help Me`, lyrics: [``]},
+  { title: `Keep Them Close ’Cause They Will Fuck You Too`, lyrics: [``]},
+  { title: `We Don’t Have Fun When We’re Together Anymore`, lyrics: [``]},
+  { title: `You Go Away and I Don’t Mind`, lyrics: [``]},
+  { title: `All I Have to Give the World Is Me`, lyrics: [``]}
 ]
