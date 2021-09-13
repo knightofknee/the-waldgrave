@@ -27,7 +27,7 @@
     <h5>
       Hey, I'm Just like You
     </h5>
-    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
+    <button type="click" v-on:click="showLyrics(`Hey, I'm Just like You`)" >show lyrics</button>
     <p>
       "Stranded and I'm so lost, my mind is wired
 Overcome and overdone, my fate is on fire
@@ -44,7 +44,7 @@ Tonight in the dark, we're seeing colors"
     <h5>
       I’ll Be Back Someday
     </h5>
-    <button type="click" v-on:click="showLyrics('Hold My Breath Until I Die')" >show lyrics</button>
+    <button type="click" v-on:click="showLyrics('I’ll Be Back Someday')" >show lyrics</button>
     <p>Now our main character is bored with their current/past self, and they are boldly going outward. They are not killing their past self necessarily, but they are ditching it in any direction, like an animal in a trap. they have found that they have been lying to themselves, or not living up to their own expectations and know that to get to where they want to be, they can't stay here. We hit a fun-damental problem with the brain and consciousness: it is fully shaped by the past, it wants to guess the future, and it only exists in the now. Knowing what she knows about  </p>
     <h5>
       Don’t Believe the Things They Tell You (They Lie)
@@ -134,6 +134,9 @@ Go ahead and choose"
 </template>
 
 <script>
+
+// strats:
+// the quotes get in the way, need to refer to them as you scroll, +  a lock lyrics functionality
 import songsData from '../assets/TandSSongs'
 import Song from './Song'
 
@@ -170,3 +173,4 @@ iframe {
   margin: 2% 0;
 }
 </style>
+
