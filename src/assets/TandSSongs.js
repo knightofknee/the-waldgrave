@@ -1,4 +1,3 @@
-import { text } from "express"
 
 export default [
   {title: 'Hold My Breath Until I Die', lyrics: [`[Verse 1]
