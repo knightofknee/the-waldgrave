@@ -3,12 +3,32 @@
 
 <h3>Chapter 1</h3>
   <p>
-    I knew what I had found, or at least I knew I had found something. I was convinced, by my own personal experience and by my limited knowledge of neurology. Once upon a time, it was thought that the heart was where the 'soul' or conscousness resided. Now we say it is the brain. But we know that there is a lot that the brain does that our direct consciousness is not involved in, breathing, sleep, balance, regulation of the pumping of blood, translating stimuli, etc. It starts to add up to a lot of the brain, so to call ourselves the brain is inaccurate. We are more the activity of a certain region of the brain, connected to the rest, that serves as the chief executive of the brain (CEB?). The primary region that is us is the Prefrontal Cortex. It's part of the NeoCortex. Higher thought, incidentally, is found higher in the brain and that upper region of the brain where I found 'them'. I use 'them' or RB (right brain) to describe the potential other conscousness(es) in my brain. We, as the executives, are the only ones with the keys to spaceship that is your body. They are stuck inside, maybe able to see out a port, maybe not. In particular I refer to right brain, as that is where the neuroscience led me. If you perform a lobotomy on someone, if you cut the connection between left and right, the brain does strangely well. The person isn't obviously different, but their two sides exhibit different conscousnesses. Set up a sight-blocker beween the test subject's eyes, so left side is separate, they can't see the same things. Show the person's left eye a note saying 'pick up the red ball with your right hand', the subject will pick up the red ball. Asked why they picked up the red ball, they make up a reason, they don't know that they were shown the note, but their brain made up a reason for them. Now consider again, for these procedures, they were tested not long after, they didn't have growth spurred by massive loss. Implying, their brains operated in some similar fashion prior. Are these separate pieces of consciousness divided? Does your brain dream without you? What is my relationship with my potential hostage/partner consciousness? Those were the questions I set out with, and I think it's about time I share the truth of what I found.
+    I knew what I had found, or at least I knew I had found something. I was convinced, by my own personal experience and by my limited knowledge of neurology. Once upon a time, it was thought that the heart was where the 'soul' or conscousness resided. Now we say it is the brain. But we know that there is a lot that the brain does that our direct consciousness is not involved in, breathing, sleep, balance, regulation of the pumping of blood, translating stimuli, etc. It starts to add up to a lot of the brain, so to call ourselves the brain is inaccurate. We are more the activity of a certain region of the brain, connected to the rest, that serves as the chief executive of the brain (CEB?). The primary region that is us is the Prefrontal Cortex. It's part of the NeoCortex. Higher thought, incidentally, is found higher in the brain and that upper region of the brain where I found 'them'. I use 'them' or RB (right brain) to describe the potential other conscousness(es) in my brain. We, as the executives, are the only ones with the keys to spaceship that is your body. They are stuck inside, maybe able to see out a port, maybe not. In particular I refer to right brain, as that is where the neuroscience led me. If you perform a lobotomy on someone, if you cut the connection between left and right, the brain does strangely well. The person isn't obviously different, but their two sides exhibit different conscousnesses. Set up a sight-blocker beween the test subject's eyes, so left side is separate, they can't see the same things. Show the person's left eye a note saying 'pick up the red ball with your right hand', the subject will pick up the red ball. Asked why they picked up the red ball, they make up a reason, they don't know that they were shown the note, but their brain made up a reason for them. Now consider again, for these procedures, they were tested not long after, they didn't have growth spurred by massive loss. Implying, their brains operated in some similar fashion prior. Are these separate pieces of consciousness divided? Does your brain dream without you? What is my relationship with my potential hostage/partner consciousness? Those were the questions I set out with, and I think it's about time I share the truth of what I, or rather we, found.
   </p>
+
+  <h3>ch 2</h3>
+  <p>
+    (Interviews with patients follow)
+  </p>
+  <div style="display:flex;flex-direction:column">
+    <span>""</span>
+    <span></span>
+    <span></span>
+    <span></span>
+
+    <span>(after some doubt)</span>
+    <span>"Do you know why meditation has been used for at least 7,000 years?"</span>
+    <span>"Yeah, it's called sitting on your ass in some languages, no real surprise there"</span>
+    <span>"It's been a dedicated practice for 7 thousand years because it works. We can see the changes in the brain better than ever before now, and they were right. From all the same metrics, I can conclusively say my program is better. You can meet a couple of my earlier patients later, and can take the weekend to think it over. I have no shortage of student volunteers in need of lab hours, but this project is special to me, and you are one of a kind. I'm not looking to test the average, I'll leave that to the FDA(*). I want a proper experiment of the exceptional."</span>
+  </div>
   </div>
 </template>
 
 <script>
+
+// I could hint at it being the computer behind it, the false villain? a false villain? or a real villain, but competing with the brain villains
+
+// everything is normal good healthy stuff, brain zap contraption while meditating? Becomes a portable thing you can slap on to the back of your neck/head
 
 export default {
   name: 'Story'
