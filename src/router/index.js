@@ -10,6 +10,7 @@ import ClimateChangeStrats from '@/components/ClimateChangeStrats'
 import Brainstree from '@/components/Brainstree'
 import PresidentialPlans from '@/components/PresidentialPlans'
 import Story from '@/components/Story'
+import OpenChicago from '@/components/OpenChicago'
 
 Vue.use(Router)
 
@@ -65,6 +66,11 @@ export default new Router({
       path:'/story',
       name: 'Story',
       component: Story
+    },
+    {
+      path: '/openchicago',
+      name: 'OpenChicago',
+      component: OpenChicago
     },
     {
       path: '/*',
