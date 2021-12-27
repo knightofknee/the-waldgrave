@@ -1,3 +1,73 @@
+# lets start painting the overall picture
+
+Scenes:
+
+- Harry training with Snape
+- Flashbacks
+- Luna storyline
+
+# Dec 24th
+
+In the story of the first time snape met dumbledore, it was watching him save people from grindelwald maybe? Some sort of hero act. Reveal dumbledore hidden intentions later, maybe that time he was net good
+
+The person dumbledore saves invents some new magic, maybe a line of investigation for snape and Harry here? It could put them on the path towards understanding his immortality
+
+Time clones?
+
+Go back in time, have original self wipe new guy memories, and have new guy cast a spell making original guy go into the past so he can become new guy
+
+You don’t know your own worth, you’d intimidate yourself
+
+# Dec 20th- micro black holes == dementors? and voldemort as a hidden successor, a rival dumbledore never intended to have
+
+Micro black holes is how I explain magic, magic is creating a zone like the inside of a black hole, where you open up states of matter that weren’t possible before, performing transformations at a fundamental level, quantum mechanics precisely controlled. My dumbledore was struck my a shooting black hole, a dementor, and understands magic at a base level because of them. Maybe dumbledore, when he reveals himself to Harry, keeps telling Harry lessons through stories about dementors? It could be stories from the perspective of people he personally sucked dry. His dementor impersonation was all he needed it to be, he could appear like one and suck people dry. There’s no way to know what a dementor thinks, whether it savors the souls it sucks, the magical power consumed as it’s produced. Dementors don’t prevent magic, they eat it. But when dumbledore feeds, he takes everything. Memories magically stored away.
+
+
+The tale of two villains. “Once there was a great wizard, a great scientist and provider of several generations of innovation. They were betrayed by a greedy underling, and grew excessively cautious. He found immortality was quite achievable and set out to destroy all such research. The second villain is the first villain’s top student, who managed to study and achieve immortality before dumbledore even found out. Riddle hides his work well enough, but he really is a problem as Voldemort as well. So by orchestrating the true death of Voldemort, he is fulfilling his base goal of protecting against immortal dictators. You need a guardian, with how dangerous magic is. We just need to renegotiate our position with our guardian. The goal must be to rehabilitate dumbledore, to demand respect and influence. “Because to chase him into a corner would quickly spell doom for us all, the potential depth to his defenses is limitless, and any of us could be a dumbledore, manimagus-transformed and self-memory charmed. Any plan must be okay with dumbledore finding out what we want to do. We don’t want to elicit the riddle reaction, we want a path to peace.
+
+
+# random
+
+"It all equally seems like magic to you, but Dumbledore has made so many genuine leap innovations, that it is equally magical to us. His quirkiness hides a deep understanding of magic. Most other successful innovators get cushy school jobs where they can experiment more and teach less, DD long ago gave up releasing any info on his personal research. It's like if Einstein refused to release any of his work publicly, instead he went to teach at a university and to slowly parse out his info at different times to different students. Different students end up understanding different concepts, all with incomplete information, using what they have. So much of magic
+
+# Dec 6 notes
+
+There’s kind of a big plan versus details divide in the brain, right brain might be big picture, our consciousness is a mix but often the judgy, analytical mind of left brain dominates, and we lose sight of the big picture
+
+Dolphins also sleep half a brain at a time, Snape studied dolphins
+
+Snape feels rejected by Lily in the end but he doesn’t betray her intentionally. He’s just forced to trust Voldemort since no one else scares dumbledore
+
+# Dec 5 notes- Lily and Snape's conspiracy
+
+The new pair is Harry and Luna, she’s “ditzy”, hard to understand and grew up making up magical monsters and tabloid news. She is the lily equivalent.
+
+Lily was secretly a mind reader, she became friends with snape because he was the only other student she couldn’t read. They had a friendship no one else could hear. A romance. Something no one else knew: she was the best of liars, she never let anyone know, except Snape, who she knew could keep a secret
+
+Lily became alert to dumbledore thanks to her hidden trickiness
+
+Evil guy possessed dumbledore when he was young, after escaping prison. Snape first tells the story of another man.
+
+Later tells the story of how grindelwald and DD broke into a tomb, how DD sacrificed Grundy, only to find out it was DD that was then taken over by the ancient magician. This magician is the death that chased after the 3 brothers. It gave out the 3 gifts because he wanted to help share his knowledge, instead they killed people, stole from people, and clutched to the past. He is going to break the wizarding world’s status quo. His joint at teaching is his last hurrah before tearing it all down, the last chance for todays magicians.
+
+Maybe some emphasis on learning about the young man dumbledore versus the old guy, and the dichotomy of them being in the same body
+
+I want to trace the steps of dumbledores life, snape wants Harry to beat dumbledore at his own game, do something crazy game breaking first
+
+(I kind of want to introduce Lily as something DD couldn't anticipate, someone with a natural talent that he does not share)
+
+# Dec 2 notes
+
+So when snape is training harry, he’s only talking inside Harry’s brain, no external vocalization is safe
+
+“Do you watch a lot of action movies Harry? Well sometimes you have to tell someone something shocking, and they have to pretend like nothing happened. If you can’t do that, it isn’t safe for you to leave this room”
+
+…(memory charms)
+
+
+DD, other accomplices? Opposing seeker who was the best in the school until Harry made him irrelevant. Other students or people Harry doesn’t know or who could be accidentally alone in a secured room without Harry raising suspicion? Like maybe Snape keeps casting love spells on Harry so he takes them to the room of requirements, one of Harry’s requirements is no one finds out what happens inside. There he could be having the same conversations that Snape was having with Harry. It would probably be more like Snape controlling Harry, so he could do the legimency himself and keep Harry in secret. Or Harry would have his brain connected, but then would magically separate the two parts, whenever anyone else was around. He would appear ditsy with a sudden loss of memory, but would react perfectly in character, the brain visible to any prying would reveal an honest man. *****The spell also serves as the ultimate warning for anyone observing Harry, as he could only plan and work with the other half of his brain if he was alone. It’s the only way Snape believes anyone could ever fool dumbledore, the direct act is impossible or at least improbable, and a Harry will be spending way too much time with the best mind reader alive.
+
+(Dumbledore wanted riddle dead after he realized riddle had secretly achieved immortality when no one was looking. He had made like 7 by the time DD even confirmed one. That infuriated and scared him. DD is immortal and can be reborn, but he still bleeds, his hands still die from simple traps). Riddle hid in the darkness, dark marks ensuring loyalty. He played the villain to the fullest, dragged out a war. All to stay out of DD’s grasp. DD never defeated Voldemort himself, but he did set up the events to ensure all his horcruxes were killed before riddle knew it. What DD didn’t know was that riddle and found and fostered an occlumency genius in Severus Snape, and passed on most of his knowledge through magical transfer. All of the information make like very cynical for Snape, he magically hallucinates riddle sometimes, all the information in his brain forms its own form of consciousness, it is responsive, honest and works like the concierge to the information that they have. Because Snape is always hiding from dumbledore, is it because he is using occlumency very well, or is it because he has the split brain spell cast on himself all the time? As a double agent, Snape might take the most extreme measure. Snape would never tell anyone, he would most likely have several layers of safety
 
 # Dec 1
 
