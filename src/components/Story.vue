@@ -3,17 +3,24 @@
 
 <h3>New Chapter 1</h3>
 <p>
-  "Some people get trapped in the cocoon stage, some stay as caterpillars and try to make it in the world, some cocoon for a bit but then turn their shell to armor to better deal with the world, halting their growth. We all deserve our chance at flight though. It's a beautiful part of our brains, we keep the possibility of transforming into a butterfly, no matter what”
+  "Some people get trapped in the cocoon stage, some stay as caterpillars and try to make it in the world, some cocoon for a bit but then turn their shell to armor to better deal with the world, halting their growth. We all deserve our chance at flight though. It's a beautiful part of our brains, we keep the possibility of transforming into a butterfly, no matter what. Let's mold you some armor and get you some rest.”
 </p>
-<p>
-  "It's okay, everyone asks, why risk your life like that? I say we're always risking it all, there are just some things we are very sure about. We are extremely confident we won't be hit by a quasar next week. Nearly all of humanity could die in the event, as we have no underground cities populated. We've been doing meditation for at least 7 thousand years, we know it works. Neuroscience has come a long way, we can observe all of the neurons in a brain. We're no longer walking blind into the brain, I came into the program because after decades of shuffling in the dark, I thought someone needed to take the first major step forward into the light. And the Doctor is that person."
+<p key="adam">
+  "It's okay, everyone asks, why risk your life like that? I say we're always risking it all, there are just some things we are very sure about. We are extremely confident we won't be hit by a quasar next week. Nearly all of humanity could die in the event, as we have no underground cities populated. We've been doing meditation for at least 7 thousand years, we know it works. Neuroscience has come a long way, we can observe all of the neurons in a brain. We're no longer walking blind into the brain, I came into the program because after decades of shuffling in the dark, I thought someone needed to take the first major step forward into the light. And the Doctor is that person. Is it the right time? It is well past the time for progress, this field is inately hindered by human sensibilities, simple continuous improvement could unlock so much more. The Doctor has proven the impossible several times to me, I trust his hand over that of time."
 </p>
-<p key="girl1?">
+<!-- so the doctor likes adam because he is afraid of trapping a conscience in responsibilities beyond imagination -->
+<p key="eve?">
   "Timing is everything in tech, traditionally a breakthrough happens and it is continually improved upon as it benefits the market. But when a monumental breakthrough happens in tech it can also mean a new nuclear war. Or worse, the possibilities are endless, computing power and memory can live and grow forever. I asked myself, "The first gods are being dreamed up now, how many other people are dreaming of becoming the first immortal? How do I get myself a seat in the pantheon?" I tried out/failed in several related subjects before settling on psychology and philosophy. I wasn't going to be the best scientist that then tests on their own brain, I needed a unique angle to get into the best study at the right time. I made myself an expert in the psychology of modern neuroscience. And science fiction... and cosplay. I played all my cards together shamelessly, I was trying to do some proper spy shit, you know? I acquired access to several facilities. That's when my observation stage began."
 </p>
-<p>
-
+<p key="keith">
+  Keith didn't enter like the others, rather he was forced out of everywhere else. "Why am I here? Why are you here with a camera?"
+   "you signed the waivers, right?"
+   "yeah?"
+   "Then legally I cannot answer any questions and legally you have to answer my questions on camera."
+   "...I came, for help."
+   "Help with what?"
 </p>
+<!-- Keith becomes puppet of doctor, but doctor only sometimes controls him -->
 <!-- hes being interviewed about his rise to fame
 (female optional)
 (could be a sci fi writer)
@@ -58,6 +65,6 @@ export default {
 <style scoped>
 
 p {
-  margin: 0 5%;
+  margin: 1% 5%;
 }
 </style>
