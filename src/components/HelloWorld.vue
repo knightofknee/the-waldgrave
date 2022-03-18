@@ -11,7 +11,8 @@
       </li>
       <li style="display: flex; flexDirection: column;">
         <span>Weird</span>
-        <a href="https://youtu.be/esayi49OAk4?t=548" target="_blank">TWF</a>
+        <a href="https://youtu.be/esayi49OAk4?t=548" target="_blank"
+        style="fontSize:12px">TWF</a>
       </li>
       <li>
         <span>Effort</span>
@@ -91,7 +92,6 @@ ul {
   padding: 0;
   display: flex;
   justify-content: space-evenly;
-  font-size: 12px;
 }
 li {
   display: inline-block;
