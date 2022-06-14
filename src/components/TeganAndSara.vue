@@ -153,10 +153,7 @@ export default {
   },
   methods: {
     showLyrics: function(title) {
-      console.log("yahooll", title, "-wee-", this.songs)
-
       var newSong = this.songs.find(x => x.title == title);
-console.log("yahoo2", newSong.lyrics, "-", newSong['lyrics'])
       if (newSong != undefined) this.song = newSong.lyrics
     }
   },

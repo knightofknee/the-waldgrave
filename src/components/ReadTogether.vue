@@ -56,7 +56,6 @@ export default {
           this.bookComments = temp
 
         } else {
-          console.log("No data available");
           this.bookComments = []
           this.hideRoom = true
           this.roomCode = this.typedCode
