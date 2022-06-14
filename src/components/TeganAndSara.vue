@@ -152,9 +152,9 @@ export default {
     }
   },
   methods: {
-    showLyrics: function(title) {
-      var newSong = this.songs.find(x => x.title == title);
-      if (newSong != undefined) this.song = newSong.lyrics
+    showLyrics: function (title) {
+      var newSong = this.songs.find(x => x.title === title)
+      if (newSong !== undefined) this.song = newSong.lyrics
     }
   },
   components: { Song }
@@ -172,4 +172,3 @@ iframe {
   margin: 2% 0;
 }
 </style>
-

@@ -33,7 +33,7 @@ export default {
       typedCode: '',
       hideRoom: true,
       bookComments: [{ author: '', text: '', id: '', pageNumber: 0, replies: [{author: '', text: '', id: ''}] }],
-      roomCreator: ""
+      roomCreator: ''
     }
   },
   methods: {
@@ -41,8 +41,8 @@ export default {
       firebase.database().ref("Books/" + this.typedCode).get()
       .then((snapshot) => {
         if (snapshot.exists()) {
-          this.roomCreator = snapshot.val()["creator"]
-          var currComments = snapshot.val()["Comments"]
+          this.roomCreator = snapshot.val()['creator']
+          var currComments = snapshot.val()['Comments']
           var temp = []
           for (var commentID in currComments) {
             var commentValues = currComments[commentID]
@@ -55,7 +55,7 @@ export default {
           this.hideRoom = false
           this.bookComments = temp
 
-        } else {
+        }else {
           this.bookComments = []
           this.hideRoom = true
           this.roomCode = this.typedCode
@@ -68,7 +68,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+<!-- Add 'scoped' attribute to limit CSS to this component only -->
 <style scoped>
 
 </style>
