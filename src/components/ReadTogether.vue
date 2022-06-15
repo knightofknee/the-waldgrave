@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     findRoom: function () {
-      firebase.database().ref("Books/" + this.typedCode).get()
+      firebase.database().ref('Books/' + this.typedCode).get()
       .then((snapshot) => {
         if (snapshot.exists()) {
           this.roomCreator = snapshot.val()['creator']
@@ -46,8 +46,11 @@ export default {
           var temp = []
           for (var commentID in currComments) {
             var commentValues = currComments[commentID]
-            temp.push({id: commentID, author: commentValues.author,
-              text: commentValues.text, pageNumber: commentValues.pageNumber,
+            temp.push({
+              id: commentID,
+              author: commentValues.author,
+              text: commentValues.text,
+              pageNumber: commentValues.pageNumber,
               replies: commentValues.replies})
           }
 
@@ -61,7 +64,7 @@ export default {
           this.roomCode = this.typedCode
         }
       }).catch((error) => {
-        console.error(error);
+        console.error(error)
       })
     }
   }

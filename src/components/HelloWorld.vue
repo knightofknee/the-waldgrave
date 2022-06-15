@@ -27,7 +27,7 @@
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
           and to promote the creation and capture of ideas. -->
     <div>
-        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave aims to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>, <router-link to="/readtogether">a bookclub app</router-link>, <router-link to="/brainstree"> a notes app</router-link>, <router-link to="/openchicago"> Open Chicago</router-link> (a coding competition to promote open source work for the city people and city government), <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality, <router-link to="/climatechangestrats">combatting climate change</router-link> and <router-link to="/endoftheuniverse">how to (get to and) survive the heat death of the universe</router-link>
+        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave aims to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Current projects and goals of the Waldgrave include <router-link to="/teganandsara" @click.native="$scrollToTop" > a music blog</router-link>, <router-link to="/readtogether" @click.native="$scrollToTop" >a bookclub app</router-link>, <router-link to="/brainstree" @click.native="$scrollToTop" > a notes app</router-link>, <router-link to="/openchicago"> Open  @click.native="$scrollToTop" Chicago</router-link> (a coding competition to promote open source work for the city people and city government), <router-link to="/fixingsocialsecurity" @click.native="$scrollToTop" >fixing social security</router-link>, reducing income  @click.native="$scrollToTop" equality, <router-link to="/climatechangestrats">combatting climate change</router-link> and <router-link to="/endoftheuniverse" @click.native="$scrollToTop" >how to (get to and) survive the heat death of the universe</router-link>
         </p>
     </div>
     <div>
@@ -48,7 +48,7 @@
       </div>
       <div>
         <h4>What is a Wacky Wednesday</h4>
-        <p>It is a recurring event in which you and any number of friends gather together for some creativity and socializing. It is recommended that each Wacky Wednesday have a 'pack leader', someone who has prepared a main creative event for everyone to participate in. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Open art time can serve as a base event, you can keep it fresh by having optional themes. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group be better with the "yes and..." philosphy. </p>
+        <p>It is an event in which you and any number of friends gather together for some creativity and socializing. It is recommended that each Wacky Wednesday have a 'pack leader', someone who has prepared a main creative event for everyone to participate in. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Open art time can serve as a base event, you can keep it fresh by having optional themes. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group get in the "yes and..." mindset. </p>
       </div>
       <div>
         <router-link to="/story">
@@ -78,7 +78,12 @@ export default {
     return {
       msg: 'The Waldgrave Welcomes You'
     }
+  },
+  methods: {
+  scrollToTop() {
+    window.scrollTo(0,0);
   }
+}
 }
 </script>
 
