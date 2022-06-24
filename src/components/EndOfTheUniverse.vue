@@ -3,6 +3,7 @@
     <h3>
       How to make it to the end
     </h3>
+
     <p>
       First step is we need a permanent underground city. At any point, a supermassive black hole could take out humanity. A supernova could put it to the test.
     </p>
