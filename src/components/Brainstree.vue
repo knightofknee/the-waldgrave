@@ -1,5 +1,12 @@
 <template>
   <div style="display:flex;justify-content:center;flex-direction:column;align-items:center">
+  <h2>
+    To start my app I decided to focus on daily recording. I started recording some daily tasks on a whiteboard calendar, and about a year ago I started trying to do 7 types of things each day. I chose walking, reading, meditation, exercise, yoga, piano/music and creative writing/working on the waldgrave. I want to create an app that lets me record my tasks as fast as possible, lets me take a picture of my physical calendar and guesses what is what based on machine learning that is feeding off my past data.
+  </h2>
+  <p>
+    I'm hoping that making this with responsive design can help people take a little more control over their daily habits. I picked walking because after putting on like ~50 pounds in and after being in the hospital, I kept on getting injured while trying to get back into shape, which would derail my progress. Reading I chose because I want to do more of it in general. Meditation and yoga are both most effective when done daily. Exercise is daily because if I should be resting from previous days of exercise, the rest counts as my 'exercise'. I found myself spending a lot of time on things that were fun but weren't related to anything I wanted long term. So music and writing are two areas I wanted to do a little in every day, with the hope that they will take up more of my time. I ended up mainly focusing on learning piano and writing sci-fi ideas.
+  </p>
+  <img class="bigw" src="../assets/Simulator2022-04-30.png"/>
     <h2>
       (Notes app under initial construction. Below I will be adding some of my own notes as example data to be edited and organized later. My strategy is to minimize clicks for my personal use and to personalize it for one person at a time. Like the Netflix algorithm that found most people fall into 18 or so categories for movie taste, I hope to find trends so I can provide a combination of ease of use and customization 8)
     </h2>

@@ -33,23 +33,27 @@
     <div>
       <img style="width:3rem;" src="../assets/thew1.png">
     </div>
-    <h2>What is the Waldgrave?</h2>
+    <h2>What is Wacky Wednesday?</h2>
       <div>
-        <h4>Why is the Waldgrave?</h4>
+        <h4>Why is Wacky Wednesday?</h4>
         <p>To promote regular crativity with friends in particular, and to promote  general ideation</p>
       </div>
       <div>
-        <h4>How is the Waldgrave?</h4>
+        <h4>How is Wacky Wednesday?</h4>
         <p>Through creativity, weird and effort. Creativity comes easy when you put in the effort to set up an environment where you can comfortably be weird</p>
       </div>
       <div>
-        <h4>Who is the Waldgrave?</h4>
+        <h4>Who is Wacky Wednesday?</h4>
         <p>You, or You and your friends, or You and some potential new friends</p>
       </div>
       <div>
         <h4>What is a Wacky Wednesday</h4>
         <p>It is an event in which you and any number of friends gather together for some creativity and socializing. It is recommended that each Wacky Wednesday have a 'pack leader', someone who has prepared a main creative event for everyone to participate in. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Open art time can serve as a base event, you can keep it fresh by having optional themes. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group get in the "yes and..." mindset. </p>
       </div>
+      <h2>What is the Waldgrave?</h2>
+      <p>
+        For now, an outlet for my ideas. Long term, one part of the Waldgrave is a nonprofit organization committed to creating free or at-cost open-source tools and products for people. What I find beautiful about technology is that once something is built, the incremental cost is tiny relative to its creation, so it can be shared easily. I don't think there is enough competition in these areas, stubhub would be an example. If two people want to exchange a ticket, why should the broker charge >$100 fee? It should be barely above the cost to make the exchange. The other part of the Waldgrave is trying to help fix major issues in our world, as seen in the goals section.
+      </p>
       <div>
         <router-link to="/story">
           <img style="width:2rem;" src="../assets/thew2.png">

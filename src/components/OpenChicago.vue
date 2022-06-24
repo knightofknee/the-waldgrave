@@ -7,6 +7,10 @@
     <p>
       A later, later goal is to take the github/open source approach to other parts of the functioning of the city. Every part of how the city works can be put there. Each step like it is a software function. Then people can post their complaints about how a particular process is broken, and they can even post solutions then. Those solutions are reviewed by the community on the same platforms like github, in the same way. As it develops, you can add rules for when the city must accept the change or respond with their disagreement.
     </p>
+    <p>
+      Another project I want to build is called the More Perfect Platform. It will be a tool for me to present my own political platform, but more importantly, I want to make it for others to use as well. The idea can be summed up as a subreddit mixed with github with a more complicated comment system. It should make it easy for people to compare platforms side-by-side on specific topics. I'd also want to give the candidates a place to debate in long-form, so it's not the live bullshit of tv debates but still has a strong moderator.
+    </p>
+    <!-- maybe  -->
   </div>
 </template>
 
