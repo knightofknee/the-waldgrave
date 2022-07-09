@@ -1,14 +1,30 @@
 <template>
   <div style="display:flex;flexDirection:column;justifyContent:center">
+  <h3>Short term plans for Chicago</h3>
   <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OWhsVwVy9yg?start=830&end=850" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    All El signs will ALWAYS show the next incoming trains for each line they are serving.
+  </p>
+  <p>
+    Concrete-protected bike lane highways north-south and east-west.
+  </p>
+  <p>
+    Set up a new independent process for review of police conduct and in exchange raise police wages to incentivize the new additions to the force that we need.
+  </p>
+  <p>
+    Force Bears to stay and build a bigger stadium in the same area, give them any land they need and let them pay for and own the stadium. For however much the city gives up in the deal, the city gains part ownership of the Bears. So for every dollar in profit the Bears take home, the city would get a percentage.
+  </p>
+  <p>
+    Fred Hampton statue, somewhere prominent in the city.
+  </p>
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OWhsVwVy9yg?start=830&end=848" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   <h3>Long term plan for Chicago and Illinois</h3>
   <p>
     Universal basic income will not only support our most vulnerable neighbors, it will enable many people to take time to not only find a better job, but to pursue their own passions, whatever they may be. It sets a financial goal we want to reach, where the government financial holes are finally cauterized, and we start to get a tax surplus. Once we get a surplus, we shouldn't be taxing as much because the bill is paid. When we reach that point, additional income should be rewarded with a lower income tax that goes into the BE FUNd. The BE fund is set aside to grow until the gains in the BE fund are enough to fund the government, state and city taxes gone. The BE fund wants to give everyone the gift to be whoever they want to be.
   </p>
   <p>
-    To reach this lofty goal, the BE Fund starts small and grows alongside our ability to fund it. We want to tax the 1% to get this done, but we should provide incentive for them to stay, to come here. The pension problem should be understood as the government promising money that they didn't have, instead of just paying people. If you want to help someone for their future retirement in particular, buy an annuity for them. We need to stop the losses and put ourselves on a path of recovery. The UBI would start small and would be limited by current income. After an agreed upon UBI level is reached, and other projects are funded, then taxes should be progressively decreased on everyone.
+    To reach this lofty goal, the BE Fund starts small and grows alongside our ability to fund it. We want to tax the 1% to get this done, but we should provide incentive for them to stay, to come here. The pension problem should be understood as the government promising money that they didn't have, instead of just paying people. If you want to help someone for their future retirement in particular, buy an annuity for them. We need to stop the losses and put ourselves on a path of recovery. The UBI would start small in disadvantaged neighborhoods and then expand. After an agreed upon UBI level is reached, and other projects are funded, then taxes should be progressively decreased on everyone.
   </p>
     <p>The initial idea is that we have a coding competition, any open source project that benefits the city in any way. Ideally, there is a prize and the top project is also sanctioned by the city. No matter what the city does, I will promote it. We should make it easy for people to make free contributions to their city. The whole premise of open source should be perfect for the city of Chicago. It's free labor (the city is broke), the change process is transparent (the city is corrupt/incompetent, take your pick), but the people of the city are great (and we want to empower them).</p>
     <p>
