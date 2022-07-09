@@ -1,5 +1,8 @@
 <template>
   <div style="display:flex;flexDirection:column;justifyContent:center">
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OWhsVwVy9yg?start=830&end=840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
     <p>The initial idea is that we have a coding competition, any open source project that benefits the city in any way. Ideally, there is a prize and the top project is also sanctioned by the city. No matter what the city does, I will promote it. We should make it easy for people to make free contributions to their city. The whole premise of open source should be perfect for the city of Chicago. It's free labor (the city is broke), the change process is transparent (the city is corrupt/incompetent, take your pick), but the people of the city are great (and we want to empower them).</p>
     <p>
       A later goal would be to make a leaderboard for contributions to the city, could have a line count board, and another board based on some sort of review tool that takes out line count inflation.
