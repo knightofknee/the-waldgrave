@@ -2,6 +2,13 @@
 <div id="newOuterShell" style="display:flex;justify-content:center;align-items:center;">
   <div style="display:flex;justify-content:center;flex-direction:column;align-items:center">
     <h2>
+      Carl's Cut- Chance's Big Day and why you should listen again
+    </h2>
+    <p>
+      This is one of my favorite rap albums of the past few years, but it didn't have a ton of popular success. Many attribute it to Chance talking about marriage, and maybe that doesn't do the same as sex and drugs. I attribute it primarily to the song order. Start the album on Roo and you are treated with 5 absolute bangers in a row, capturing your attention. Then a fun Ballin Flossin mixup for the central skit and a serious banger in 5 Year Plan. From there, I include everything in order except "Town on the Hill", it is super slow and I don't really get much from it. Zanies and Fools is amazing, then I go back to the original start of the album for those songs we skipped. We skipped them because they didn't have the strong initial hook, but they close out the album well. <a href="https://open.spotify.com/playlist/0Vb7mU97NeAp1FN8EixQN5?si=10917f8fef234c58">(Link to Playlist)</a>
+    </p>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Vb7mU97NeAp1FN8EixQN5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+    <h2>
       'Hey I'm Just like You', the other You, and self love in love songs
     </h2>
     <h5>
