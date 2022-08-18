@@ -52,7 +52,7 @@
       </div>
       <h2>What is the Waldgrave?</h2>
       <p>
-        For now, an outlet for ideas. Long term, one part of the Waldgrave is a nonprofit organization committed to creating free or at-cost open-source tools and products for people. What I find beautiful about technology is that once something is built, the incremental cost is tiny relative to its creation, so it can be shared easily. I don't think there is enough competition in these areas, stubhub would be an example. If two people want to exchange a ticket, why should the broker charge >$100 fee? It should be barely above the cost to make the exchange. The other part of the Waldgrave is trying to help fix major issues in our world, as seen in the goals section.
+        For now, an outlet for ideas. One part of the Waldgrave is a nonprofit organization committed to creating free or at-cost open-source tools and products for people. What I find beautiful about technology is that once something is built, the marginal cost of use is often zero, so it can be shared easily. I don't think there is enough competition in these areas, stubhub would be an example. If two people want to exchange a ticket, why should the broker charge >$100 fee? It should be barely above the cost to make the exchange. The other part of the Waldgrave is trying to help fix major issues in our world, as seen in the goals section. My current focus is on a habit tracking app.
       </p>
       <div>
         <router-link to="/story">
