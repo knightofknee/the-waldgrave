@@ -27,7 +27,9 @@
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
           and to promote the creation and capture of ideas. -->
     <div>
-        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave's original aim was to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Since then the Waldgrave has taken on the mission of moving the world in a wackier direction.  Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>, <router-link to="/readtogether">a bookclub app</router-link>, <router-link to="/brainstree"> a notes app</router-link>, <router-link to="/openchicago"> Open Chicago</router-link>, <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality, <router-link to="/climatechangestrats">combatting climate change</router-link>,<router-link to="/endoftheuniverse">how to (get to and) survive the heat death of the universe</router-link>, and a mini-golf revolution.
+        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave's original aim was to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Since then the Waldgrave has also taken on the mission of moving the world in a wackier direction.  Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>,
+        <!-- <router-link to="/readtogether">a bookclub app</router-link>,  -->
+        <router-link to="/brainstree"> a notes app</router-link>, <router-link to="/openchicago"> Open Chicago</router-link>, <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality, <router-link to="/climatechangestrats">combatting climate change</router-link>,<router-link to="/endoftheuniverse">how to (get to and) survive the heat death of the universe</router-link>, and a mini-golf revolution.
         </p>
     </div>
     <div>
