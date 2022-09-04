@@ -1,5 +1,6 @@
 <template>
   <div style="display:flex;justify-content:center;flex-direction:column;align-items:center">
+  <h2>(update) name selected, and I started meditating an hour a day</h2>
   <h2>
     To start my app I decided to focus on daily recording. I started recording some daily tasks on a whiteboard calendar, and about a year ago I started trying to do 7 types of things each day. I chose walking, reading, meditation, exercise, yoga, piano/music and creative writing/working on the waldgrave. I want to create an app that lets me record my tasks as fast as possible, lets me take a picture of my physical calendar and guesses what is what based on machine learning that is feeding off my past data.
   </h2>

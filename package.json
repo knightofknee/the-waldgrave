@@ -13,6 +13,7 @@
     "build": "node build/build.js",
     "go": "webpack-dev-server --hot",
     "gog": "git add . && git commit -m 'gog' && git push && git push heroku master",
+    "gogg": "git push heroku master",
     "gogo": "npm run build && npm run start"
   },
   "dependencies": {
