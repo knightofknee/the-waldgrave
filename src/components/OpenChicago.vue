@@ -1,5 +1,17 @@
 <template>
   <div style="display:flex;flexDirection:column;justifyContent:center">
+  <h2>Chicago priorities</h2>
+  <p>
+    First is security. I propose that we do all we can to make our city safe, while protecting our privacy and civil rights through clear processes with audit trails. I want cameras on every city street, with the footage only being accessible for violent crimes and all searches are recorded. Everything goes through general machine learning, but any viewing of footage has to be sanctioned. Otherwise the database is locked down, not even the admins should be able to access too large of chunks at once. Any additional use of the cameras beyond violent crime would require a city vote. My other security element is universal basic income. We can set up a UBI program with what we have, limited in count or amount or both, and set it up so that if you later have an income above x% of the poverty line, y% of your additional income goes to the UBI fund. The tax drastically lowers when the UBI fund is growing (it keeps growing so that one day it won't need the tax).
+  </p>
+  <p>
+    Second is education, the 2 priorities I see are providing the best possible support for new teachers, and having the best teachers teach the other teachers (they can still teach students directly or not). But I think the ROI of helping our teachers is immense. For every level and every class in the CPS, we should have all possible materials prepared for new teachers. New teachers should be given every advantage and should have experienced teachers alongside them. I want Chicago to be the top destination for new teachers. And with the UBI plan, I want to enable anyone of any income or age to become a student again if they want.
+  </p>
+  <p>
+    Third is transportation. Immediately we need to hire more drivers for the CTA, there is no 'driver shortage', they just aren't willing to pay enough. The value is there though, just one driver provides so much potential value. No more ads on train info signs, a number and a color tells you how many minutes until the next train for that color's line. Yet they block out the whole sign for fucking ads. The paper schedule doesn't have that shit. I say ads are aids. I want some north/south and east/west streets converted to just bike lanes, while others then say or recommend no bikes in the street. I want new trains, high speed rail to O'hare and Midway. These programs could be funded in a structure where the investors are initially involved, but they have a cap, so they could charge whatever they want, but after making enough money, they would no longer be involved. It's like a loan, except the payments are linked to the success of the train. Profits from these lines will then turn towards funding other lines.
+<!--
+    I want something like you get an ownership stake until you have made a certain return on your investment, a max return -->
+  </p>
   <h3>Short term plans for Chicago</h3>
   <p>
     All El signs will ALWAYS show the next incoming trains for each line they are serving. No notices or ads blocking the whole screen. All you need is a color and a number(minutes), there should always be space for them.
