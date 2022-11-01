@@ -7,7 +7,7 @@
     <h2>Core Values</h2>
     <ul>
       <li>
-        <span>Creativity</span>
+        <a href="https://youtu.be/zNHDTvqbUm4">Creativity</a>
       </li>
       <li style="display: flex; flexDirection: column;">
         <span>Weird</span>
