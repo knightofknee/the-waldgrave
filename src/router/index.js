@@ -77,5 +77,8 @@ export default new Router({
       name: 'HelloWorld',
       component: HelloWorld
     }
-  ]
+  ],
+  scrollBehavior () {
+    return { x: 0, y: 0 }
+  }
 })

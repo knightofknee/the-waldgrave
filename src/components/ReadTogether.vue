@@ -33,21 +33,24 @@ export default {
       typedCode: '',
       hideRoom: true,
       bookComments: [{ author: '', text: '', id: '', pageNumber: 0, replies: [{author: '', text: '', id: ''}] }],
-      roomCreator: ""
+      roomCreator: ''
     }
   },
   methods: {
     findRoom: function () {
-      firebase.database().ref("Books/" + this.typedCode).get()
+      firebase.database().ref('Books/' + this.typedCode).get()
       .then((snapshot) => {
         if (snapshot.exists()) {
-          this.roomCreator = snapshot.val()["creator"]
-          var currComments = snapshot.val()["Comments"]
+          this.roomCreator = snapshot.val()['creator']
+          var currComments = snapshot.val()['Comments']
           var temp = []
           for (var commentID in currComments) {
             var commentValues = currComments[commentID]
-            temp.push({id: commentID, author: commentValues.author,
-              text: commentValues.text, pageNumber: commentValues.pageNumber,
+            temp.push({
+              id: commentID,
+              author: commentValues.author,
+              text: commentValues.text,
+              pageNumber: commentValues.pageNumber,
               replies: commentValues.replies})
           }
 
@@ -55,21 +58,20 @@ export default {
           this.hideRoom = false
           this.bookComments = temp
 
-        } else {
-          console.log("No data available");
+        }else {
           this.bookComments = []
           this.hideRoom = true
           this.roomCode = this.typedCode
         }
       }).catch((error) => {
-        console.error(error);
+        console.error(error)
       })
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+<!-- Add 'scoped' attribute to limit CSS to this component only -->
 <style scoped>
 
 </style>

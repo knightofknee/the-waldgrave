@@ -1,7 +1,7 @@
 <template>
   <div style="display:flex;flexDirection:column;justifyContent:center">
     <h3>Lyrics: </h3>
-    <p v-for="lyricBlock, index in lyrics" :key="index">
+    <p v-for="(lyricBlock, index) in lyrics" :key="index">
       {{lyricBlock}}
     </p>
   </div>
@@ -11,7 +11,7 @@
 
 export default {
   name: 'Song',
-  props: { lyrics: ['']}
+  props: { lyrics: [''] }
 }
 </script>
 
