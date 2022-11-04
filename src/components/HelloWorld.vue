@@ -27,9 +27,9 @@
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
           and to promote the creation and capture of ideas. -->
     <div>
-        <p>We are the tiny aliens in Men in Black who run around inside the heads of human robots. The Waldgrave's original aim was to create spaces where you can comfortably and safely exit your robot for a bit with your alien friends. Since then the Waldgrave has also taken on the mission of moving the world in a wackier direction.  Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>,
+        <p>The human  Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>,
         <!-- <router-link to="/readtogether">a bookclub app</router-link>,  -->
-        <router-link to="/brainstree"> a notes app</router-link>, <router-link to="/openchicago"> Open Chicago</router-link>, <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality, <router-link to="/climatechangestrats">combatting climate change</router-link>,<router-link to="/endoftheuniverse">how to (get to and) survive the heat death of the universe</router-link>, and a <router-link to="/golfgolf">mini-golf revolution</router-link>.
+        <router-link to="/brainstree"> a notes/habits app</router-link>, <router-link to="/openchicago"> turning Chicago into a global leader and eventual Great Lakes Supercity center</router-link> (featuring BUBI), <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality, <router-link to="/climatechangestrats">combatting climate change</router-link>,<router-link to="/endoftheuniverse">how to find aliens inside black holes and survive the heat death of the universe</router-link>, and a <router-link to="/golfgolf">mini-golf revolution</router-link> centered on proving the superiority of profit-minimizing business structures.
         </p>
     </div>
     <div>
@@ -50,11 +50,11 @@
       </div>
       <div>
         <h4>What is a Wacky Wednesday</h4>
-        <p>It is an event in which you and any number of friends gather together for some creativity and socializing. I recommend some open art and/or music time as a base, ideally with a creative event of any sort. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group get in the "yes and..." mindset. </p>
+        <p>It is an event in which you and any number of friends gather together for some creativity and socializing. I recommend some open art and/or music time as a base, ideally with a creative event of any sort. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group get in the "yes and..." mindset. Process over product, the goal is to give everyone space to explore.</p>
       </div>
       <h2>What is the Waldgrave?</h2>
       <p>
-        For now, an outlet for ideas. One part of the Waldgrave is a nonprofit organization committed to creating free or at-cost open-source tools and products for people. What I find beautiful about technology is that once something is built, the marginal cost of use is often zero, so it can be shared easily. I don't think there is enough competition in these areas, stubhub would be an example. If two people want to exchange a ticket, why should the broker charge >$100 fee? It should be barely above the cost to make the exchange. The other part of the Waldgrave is trying to help fix major issues in our world, as seen in the goals section. My current focus is on a habit tracking app.
+        I define the waldgrave as the area in your brain where the different forms of consciousness meet. Your understanding how to manage your own waldgrave determines which of your selves tend to get expressed. When you listen to someone talk, their words shape your neurons. A form of them exists in you. On the larger scale, we are a gigabrain. You have ~86 billion neurons, the gigabrain has 8 billion of us. The Waldgrave stands for giving all 8 billion brains the ability to thrive. Science and technology can transform the world, but big tech got greedy so now they need me, the name's B and I make tech freely, I'm a rapper in training, RIT me.
       </p>
       <div>
         <router-link to="/story">
