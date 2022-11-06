@@ -11,6 +11,7 @@ import Brainstree from '@/components/Brainstree'
 import PresidentialPlans from '@/components/PresidentialPlans'
 import Story from '@/components/Story'
 import OpenChicago from '@/components/OpenChicago'
+import GolfGolf from '@/components/GolfGolf'
 
 Vue.use(Router)
 
@@ -71,6 +72,11 @@ export default new Router({
       path: '/openchicago',
       name: 'OpenChicago',
       component: OpenChicago
+    },
+    {
+      path: '/golfgolf',
+      name: 'GolfGolf',
+      component: GolfGolf
     },
     {
       path: '/*',
