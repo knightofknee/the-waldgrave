@@ -2,7 +2,23 @@
   <div style="display:flex;flexDirection:column;justifyContent:center">
   <h2>Chicago Initiatives- order is not prioritized</h2>
   <p>
-    Carbon Check- it's like a carbon tax but it isn't a tax because the government gets nothing. We check how much harm people are putting in the air and we charge them. That money goes to a fund, and every month that fund is divided evenly between every citizen. Everyone bears the consequences of these actions, so everyone should be paid to compensate. This can immediately correct incentives without any other political bullshit.
+    Carbon Check- it's like a carbon tax but it isn't a tax because the government gets nothing. We check how much harm people are putting in the air and we charge them. That money goes to a fund, and every month that fund is divided evenly between every citizen. Everyone bears the consequences of these actions, so everyone should be paid to compensate. This can immediately correct incentives.
+  </p>
+  <p>
+    Eductation Priority 1- Become the best city in the world for new teachers. Prioritize things like providing complete and up-to-date cirriculum to all new teachers, easing in teachers to their role, and other practices of the current best cities. Our best teachers should be able to focus on teaching new teachers, if interested.
+  </p>
+  <p>
+    Security Update 1: Street Safety, Oversight, and Enhanced support
+
+    I want to put cameras on every Chicago street (at the same time we could upgrade our street lamps and see more stars at night, they don't need to point up). They should hopefully be discreet. The deal is that these cameras will only be used when dealing with violent crime + theft. The data usage is on open source code, and auditors can see who accessed what. Any access is logged.
+
+    Alongside this, I want all officers to have their cameras and microphones on at all times. This data will hit a general ai that we train, so based on what it hears and sees, alongside heart rate and such, can give the police whatever they need to best support their officers. Screams and gunfire would trigger a raising of the alert level for the officer. The officer can raise the alert level themselves whenever they want. For any elevated scenario, they are put into contact with the police support center. From there, experienced officers can give critical advice to officers all over the city. Also though, two other groups are watching: the auditors and other support teams. Firefighters and mental health workers can respond in live time and communicate with the police support team. The job of police officer is hard, we should give them the best support we can. And this gives us live oversight, and a system for improvement.
+  </p>
+  <p>
+    BUBI- Brains' Univeral Basic Income
+
+
+
   </p>
   <h2>Chicago priorities</h2>
   <p>
