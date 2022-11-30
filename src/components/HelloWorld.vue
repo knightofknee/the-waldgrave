@@ -33,7 +33,9 @@
         </p>
     </div>
     <div>
-      <img style="width:3rem;" src="../assets/thew1.png">
+      <a to="https://ko-fi.com/waldgrave">
+        <img style="width:3rem;" src="../assets/thew1.png">
+      </a>
     </div>
     <h2>Wacky Wednesday FAQ</h2>
       <div>
