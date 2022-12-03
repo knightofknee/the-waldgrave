@@ -33,7 +33,7 @@
         </p>
     </div>
     <div>
-      <a to="https://ko-fi.com/waldgrave">
+      <a href="https://ko-fi.com/waldgrave">
         <img style="width:3rem;" src="../assets/thew1.png">
       </a>
     </div>
