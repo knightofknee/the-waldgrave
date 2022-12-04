@@ -27,7 +27,7 @@
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
           and to promote the creation and capture of ideas. -->
     <div>
-        <p>The human  Current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>,
+        <p>The current projects and goals of the Waldgrave include <router-link to="/teganandsara"> a music blog</router-link>,
         <!-- <router-link to="/readtogether">a bookclub app</router-link>,  -->
         <router-link to="/brainstree"> a notes/habits app</router-link>, <router-link to="/openchicago"> turning Chicago into a global leader and eventual Great Lakes Supercity center</router-link> (featuring BUBI), <router-link to="/fixingsocialsecurity">fixing social security</router-link>, reducing income equality, <router-link to="/climatechangestrats">combatting climate change</router-link>,<router-link to="/endoftheuniverse">how to find aliens inside black holes and survive the heat death of the universe</router-link>, and a <router-link to="/golfgolf">mini-golf revolution</router-link> centered on proving the superiority of profit-minimizing business structures.
         </p>
