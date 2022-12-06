@@ -32,7 +32,10 @@
 <!--
     I want something like you get an ownership stake until you have made a certain return on your investment, a max return -->
   </p>
-  <h3>Short term plans for Chicago</h3>
+  <p>
+    Reveal the stars of Chicago. Make the sky beautiful. Reduce light pollution from street lights by changing the design and updating the tech. Light going up into the sky doesn't help anyone, it can be as simple as covers. ** Need to add stats on # of stars that would be revealed as the fog is lifted. I know some changes would cut it in half, but what is possible might be much better. (Alongside it, the city could highlight a chicago star citizen or something? each day with a stars gained count (count based on changing X lamp posts per day))
+  </p>
+  <h3>Other short term plans for Chicago</h3>
   <p>
     All El signs will ALWAYS show the next incoming trains for each line they are serving. No notices or ads blocking the whole screen. All you need is a color and a number(minutes), there should always be space for them. This would be a great starting project for moving everything possible to an open source format.
   </p>
