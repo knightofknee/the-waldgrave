@@ -56,7 +56,10 @@
       </div>
       <h2>What is the Waldgrave?</h2>
       <p>
-        I define the waldgrave as the area in your brain where the different forms of consciousness meet. Your understanding how to manage your own waldgrave determines which of your selves tend to get expressed. When you listen to someone talk, their words shape your neurons. A form of them exists in you. On the larger scale, we are a gigabrain. You have ~86 billion neurons, the gigabrain has 8 billion of us. The Waldgrave stands for giving all 8 billion brains the ability to thrive. Science and technology can transform the world, but big tech got greedy so now they need me, the name's B and I make tech freely, I'm a rapper in training, RIT's me.
+        1) Original meaning: used to describe officers in charge of royal forests in old Germany
+        2) The area in your brain where the different forms of consciousness meet. Your understanding how to manage your own waldgrave determines which of your selves tend to get expressed.
+        3) When you listen to someone talk, their words shape your neurons. A form of them exists in you. On the larger scale, we are a gigabrain. You have ~86 billion neurons, the gigabrain has 8 billion of us.
+        4) The Waldgrave stands for giving all 8 billion brains the ability to thrive. Science and technology can transform the world, but big tech got greedy so now they need me, the name's B and I make tech freely, I'm a rapper in training, RIT's me.
       </p>
       <div>
         <router-link to="/story">
