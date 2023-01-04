@@ -55,12 +55,20 @@
         <p>It is an event in which you and any number of friends gather together for some creativity and socializing. I recommend some open art and/or music time as a base, ideally with a creative event of any sort. The event can be whatever, some past examples include an improv excercises, painting, song writing and karaoke. Anything that involves creativity or learning works. Besides that, the only other major element is creating a space where everyone involved feels as comfortable as possible to create and share with no judgement. Improv group exercises can be a great first or second Wacky Wednesday to help the group get in the "yes and..." mindset. Process over product, the goal is to give everyone space to explore.</p>
       </div>
       <h2>What is the Waldgrave?</h2>
-      <p>
-        1) Original meaning: used to describe officers in charge of royal forests in old Germany
-        2) The area in your brain where the different forms of consciousness meet. Your understanding how to manage your own waldgrave determines which of your selves tend to get expressed.
-        3) When you listen to someone talk, their words shape your neurons. A form of them exists in you. On the larger scale, we are a gigabrain. You have ~86 billion neurons, the gigabrain has 8 billion of us.
-        4) The Waldgrave stands for giving all 8 billion brains the ability to thrive. Science and technology can transform the world, but big tech got greedy so now they need me, the name's B and I make tech freely, I'm a rapper in training, RIT's me.
-      </p>
+      <div style="display: flex; flex-direction: column; justify-content: center; align-items: start; text-align: left;">
+        <div class="defList">
+        1) An officer having jurisdiction over a royal forest
+        </div>
+        <div class="defList">
+          2) The area in your brain where the different forms of consciousness meet. Your understanding how to manage your own waldgrave determines which of your selves tend to get expressed.
+        </div>
+        <div class="defList">
+          3) When you listen to someone talk, their words shape your neurons. A form of them exists in you. On the larger scale, we are a gigabrain. You have ~86 billion neurons, the gigabrain has 8 billion of us.
+        </div>
+        <div class="defList">
+          4) The Waldgrave stands for giving all 8 billion brains the ability to thrive. I believe we can do that through BUBI, and our projects to get there aim to operate with an at-cost or less pricing model. Science and technology can transform the world, but big tech got greedy so now they need me, the name's B and I make tech freely, I'm a rapper in training, RIT's me.
+        </div>
+      </div>
       <div>
         <router-link to="/story">
           <img style="width:2rem;" src="../assets/thew2.png">
@@ -72,11 +80,14 @@
           Everything is Good, stop stressing the shoulds and worrying the woulds, can the coulds, everything is good.
         </p>
         <p>
+          My latest conscousness theory is that our brains are inherently a product of the past, shaped by a mix of your inner thoughts, outer stimuli and how you reacted to them, along with much chaos. You are the active processes in the brain. You didn't shape it, but you travel within it and choose which paths to take. Your actions further shape it for your future self.
+        </p>
+        <!-- <p>
           On the cosmic level, we are insignificant and might not even have free will, so why should we spend so much time with judgements? I think the universe is a good thing, and we are a part of it. We are basically patterns, we can lean into the rest of the universe or pull back, and we can choose to observe more or less. We can learn from those interactions, but I don't see the need to judge a part of the universe for being how it is, even if that part is part of me. This brings us to the individual level. People exist on top of a collection of waves, constantly riding ups and downs. But we only observe people at one point at a time. This creates a perception issue, especially for people you don't know. Living in a city, the effect is heightened. If you are around a lot of people, it is expected that you will pass by people at the bottom or top of their waves regularly. If a good driver makes a small mistake once every 100 trips, but you are driving past 400 cars a day, expect to see at least 4 small mistakes. Everyone is driving a different spaceship through the same spacetime, yours accelerates at a different speed than mine, so it may seem like I am intentionally going slow when in reality I am going full speed. Or my ship has had several flat tires thanks to the potholes in my neighborhood, so I'm a little more anxious driving around them than you. Everyone has ups and downs because that's the very nature of our universe, matter and existence is based on ripples. To promote existence as we know it, we want to push up the wavefunctions of others. To do that, we need to understand their waves, their magnitude, frequency, and where they are at right now. Getting in-sync is more important than it may initially seem, in our universe if you have two waves of equal magnitude and frequency destructively interfering (hitting each other when one is high and the other is low), they cancel each other out and both waves disappear. So if you are able to get on the same page as someone, you can boost their upswings and help temper their downswings.
         </p>
         <p>
           Additionally, you are a biological computer that is constantly re-programming itself based on neural paths taken. We have limited processing power that we manage, 'we' are not the full brain, we are a part at the top front that connects to the rest, and seems to make decisions. How we think actively shapes our brains, the repeated surges through neurons are like the strings vibrating to create the base waves of our universe. 86 billion little splashes shape the seas of your mind. Meditation has you focus on a background wave that is always there, the in and out flow of your breath. As a new thought rises out of an inner wave peaking, you acknowledge it, understand where it came from, and let it go. You find its amplitude and frequency, get in sync with it, and hug it away with some deconstructive acceptance. You accept that your brain is a product of the past so this thought is a reaction you cannot control. What you can control is your reaction to your brain's default reaction, and in meditation your reaction is to focus back on your breath. But outside of meditation, this enables you to react to your immediate reactions and evaluate the output of your brain, which in turn shapes your brain for the next time. This is where I think conscousness and free will live. Through this, I believe meditation enables you to be more intentionally you.
-        </p>
+        </p> -->
       </div>
   </div>
   </div>
@@ -149,5 +160,10 @@ a {
   flex-direction: column;
   justify-content: space-between;
   margin: 0 5%;
+}
+
+.defList {
+  display: inline-block;
+  margin: 7px 15%;
 }
 </style>
