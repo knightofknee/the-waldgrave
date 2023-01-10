@@ -28,7 +28,6 @@ import 'firebase/auth'
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
-  window.location.href = 'https://www.waldgrave.com';
 </script>
 
 <style>
