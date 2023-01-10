@@ -6,15 +6,14 @@ const history = require('connect-history-api-fallback');
 app = express();
 app.use(serveStatic(__dirname + "/dist"));
 
-app.use(function(req, res, next) {
-  if (
-    req.secure ||
-    req.headers["x-forwarded-proto"] === "https"
-  ) {
-    return next();
-  } else {
-    return res.redirect("https://" + req.headers.host + req.url);
+app.enable('trust proxy')
+
+app.use(function(request, response, next) {
+
+  if (process.env.NODE_ENV != 'development' && !request.secure) {
+     return response.redirect("https://" + request.headers.host + request.url);
   }
+  next();
 })
 
 var port = process.env.PORT || 5000;
