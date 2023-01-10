@@ -6,6 +6,17 @@ const history = require('connect-history-api-fallback');
 app = express();
 app.use(serveStatic(__dirname + "/dist"));
 
+app.use(function(req, res, next) {
+  if (
+    req.secure ||
+    req.headers["x-forwarded-proto"] === "https"
+  ) {
+    return next();
+  } else {
+    return res.redirect("https://" + req.headers.host + req.url);
+  }
+})
+
 var port = process.env.PORT || 5000;
 app.use(history()).listen(port);
 console.log('server started '+ port);

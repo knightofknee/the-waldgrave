@@ -15,13 +15,9 @@ import GolfGolf from '@/components/GolfGolf'
 
 Vue.use(Router)
 
-export default new Router({
+var router = new Router({
   mode: 'hash',
   routes: [
-    {
-      path: 'http://www.waldgrave.com',
-      redirect: '/'
-    },
     {
       path: '/',
       name: 'HelloWorld',
@@ -92,3 +88,5 @@ export default new Router({
     return { x: 0, y: 0 }
   }
 })
+
+export default router;
