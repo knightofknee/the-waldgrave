@@ -19,6 +19,10 @@ export default new Router({
   mode: 'hash',
   routes: [
     {
+      path: 'http://www.waldgrave.com',
+      redirect: '/'
+    },
+    {
       path: '/',
       name: 'HelloWorld',
       component: HelloWorld
