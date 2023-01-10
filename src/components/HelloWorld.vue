@@ -96,7 +96,7 @@
 <script>
 
 
-window.location.href = 'https://www.waldgrave.com';
+window.location.href = 'https://www.waldgrave.com/#/';
 export default {
   name: 'HelloWorld',
   data () {
