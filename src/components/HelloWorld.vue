@@ -15,7 +15,7 @@
         style="fontSize:12px">TWF</a>
       </li>
       <li>
-        <span>Effort</span>
+        <a href="https://youtu.be/a_YR4dKArgo">Effort</a>
       </li>
     </ul>
     <!-- <div class="purple-circle-container">
