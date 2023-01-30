@@ -1,6 +1,6 @@
 <template>
   <div id="app" style="marginBottom: 5em;">
-
+    <div>HOME</div>
     <router-view/>
   </div>
 </template>
@@ -42,6 +42,7 @@ import 'firebase/auth'
 
 p {
   margin: 1% 5%;
+  text-align: left;
 }
 
 </style>
