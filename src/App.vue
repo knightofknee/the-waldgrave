@@ -41,7 +41,7 @@ import 'firebase/auth'
 }
 
 p {
-  margin: 0 5%;
+  margin: 1% 5%;
 }
 
 </style>
