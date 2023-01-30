@@ -12,6 +12,7 @@ import PresidentialPlans from '@/components/PresidentialPlans'
 import Story from '@/components/Story'
 import OpenChicago from '@/components/OpenChicago'
 import GolfGolf from '@/components/GolfGolf'
+import Update2023 from '@/components/2023_Update'
 
 Vue.use(Router)
 
@@ -77,6 +78,11 @@ var router = new Router({
       path: '/golfgolf',
       name: 'GolfGolf',
       component: GolfGolf
+    },
+    {
+      path: '/2023-update',
+      name: 'Update2023',
+      component: Update2023
     },
     {
       path: '/*',
