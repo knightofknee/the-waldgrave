@@ -17,7 +17,7 @@ import Update2023 from '@/components/2023_Update'
 Vue.use(Router)
 
 var router = new Router({
-  mode: 'hash',
+  mode: 'history',
   routes: [
     {
       path: '/',
