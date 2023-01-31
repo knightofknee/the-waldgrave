@@ -21,9 +21,9 @@
     <!-- <div class="purple-circle-container">
       <router-link to="/thepurplecircle"><img class="purple-circle" src="../assets/thepurplecircle.jpg"></router-link>
     </div> -->
-    <router-link to="/2023-update">
-      <h2>2023 Update</h2>
-    </router-link>
+
+      <h2><router-link to="/2023-update">2023 Update</router-link> *** I am converting the site to Next.js (React) because Vue is a miserable framework, their routing is awful</h2>
+
 
     <h2>Goals</h2>
         <!-- We are creatures of creation and expression, but our everyday
