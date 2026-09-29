@@ -38,18 +38,18 @@ export default function DirectDemocracyDeleteAccount() {
         <ul>
           <li>Your sign-in credentials and Firebase Authentication record</li>
           <li>Your profile: display name, ward, verification status, and participation stats</li>
-          <li>Your notifications, block list, and standing approvals of officials</li>
+          <li>Every vote, judgment, and approval of an official you cast; the tallies are recounted without them</li>
+          <li>Your notifications, block list, district numbers, and phone notification settings</li>
           <li>The verification identifier that linked your account to a completed identity check</li>
         </ul>
 
         <h2>What is retained</h2>
         <ul>
           <li>Posts, comments, and questions stay on the public record but are re-attributed to <strong>[deleted]</strong> - no display name outlives its account.</li>
-          <li>Votes you cast remain inside aggregate tallies. They are anonymous counts, not records tied to you.</li>
         </ul>
 
         <h2>Identity verification data</h2>
-        <p>Identity verification is performed by Didit, a third-party identity service. Your documents, address, and face data go to Didit and are never sent to or stored on our servers - we only ever hold the verdict (a verified flag and your ward), which is deleted with your account. Didit&apos;s own retention and deletion terms are at <a href="https://didit.me/privacy-policy/">didit.me/privacy-policy</a>.</p>
+        <p>Identity verification is performed by Didit, a third-party identity service. Your documents, address, and face data go to Didit and are never sent to or stored on our servers - we only ever hold the verdict (a verified flag, your ward, and your district numbers), which is deleted with your account. Didit&apos;s own retention and deletion terms are at <a href="https://didit.me/privacy-policy/">didit.me/privacy-policy</a>.</p>
 
         <p>Official and candidate profiles are public-record pages provisioned by the platform and are removed by the platform operator rather than through self-serve deletion.</p>
       </div>
