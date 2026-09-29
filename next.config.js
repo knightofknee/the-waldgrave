@@ -39,6 +39,13 @@ for (const route of collectRoutes(path.join(__dirname, "pages"))) {
 // Serve the Apple App Site Association file (which has no file extension) as JSON. Next.js serves
 // files in /public at the site root, so /.well-known/apple-app-site-association resolves; this just
 // forces the correct Content-Type. assetlinks.json already has a .json extension and needs no rule.
+// direct democracy's web version: the app's single-page web export lives in
+// public/directdemocracy/app (copied in by `npm run publish-web` in the app's
+// repo). Real files there (scripts, images) are served as-is; every other
+// path under it is a screen of the app, so it gets the app's index.html and
+// the app's router takes it from there.
+const DD_APP = "/directdemocracy/app";
+
 const nextConfig = {
   // Claude Code previews build into .next-claude so they never collide with
   // the dev server running on port 3000 (two servers sharing .next corrupt it).
@@ -46,11 +53,28 @@ const nextConfig = {
   env: {
     CASE_ROUTES: JSON.stringify({ static: staticRoutes, dynamic: dynamicPrefixes }),
   },
+  async rewrites() {
+    return {
+      afterFiles: [
+        { source: DD_APP, destination: `${DD_APP}/index.html` },
+        { source: `${DD_APP}/:path((?!_expo/|assets/).*)`, destination: `${DD_APP}/index.html` },
+      ],
+    };
+  },
   async headers() {
     return [
       {
         source: "/.well-known/apple-app-site-association",
         headers: [{ key: "Content-Type", value: "application/json" }],
+      },
+      {
+        // Content-hashed file names: a new export gets new names.
+        source: `${DD_APP}/_expo/static/:path*`,
+        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
+      },
+      {
+        source: `${DD_APP}/index.html`,
+        headers: [{ key: "Cache-Control", value: "no-cache" }],
       },
     ];
   },
