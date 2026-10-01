@@ -28,6 +28,8 @@ export default function EscapeFromHadesIRL() {
         <Link href="/escapefromhadesirl/privacy">Privacy Policy</Link>
         <span className="divider">|</span>
         <Link href="/escapefromhadesirl/terms">Terms of Service</Link>
+        <span className="divider">|</span>
+        <Link href="/escapefromhadesirl/delete-account">Delete Account</Link>
         <p className="credit">A Waldgrave Production</p>
       </footer>
 
