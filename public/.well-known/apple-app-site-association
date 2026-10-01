@@ -4,15 +4,25 @@
     "details": [
       {
         "appID": "R3H7M2M4F5.com.knightofknee.bekin8",
-        "paths": [ "/bekin/invite/*" ]
+        "paths": [
+          "/bekin/invite/*"
+        ]
       },
       {
-        "appIDs": [ "R3H7M2M4F5.com.briancarlisle.directdemocracy" ],
+        "appIDs": [
+          "R3H7M2M4F5.com.briancarlisle.directdemocracy"
+        ],
         "components": [
           {
             "/": "/directdemocracy/auth",
-            "?": { "mode": "signIn" },
+            "?": {
+              "mode": "signIn"
+            },
             "comment": "Firebase email sign-in links open the app; password reset and other modes stay in the browser"
+          },
+          {
+            "/": "/directdemocracy/app/*",
+            "comment": "Shared links to the web version open the installed app (1.0.15+ strips the prefix); without the app they stay on the web"
           }
         ]
       }

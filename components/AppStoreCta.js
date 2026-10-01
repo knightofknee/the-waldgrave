@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react'
 
-// When the apps are expected on Google Play (all three are in Play testing).
-// The line under the App Store button counts down to it, then says "soon".
-// Move this date if the launch moves; delete the line once they're live.
+// When the apps in Google Play testing (BeKin and direct democracy, since
+// 2026-10-01) are expected there. The line under the App Store button
+// counts down to it, then says "soon". Move this date if the launch moves.
+// A page whose app isn't in Play testing yet passes android={false}.
 export const PLAY_EXPECTED = '2026-10-15'
 
 const WORDING = {
@@ -36,7 +37,7 @@ function playLine(w, now) {
 // The one call to action on each app's page: a big App Store button at the
 // center of focus, labeled so nobody is surprised when their phone asks to
 // open the App Store. Under it, where the app stands on Google Play.
-export default function AppStoreCta({ url, lang = 'en', children }) {
+export default function AppStoreCta({ url, lang = 'en', android: showAndroid = true, children }) {
   const w = WORDING[lang]
   // Worked out in the browser, so a page built days ago still counts from today.
   const [android, setAndroid] = useState(null)
@@ -48,9 +49,11 @@ export default function AppStoreCta({ url, lang = 'en', children }) {
         <span className="small">{w.note}</span>
         <span className="big">{w.label}</span>
       </a>
-      <p className="android" style={{ visibility: android ? 'visible' : 'hidden' }}>
-        {android ?? w.soon}
-      </p>
+      {showAndroid && (
+        <p className="android" style={{ visibility: android ? 'visible' : 'hidden' }}>
+          {android ?? w.soon}
+        </p>
+      )}
       {children}
       <style jsx>{`
         .appStoreCta {

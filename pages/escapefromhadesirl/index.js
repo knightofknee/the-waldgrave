@@ -7,7 +7,7 @@ export default function EscapeFromHadesIRL() {
       <h1>Escape from Hades IRL</h1>
       <p className="tagline">A habit tracking and note-taking app to help you escape the underworld of disorganization.</p>
 
-      <AppStoreCta url="https://apps.apple.com/us/app/escape-from-hades-irl/id6760863438" />
+      <AppStoreCta url="https://apps.apple.com/us/app/escape-from-hades-irl/id6760863438" android={false} />
 
       <div className="features">
         <div className="feature">
