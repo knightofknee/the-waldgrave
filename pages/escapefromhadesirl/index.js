@@ -1,10 +1,13 @@
 import Link from 'next/link'
+import AppStoreCta from '../../components/AppStoreCta'
 
 export default function EscapeFromHadesIRL() {
   return (
     <div className="container">
       <h1>Escape from Hades IRL</h1>
       <p className="tagline">A habit tracking and note-taking app to help you escape the underworld of disorganization.</p>
+
+      <AppStoreCta url="https://apps.apple.com/us/app/escape-from-hades-irl/id6760863438" />
 
       <div className="features">
         <div className="feature">
@@ -19,10 +22,6 @@ export default function EscapeFromHadesIRL() {
           <h3>Your Data, Your Control</h3>
           <p>We never share your data with third parties. Your habits and notes are yours alone.</p>
         </div>
-      </div>
-
-      <div className="cta">
-        <p>Coming soon to iOS and Android</p>
       </div>
 
       <footer className="footer">
@@ -70,11 +69,6 @@ export default function EscapeFromHadesIRL() {
         .feature h3 {
           margin-top: 0;
           color: #42b983;
-        }
-        .cta {
-          margin: 2em 0;
-          font-size: 1.1em;
-          color: #888;
         }
         .footer {
           margin-top: 3em;

@@ -1,4 +1,7 @@
 import Link from 'next/link'
+import AppStoreCta from '../../components/AppStoreCta'
+
+const APP_STORE = 'https://apps.apple.com/us/app/direct-democracy-chicago/id6797189381'
 
 // Builds up to 1.0.10 use this page as the continue URL for Firebase email
 // sign-in links; Firebase's handler forwards the link's parameters here.
@@ -15,29 +18,43 @@ export default function DirectDemocracy() {
   return (
     <div className="container">
       <h1>direct democracy</h1>
-      <p className="tagline">Chicago&apos;s civic voice: a citywide big board of the people&apos;s concerns, ward-level votes, and AMAs where the community decides whether officials actually answered.</p>
+      <p className="tagline">Chicago&apos;s civic voice: a citywide big board of the people&apos;s concerns, ward-level votes, your whole ballot, and AMAs where the community decides whether officials actually answered.</p>
+
+      <AppStoreCta url={APP_STORE}>
+        <p className="also">
+          Or <a href="/directdemocracy/app">use it in your browser</a> · <Link href="/directdemocracy/es">Español</Link>
+        </p>
+      </AppStoreCta>
 
       <div className="features">
         <div className="feature">
           <h3>The Big Board</h3>
-          <p>Raise the issues that matter and vote them by priority - critical to low - to rank what the whole city cares about. Every result shows the general vote and the verified vote side by side.</p>
+          <p>Raise the issues that matter and rate how much each one matters, from 1 to 5, to rank what the whole city cares about. Every result shows all users and verified residents side by side.</p>
         </div>
         <div className="feature">
           <h3>Your Ward</h3>
-          <p>Browse any of the 50 wards. Verify once as a resident and your votes count in your ward&apos;s verified tallies, including your alderman&apos;s ballot questions.</p>
+          <p>Browse any of the 50 wards. Set your home ward, or verify once as a resident so your votes count in your ward&apos;s verified tallies and your alderman&apos;s grade.</p>
         </div>
         <div className="feature">
           <h3>Real Answers</h3>
-          <p>Ask officials anything. The community - never the politician - judges whether a response answered the question, and every official carries a public report card.</p>
+          <p>Ask officials anything. The community, never the politician, judges whether a response answered the question, and every official carries a public report card.</p>
+        </div>
+        <div className="feature">
+          <h3>Your Ballot</h3>
+          <p>Enter your address once to see the races on your ballot first, from Congress to the school board, with your early voting site and how to vote. Covers November 3, 2026 and February 23, 2027.</p>
+        </div>
+        <div className="feature">
+          <h3>City Council</h3>
+          <p>Upcoming meetings with their public comment deadlines, and the Council votes that split, with how each alderman voted, as the City Clerk records them.</p>
         </div>
         <div className="feature">
           <h3>Anonymous by Design</h3>
-          <p>Identity verification is handled by a third party; the app only ever knows verified yes/no and your ward. Your real name is never shown.</p>
+          <p>Identity verification is handled by a third party; the app keeps only whether you&apos;re verified, your ward, and your district numbers. Your real name is never shown.</p>
         </div>
-      </div>
-
-      <div className="cta">
-        <p>Coming soon to iOS and Android</p>
+        <div className="feature">
+          <h3>Seven Languages</h3>
+          <p>English, Español, 中文, Polski, Tagalog, 한국어, and हिन्दी. Every screen has a help button explaining what&apos;s on it and what you can do.</p>
+        </div>
       </div>
 
       <footer className="footer">
@@ -91,10 +108,13 @@ export default function DirectDemocracy() {
           line-height: 1.55;
           margin-bottom: 0;
         }
-        .cta {
-          margin: 2em 0;
-          color: #C8102E;
-          font-weight: 600;
+        .also {
+          margin: 0;
+          font-size: 0.95em;
+          color: #666;
+        }
+        .also :global(a) {
+          color: #0B4A6F;
         }
         .footer {
           margin-top: 3em;

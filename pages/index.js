@@ -31,21 +31,21 @@ export default function Home() {
 
       <h2>Projects</h2>
       <div className="products">
-        <a className="product" href="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014" target="_blank" rel="noopener noreferrer">
+        <Link className="product" href="/bekin">
           <span className="productName">BeKin</span>
           <span className="productBlurb">friends-only social media</span>
-        </a>
+        </Link>
         <Link className="product" href="/chigui">
           <span className="productName">Mayoral Platform</span>
           <span className="productBlurb">the Chi-GUI Conspiracy</span>
         </Link>
-        <a className="product" href="https://apps.apple.com/us/app/escape-from-hades-irl/id6760863438" target="_blank" rel="noopener noreferrer">
+        <Link className="product" href="/escapefromhadesirl">
           <span className="productName">Escape from Hades IRL</span>
           <span className="productBlurb">habit management</span>
-        </a>
+        </Link>
         <Link className="product" href="/directdemocracy">
           <span className="productName">direct democracy: Chicago</span>
-          <span className="productBlurb">coming soon to the App Store</span>
+          <span className="productBlurb">civic engagement</span>
         </Link>
       </div>
 
@@ -69,7 +69,7 @@ export default function Home() {
           The Waldgrave aims to provide the tools to create those spaces for you and your friends,
           and to promote the creation and capture of ideas. --> */}
       <div>
-        <p>The Waldgrave has a few projects in the works, one of them is the <a href="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014">Waldgrave Social Media platform on ios</a>, social media minimized. Named BeKin, because it brings people together and you can light a beacon indicating your availablity to hang out. It also contains a twitter clone limited to friends with a friends of friends option. Another one of the projects is <a href="/chigui">the Chi-GUI Conspiracy </a>(featuring BUBI), which is just getting started &#129323;. Ongoing efforts include the <a href="/theb-LOGS">the b-LOGS</a>, focused on the Monday Night Review series, and <a href="/CarlsCommentary">a music blog</a>. GolfGolfminiGolf is on the Q4 wishlist, a <a href="/GolfGolf">mini-golf revolution</a> centered on proving the superiority of profit-minimizing business structures.
+        <p>The Waldgrave has a few projects in the works, one of them is the <Link href="/bekin">Waldgrave Social Media platform on iOS</Link>, social media minimized. Named BeKin, because it brings people together and you can light a beacon indicating your availablity to hang out. It also contains a twitter clone limited to friends with a friends of friends option. Another one of the projects is <a href="/chigui">the Chi-GUI Conspiracy </a>(featuring BUBI), which is just getting started &#129323;. Ongoing efforts include the <a href="/theb-LOGS">the b-LOGS</a>, focused on the Monday Night Review series, and <a href="/CarlsCommentary">a music blog</a>. GolfGolfminiGolf is on the Q4 wishlist, a <a href="/GolfGolf">mini-golf revolution</a> centered on proving the superiority of profit-minimizing business structures.
 {/*
         Prototyping that is a Q4 goal, but any interest in working on or funding the project is welcome (pay money in money, profits to the producers. GolfGolfminiGolf will guarantee a return above inflation, but no guarantee on when, and no ownership (keys) to the money monkeys). */}
         </p>

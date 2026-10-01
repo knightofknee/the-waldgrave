@@ -1,5 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import AppStoreCta from '../../../components/AppStoreCta'
+
+const APP_STORE = 'https://apps.apple.com/us/app/direct-democracy-chicago/id6797189381'
 
 export default function DirectDemocracyEs() {
   return (
@@ -13,10 +16,16 @@ export default function DirectDemocracyEs() {
       <h1>direct democracy</h1>
       <p className="tagline">La voz cívica de Chicago: un tablero de las preocupaciones de toda la ciudad, votaciones por distrito y AMAs donde la comunidad decide si los oficiales realmente respondieron.</p>
 
+      <AppStoreCta url={APP_STORE} lang="es">
+        <p className="also">
+          O <a href="/directdemocracy/app">úsala en tu navegador</a>
+        </p>
+      </AppStoreCta>
+
       <div className="features">
         <div className="feature">
           <h3>El tablero</h3>
-          <p>Plantea los temas que importan y vótalos por prioridad, de crítico a bajo, para clasificar lo que le importa a toda la ciudad. Cada resultado muestra el voto general y el voto verificado lado a lado.</p>
+          <p>Plantea los temas que importan y califica cuánto importa cada uno, del 1 al 5, para clasificar lo que le importa a toda la ciudad. Cada resultado muestra el voto general y el voto verificado lado a lado.</p>
         </div>
         <div className="feature">
           <h3>Tu distrito</h3>
@@ -28,7 +37,7 @@ export default function DirectDemocracyEs() {
         </div>
         <div className="feature">
           <h3>Anónimo por diseño</h3>
-          <p>La verificación de identidad la hace un tercero; la app solo sabe si estás verificado y tu distrito. Tu nombre real nunca se muestra.</p>
+          <p>La verificación de identidad la hace un tercero; la app solo guarda si estás verificado, tu distrito y tus números de distrito electoral. Tu nombre real nunca se muestra.</p>
         </div>
         <div className="feature">
           <h3>Toda la boleta</h3>
@@ -38,10 +47,6 @@ export default function DirectDemocracyEs() {
           <h3>En español</h3>
           <p>La app pregunta tu idioma la primera vez que la abres y puedes cambiarlo cuando quieras en Ajustes. Las declaraciones de los candidatos se muestran en su idioma original.</p>
         </div>
-      </div>
-
-      <div className="cta">
-        <p>Disponible para iOS y Android</p>
       </div>
 
       <footer className="footer">
@@ -99,10 +104,13 @@ export default function DirectDemocracyEs() {
           line-height: 1.55;
           margin-bottom: 0;
         }
-        .cta {
-          margin: 2em 0;
-          color: #C8102E;
-          font-weight: 600;
+        .also {
+          margin: 0;
+          font-size: 0.95em;
+          color: #666;
+        }
+        .also :global(a) {
+          color: #0B4A6F;
         }
         .footer {
           margin-top: 3em;
