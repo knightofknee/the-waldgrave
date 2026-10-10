@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Sara Feigenholtz, candidate for Illinois Senate, 6th District | direct democracy</title>
+    <meta name="description" content="Sara Feigenholtz, candidate for Illinois Senate, 6th District. Her campaign site lists education access, public safety including an assault weapons ban…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-senate-6--sara-feigenholtz" />
+    <meta property="og:title" content="Sara Feigenholtz, candidate for Illinois Senate, 6th District" />
+    <meta property="og:description" content="Sara Feigenholtz, candidate for Illinois Senate, 6th District. Her campaign site lists education access, public safety including an assault weapons ban…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-senate-6--sara-feigenholtz" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Sara Feigenholtz</h1>
+<p>Illinois Senate, 6th District, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<p><a href="https://www.sarafeigenholtz.com/" rel="nofollow noopener">Campaign site (sarafeigenholtz.com)</a></p>
+<h2>Running on</h2>
+<p>Her campaign site lists education access, public safety including an assault weapons ban, health care and senior care, abortion access and LGBTQ rights, and renewable energy and climate as her priorities. She won the March 2026 Democratic primary over Nick Uniejewski with about 56 percent of the vote.</p>
+<h2>Background</h2>
+<p>A full-time legislator, she served in the Illinois House from 1995 to 2020 before being appointed to the Senate seat in 2020.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.ilga.gov/Senate/Members/Details/3376" rel="nofollow noopener">ilga.gov</a></li>
+<li><a href="https://www.sarafeigenholtz.com/" rel="nofollow noopener">sarafeigenholtz.com</a></li>
+<li><a href="https://chicago.suntimes.com/elections/2026/03/17/illinois-state-house-senate-primary-results" rel="nofollow noopener">chicago.suntimes.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/il-senate-6">Everyone in this race: Illinois Senate, 6th District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

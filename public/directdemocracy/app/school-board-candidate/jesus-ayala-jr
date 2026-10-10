@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Jesus Ayala Jr., candidate for Chicago Board of Education, District 7a | direct democracy</title>
+    <meta name="description" content="Jesus Ayala Jr., candidate for Chicago Board of Education, District 7a. Ayala says he would focus on students&#39; academic outcomes, including evaluating…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/jesus-ayala-jr" />
+    <meta property="og:title" content="Jesus Ayala Jr., candidate for Chicago Board of Education, District 7a" />
+    <meta property="og:description" content="Jesus Ayala Jr., candidate for Chicago Board of Education, District 7a. Ayala says he would focus on students&#39; academic outcomes, including evaluating…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/jesus-ayala-jr" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Jesus Ayala Jr.</h1>
+<p>Chicago Board of Education, District 7a, on the Chicago ballot November 3, 2026.</p>
+<p><a href="https://paa.ge/jesusayalajr/en" rel="nofollow noopener">Campaign site (paa.ge)</a></p>
+<h2>Running on</h2>
+<p>Ayala says he would focus on students&#39; academic outcomes, including evaluating whether the district&#39;s Skyline curriculum is producing the gains it should. He wants to address high absenteeism by improving the student experience, including more attention to bullying, and says the board spends too much time on single-school matters instead of districtwide issues. He says relying on unsecured state funds to balance the budget is a mistake. He is backed by the SEIU Illinois State Council, charter school advocates, and the Common Ground Collective.</p>
+<h2>Background</h2>
+<p>Worked at MetroSquash, a nonprofit youth squash and academic program, from 2020 until August 2026, when he left to campaign. CPS graduate who grew up in Bucktown.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.chalkbeat.org/chicago/2026/09/24/school-board-election-2026-district-7a-candidates-voter-guide/" rel="nofollow noopener">chalkbeat.org</a></li>
+<li><a href="https://paa.ge/jesusayalajr/en" rel="nofollow noopener">paa.ge</a></li>
+<li><a href="https://www.chalkbeat.org/chicago/2026/07/23/seiu-endorses-jessica-biggs-for-school-board-president/" rel="nofollow noopener">chalkbeat.org</a></li>
+<li><a href="https://www.chalkbeat.org/chicago/2026/05/27/51-candidates-running-for-the-2026-chicago-school-board-election/" rel="nofollow noopener">chalkbeat.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/school-board/7a">Everyone in this race: Chicago Board of Education, District 7a</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

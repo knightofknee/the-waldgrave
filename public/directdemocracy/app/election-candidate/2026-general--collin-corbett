@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Collin Corbett, candidate for Governor &amp; Lieutenant Governor | direct democracy</title>
+    <meta name="description" content="Collin Corbett, candidate for Governor &amp; Lieutenant Governor. Running as an independent with running mate Carolyn Schofield, president of the McHenry…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--collin-corbett" />
+    <meta property="og:title" content="Collin Corbett, candidate for Governor &amp; Lieutenant Governor" />
+    <meta property="og:description" content="Collin Corbett, candidate for Governor &amp; Lieutenant Governor. Running as an independent with running mate Carolyn Schofield, president of the McHenry…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--collin-corbett" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Collin Corbett</h1>
+<p>Governor &amp; Lieutenant Governor, on the Chicago ballot November 3, 2026. Party: Independent.</p>
+<p><a href="https://www.collinforil.com" rel="nofollow noopener">Campaign site (collinforil.com)</a></p>
+<h2>Running on</h2>
+<p>Running as an independent with running mate Carolyn Schofield, president of the McHenry County Mental Health Board and a former McHenry County Board member. His campaign centers on affordability, including lowering property taxes, freezing discretionary state spending and the gas tax, and reining in data center growth to bring down energy costs. He also proposes cutting business regulations, phasing out the estate tax for family farms and businesses, fixing DCFS, and good-government changes such as fair legislative maps, open primaries, and campaign finance reform. He also backs moving sales taxes off basics such as groceries and diapers and onto services, a mileage-based tax in place of the motor fuel tax, and an independent ethics commission over all of state government, and he supports marriage equality, abortion rights, and more gun control measures.</p>
+<h2>Background</h2>
+<p>Political strategist and small business owner from Palatine who founded Cor Strategies, a consulting firm that worked for Republican candidates; he left the firm after the March 2026 primary to run as an independent.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.collinforil.com/affordability" rel="nofollow noopener">collinforil.com</a></li>
+<li><a href="https://www.collinforil.com/grow" rel="nofollow noopener">collinforil.com</a></li>
+<li><a href="https://www.collinforil.com/reform" rel="nofollow noopener">collinforil.com</a></li>
+<li><a href="https://www.collinforil.com/about/collin" rel="nofollow noopener">collinforil.com</a></li>
+<li><a href="https://capitolnewsillinois.com/news/former-republican-strategist-collin-corbett-files-to-run-for-governor-as-independent/" rel="nofollow noopener">capitolnewsillinois.com</a></li>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-09/Candidate%20List_20260911-1.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://capitolnewsillinois.com/news/republican-turned-independent-collin-corbett-hopes-to-provide-voters-an-alternative-for-governor/" rel="nofollow noopener">capitolnewsillinois.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/governor">Everyone in this race: Governor &amp; Lieutenant Governor</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

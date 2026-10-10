@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Governor &amp; Lieutenant Governor, November 3, 2026 ballot | direct democracy</title>
+    <meta name="description" content="Governor &amp; Lieutenant Governor on the Chicago ballot November 3, 2026. Illinois&#39; chief executive, elected statewide as a ticket. Candidates: JB Pritzker…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-race/governor" />
+    <meta property="og:title" content="Governor &amp; Lieutenant Governor, November 3, 2026 ballot" />
+    <meta property="og:description" content="Governor &amp; Lieutenant Governor on the Chicago ballot November 3, 2026. Illinois&#39; chief executive, elected statewide as a ticket. Candidates: JB Pritzker…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-race/governor" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Governor &amp; Lieutenant Governor</h1>
+<p>Illinois&#39; chief executive, elected statewide as a ticket.</p>
+<p>On the Chicago ballot November 3, 2026.</p>
+<h2>On the ballot</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--jb-pritzker">JB Pritzker</a> (Democratic, Incumbent): Seeking a third term with running mate Christian Mitchell, a former state representative and deputy governor. His campaign points to his record on education funding, youth mental health, workforce development, climate…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--collin-corbett">Collin Corbett</a> (Independent): Running as an independent with running mate Carolyn Schofield, president of the McHenry County Mental Health Board and a former McHenry County Board member. His campaign centers on affordability, including lowering…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--darren-bailey">Darren Bailey</a> (Republican): Running a rematch of the 2022 race with running mate Aaron Del Mar after winning the March primary with about 54 percent. His campaign emphasizes affordability and property tax relief, support for working families and…</li>
+</ul>
+<h2>Write-in candidates</h2>
+<p>These names are not printed on the ballot. To vote for one, write the name in the blank write-in space for that office and fill in the oval (on a touchscreen, follow the write-in steps on screen). Votes count only for write-ins who filed a declaration. The Chicago Board of Elections does not post those names, so this list comes from the Cook County Clerk&#39;s list and campaign announcements; election judges at your polling place have the official one.</p>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--elizabeth-ann-sebesta">Elizabeth Ann Sebesta</a> (Write-in): Declared write-in candidate; the name is not printed on the ballot. No platform or campaign website found.</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--griselda-romero">Griselda Romero</a> (Green, Write-in): Declared write-in candidate; the name is not printed on the ballot. Running with Eyde Arndell of Carbondale, a co-founder of the March for Medicare All. Romero says housing, health care, and fair wages are rights, wants…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--mike-vick">Mike Vick</a> (American Solidarity Party, Write-in): Declared write-in candidate; the name is not printed on the ballot. Running with Gary Pierce, a Navy veteran, addiction counselor, and ordained minister. Vick calls his campaign a &quot;pro-life for the whole life&quot;…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--misty-metroz">Misty Metroz</a> (Write-in): Declared write-in candidate; the name is not printed on the ballot. No platform or campaign website found.</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--patricia-l-tillman">Patricia L. Tillman</a> (Democratic, Write-in): Declared write-in candidate; the name is not printed on the ballot. Running with Joseph L. Mosley. No platform or campaign website found. The State Board of Elections removed the ticket from the March Democratic primary…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--rafael-varela">Rafael Varela</a> (Write-in): Declared write-in candidate; the name is not printed on the ballot. No platform or campaign website found.</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--richard-benedict-mayers">Richard Benedict Mayers</a> (Independent, Write-in): Declared write-in candidate; the name is not printed on the ballot. No platform or campaign website found. He was disqualified from the governor ballot after objections to his nominating petitions.</li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Angel Alvarez, candidate for Chicago Board of Education, District 4a | direct democracy</title>
+    <meta name="description" content="Angel Alvarez, candidate for Chicago Board of Education, District 4a. Alvarez says limiting CPS property tax increases is his top priority and that the…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/angel-alvarez" />
+    <meta property="og:title" content="Angel Alvarez, candidate for Chicago Board of Education, District 4a" />
+    <meta property="og:description" content="Angel Alvarez, candidate for Chicago Board of Education, District 4a. Alvarez says limiting CPS property tax increases is his top priority and that the…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/angel-alvarez" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Angel Alvarez</h1>
+<p>Chicago Board of Education, District 4a, on the Chicago ballot November 3, 2026.</p>
+<h2>Running on</h2>
+<p>Alvarez says limiting CPS property tax increases is his top priority and that the district can do more with the money it has by cutting waste and giving Local School Councils more say over school budgets, while still seeking state funding. He wants more responsive special education services and would push the city to screen all children for learning and other disabilities before they start school. He has also signed the Illinois Families for Public Schools pledge calling for a three-year pause on generative AI in CPS, a district chief privacy officer, limits on student device time, and a ban on collecting biometric data.</p>
+<h2>Background</h2>
+<p>Scientist, research assistant professor of neurology, and director of the Stem Cell Core at Northwestern University. Leads a family advisory board for the CPS Office for Students with Disabilities and is a former Local School Council member.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.chalkbeat.org/chicago/2026/09/24/school-board-election-2026-district-4a-candidates-voter-guide/" rel="nofollow noopener">chalkbeat.org</a></li>
+<li><a href="https://www.cancer.northwestern.edu/research/membership/profile.html?id=f4c61e45bccda0503ad08d4342176683" rel="nofollow noopener">cancer.northwestern.edu</a></li>
+<li><a href="https://citizennewspapergroup.com/news/2026/aug/12/advocates-call-on-chicago-school-board-candidates-to-pledge-to-protect-human-centered-education/" rel="nofollow noopener">citizennewspapergroup.com</a></li>
+<li><a href="https://ballotpedia.org/Angel_Alvarez" rel="nofollow noopener">ballotpedia.org</a></li>
+<li><a href="https://www.chalkbeat.org/chicago/2026/06/04/chicago-school-board-candidates-face-petition-challenges/" rel="nofollow noopener">chalkbeat.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/school-board/4a">Everyone in this race: Chicago Board of Education, District 4a</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Pamela Reaves-Harris, judge up for retention | direct democracy</title>
+    <meta name="description" content="Pamela Reaves-Harris, judge up for retention. Elected from the 7th Subcircuit in 2020; hears small claims cases in the First Municipal District after an…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--judicial-retention--pamela-reaves-harris" />
+    <meta property="og:title" content="Pamela Reaves-Harris, judge up for retention" />
+    <meta property="og:description" content="Pamela Reaves-Harris, judge up for retention. Elected from the 7th Subcircuit in 2020; hears small claims cases in the First Municipal District after an…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--judicial-retention--pamela-reaves-harris" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Pamela Reaves-Harris</h1>
+<p>Judge up for retention, on the Chicago ballot November 3, 2026. Incumbent.</p>
+<p>Circuit Court of Cook County</p>
+<h2>Ratings</h2>
+<ul>
+<li>Chicago Bar Association: <a href="https://www.chicagobar.org/votejudges#:~:text=Pamela%20Reaves%2DHarris" rel="nofollow noopener">Qualified</a></li>
+<li>Illinois State Bar Association: <a href="https://www.isba.org/judicial-elections/counties/cook#:~:text=Pamela%20Reaves%20%2D%20Harris" rel="nofollow noopener">Yes</a></li>
+</ul>
+<h2>Record</h2>
+<p>Elected from the 7th Subcircuit in 2020; hears small claims cases in the First Municipal District after an assignment in the housing section. Injustice Watch reports that in 2019 she spoke out against Illinois Supreme Court Justice Anne Burke&#39;s appointment of a white woman to a vacant seat in the majority-Black 7th Subcircuit, after Burke said the Chicago Bar Association had not recommended Reaves-Harris because of limited practice and court experience. By the 2020 primary the association had found her qualified, the appointee did not run, and she won a five-way race for the seat. A judge stays on the bench with a yes from 60 percent of voters.</p>
+<h2>Background</h2>
+<p>Special assistant for legal affairs at the Cook County Bureau of Economic Development (2017-2020); Illinois state representative for the 10th District on Chicago&#39;s West Side (2015-2017); solo practitioner in real estate, child support, divorce, and estate planning, and an administrative law judge for Chicago and several suburbs (1995-2017); assistant vice president and compliance officer at CitiBank (1993-1995). Law degree from IIT Chicago-Kent (1992).</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-09/Candidate%20List_20260911-1.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://2026retention.injusticewatch.org/candidate/pamela-reaves-harris-35855" rel="nofollow noopener">2026retention.injusticewatch.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/judicial-retention">Everyone in this race: Judges up for retention</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

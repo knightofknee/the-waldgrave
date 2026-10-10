@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Allyson Scrutchens, candidate for 6th Ward alderman | direct democracy</title>
+    <meta name="description" content="Allyson Scrutchens, candidate for 6th Ward alderman. Kicked off her campaign in July 2026 to challenge Ald. William Hall. She says her focus is…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--allyson-scrutchens" />
+    <meta property="og:title" content="Allyson Scrutchens, candidate for 6th Ward alderman" />
+    <meta property="og:description" content="Allyson Scrutchens, candidate for 6th Ward alderman. Kicked off her campaign in July 2026 to challenge Ald. William Hall. She says her focus is…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--allyson-scrutchens" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Allyson Scrutchens</h1>
+<p>6th Ward alderman, on the Chicago ballot February 23, 2027.</p>
+<p><a href="https://voteforallyson.com/" rel="nofollow noopener">Campaign site (voteforallyson.com)</a></p>
+<h2>Running on</h2>
+<p>Kicked off her campaign in July 2026 to challenge Ald. William Hall. She says her focus is strengthening neighborhoods, supporting local businesses, improving public safety, and delivering responsive leadership. Her campaign lists six priorities: community development, economic investment, quality of life, education, public safety, and housing and neighborhood preservation.</p>
+<h2>Background</h2>
+<p>Founder and CEO of Forward Planning, a strategic planning and fundraising firm, since 2014; former executive director of the Chicago Aldermanic Black Caucus Foundation. 6th Ward resident since 2013 with a master of public administration from the University of Illinois Chicago.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.politico.com/newsletters/illinois-playbook/2026/07/22/data-boom-meets-boundaries-01007090" rel="nofollow noopener">politico.com</a></li>
+<li><a href="https://voteforallyson.com/" rel="nofollow noopener">voteforallyson.com</a></li>
+<li><a href="https://voteforallyson.com/meet-allyson" rel="nofollow noopener">voteforallyson.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/ward-race/6">Everyone in this race: 6th Ward</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

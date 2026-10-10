@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Drake Warren, candidate for Cook County Commissioner, 10th District | direct democracy</title>
+    <meta name="description" content="Drake Warren, candidate for Cook County Commissioner, 10th District. His campaign site lists six planks: protecting health care (strengthening Cook County…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--cook-commissioner-10--drake-warren" />
+    <meta property="og:title" content="Drake Warren, candidate for Cook County Commissioner, 10th District" />
+    <meta property="og:description" content="Drake Warren, candidate for Cook County Commissioner, 10th District. His campaign site lists six planks: protecting health care (strengthening Cook County…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--cook-commissioner-10--drake-warren" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Drake Warren</h1>
+<p>Cook County Commissioner, 10th District, on the Chicago ballot November 3, 2026. Party: Democratic.</p>
+<p><a href="https://drakefor10.com/" rel="nofollow noopener">Campaign site (drakefor10.com)</a></p>
+<h2>Running on</h2>
+<p>His campaign site lists six planks: protecting health care (strengthening Cook County Health and CountyCare), fairness in property taxes, lowering the cost of living by expanding housing supply, standing up to federal actions including immigration enforcement and data sharing, restorative justice, and an open and ethical county government. In coverage he has also proposed ethics rules barring officials from voting on matters tied to their employers and exploring land value or split-rate taxation.</p>
+<h2>Background</h2>
+<p>Industrial engineer and West Monroe consultant who spent about a decade as a community organizer on housing, health care access, and environmental restoration; a first-time candidate who served on the Chicago Growth Project steering committee.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-09/Candidate%20List_20260911-1.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://drakefor10.com/" rel="nofollow noopener">drakefor10.com</a></li>
+<li><a href="https://nadignewspapers.com/newcomer-warren-defeats-incumbent-gainer-for-seat-on-cook-county-board-in-north-northwest-side-district/" rel="nofollow noopener">nadignewspapers.com</a></li>
+<li><a href="https://www.thedailyline.com/cook-county-commissioner-drake-warren-profile-2026-incoming-presumptive-district-10-commissioner-urbanism" rel="nofollow noopener">thedailyline.com</a></li>
+<li><a href="https://windycitytimes.com/2026/02/24/pansexual-organizer-drake-warren-challenges-gainer-for-cook-countys-10th-district-seat/" rel="nofollow noopener">windycitytimes.com</a></li>
+<li><a href="https://criticalreport.substack.com/p/2026-il-county-primaries" rel="nofollow noopener">criticalreport.substack.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cook_County_Board_of_Commissioners_10th_district" rel="nofollow noopener">en.wikipedia.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/cook-commissioner-10">Everyone in this race: Cook County Commissioner, 10th District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

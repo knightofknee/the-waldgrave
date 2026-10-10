@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Kernetha Jones, write-in candidate for Chicago Board of Education, District 5a | direct democracy</title>
+    <meta name="description" content="Kernetha Jones, write-in candidate for Chicago Board of Education, District 5a. Declared write-in candidate; the name is not printed on the ballot. In her…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/kernetha-jones" />
+    <meta property="og:title" content="Kernetha Jones, write-in candidate for Chicago Board of Education, District 5a" />
+    <meta property="og:description" content="Kernetha Jones, write-in candidate for Chicago Board of Education, District 5a. Declared write-in candidate; the name is not printed on the ballot. In her…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/kernetha-jones" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Kernetha Jones</h1>
+<p>Chicago Board of Education, District 5a, on the Chicago ballot November 3, 2026. Declared write-in.</p>
+<p>These names are not printed on the ballot. To vote for one, write the name in the blank write-in space for that office and fill in the oval (on a touchscreen, follow the write-in steps on screen). Votes count only for write-ins who filed a declaration. The Chicago Board of Elections does not post those names, so this list comes from the Cook County Clerk&#39;s list and campaign announcements; election judges at your polling place have the official one.</p>
+<h2>Running on</h2>
+<p>Declared write-in candidate; the name is not printed on the ballot. In her Sun-Times questionnaire she calls for removing CPS&#39;s comprehensive sex education curriculum, giving parents vouchers to attend any school they choose, hiring more Black teachers, and returning phonics, cursive, and recess to the curriculum. She opposes raising the property tax levy until test scores improve, wants stricter limits on AI and devices in classrooms, and opposes opening new charter schools. She was removed from the printed ballot and was also a write-in candidate for District 5 in 2024.</p>
+<h2>Background</h2>
+<p>Retired CPS special education teacher who taught students with learning or behavioral disabilities at several CPS elementary schools in the 1980s and 1990s; Local School Council member at Austin College and Career Academy since 2025 and a Sunday school teacher on the West Side.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.chalkbeat.org/chicago/2026/09/24/school-board-election-2026-district-5a-candidates-voter-guide/" rel="nofollow noopener">chalkbeat.org</a></li>
+<li><a href="https://chicago.suntimes.com/elections/2026/graphics/chicago-school-board-education-voter-guide/candidates/kernetha-jones/" rel="nofollow noopener">chicago.suntimes.com</a></li>
+<li><a href="https://blockclubchicago.org/2026/09/24/chicago-school-board-election-2026-voter-guide/" rel="nofollow noopener">blockclubchicago.org</a></li>
+<li><a href="https://www.chalkbeat.org/chicago/2026/05/27/51-candidates-running-for-the-2026-chicago-school-board-election/" rel="nofollow noopener">chalkbeat.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/school-board/5a">Everyone in this race: Chicago Board of Education, District 5a</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

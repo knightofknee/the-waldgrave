@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Chicago aldermen, all 50 wards | direct democracy</title>
+    <meta name="description" content="All 50 Chicago aldermen by ward, with ward office contacts. Ask an alderman a question in public and see how residents judge the answers." />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/officials" />
+    <meta property="og:title" content="Chicago aldermen, all 50 wards" />
+    <meta property="og:description" content="All 50 Chicago aldermen by ward, with ward office contacts. Ask an alderman a question in public and see how residents judge the answers." />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/officials" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Chicago aldermen</h1>
+<p>Every Chicago alderman, by ward. Each one has a page where residents ask questions in public, rate the alderman, and judge whether the answers are real.</p>
+<ul>
+<li><a href="/directdemocracy/app/official/RSsn0HCj5oajDL9hNbDpTzIBGes1">Daniel La Spata</a>, Alderman, 1st Ward (<a href="/directdemocracy/app/ward-race/1">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/AabmQiTDDlQIrnvb7PngFhctyhh2">Brian Hopkins</a>, Alderman, 2nd Ward (<a href="/directdemocracy/app/ward-race/2">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/eKtGmnRrvRacQkv7JjujCFW1gw13">Pat Dowell</a>, Alderman, 3rd Ward (<a href="/directdemocracy/app/ward-race/3">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/rfBNXYfYNfZ3AV7P27AyQHmUo3l2">Lamont J. Robinson</a>, Alderman, 4th Ward (<a href="/directdemocracy/app/ward-race/4">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/ChPZ067vyaPTSeOdQhVXQ9gP6aE2">Desmon C. Yancy</a>, Alderman, 5th Ward (<a href="/directdemocracy/app/ward-race/5">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/cznPqk6XKePPbxGklUChQ9Cykmb2">William E. Hall</a>, Alderman, 6th Ward (<a href="/directdemocracy/app/ward-race/6">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/r4xKicsWLPUqWoLFnC1zaQ7559l1">Gregory I. Mitchell</a>, Alderman, 7th Ward (<a href="/directdemocracy/app/ward-race/7">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/rGHJLvkpFCU1zkPRpatQp9mXByc2">Michelle A. Harris</a>, Alderman, 8th Ward (<a href="/directdemocracy/app/ward-race/8">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/LO53LQLO4XbzATXzQ4wdvD65IGE2">Anthony Beale</a>, Alderman, 9th Ward (<a href="/directdemocracy/app/ward-race/9">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/Koexa6WISwVkuukdiYvtwqOfsTv1">Peter Chico</a>, Alderman, 10th Ward (<a href="/directdemocracy/app/ward-race/10">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/UjDokoRERrVTaCbe6Zin7ON0rjk2">Nicole T. Lee</a>, Alderman, 11th Ward (<a href="/directdemocracy/app/ward-race/11">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/VNiJkyZnOvgqAzg4nysDTR4XPIT2">Julia M. Ramirez</a>, Alderman, 12th Ward (<a href="/directdemocracy/app/ward-race/12">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/KAC4IOohXQNTdQLtLOzPaYNK2ol1">Marty Quinn</a>, Alderman, 13th Ward (<a href="/directdemocracy/app/ward-race/13">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/MzKIIUkDLeXFcjuK2k4QYQMy3oo1">Jeylu B. Gutierrez</a>, Alderman, 14th Ward (<a href="/directdemocracy/app/ward-race/14">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/md8jsm6v2qV332QmFCoesVLDuCk1">Raymond A. Lopez</a>, Alderman, 15th Ward (<a href="/directdemocracy/app/ward-race/15">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/ueKSnpnc5qgeY3lAlSEWhFtYmqP2">Stephanie D. Coleman</a>, Alderman, 16th Ward (<a href="/directdemocracy/app/ward-race/16">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/8EFns3OBl6MH9ul4P9vqY2RbXJ13">David H. Moore</a>, Alderman, 17th Ward (<a href="/directdemocracy/app/ward-race/17">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/3beUV8aNs8hmwTkzdz2hOMrbTEU2">Derrick G. Curtis</a>, Alderman, 18th Ward (<a href="/directdemocracy/app/ward-race/18">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/RZ2wGdEEc7SMdcpXwKGI6qB8jGO2">Matthew J. O&#39;Shea</a>, Alderman, 19th Ward (<a href="/directdemocracy/app/ward-race/19">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/cdcMl4I5WaQsGFFusmYaPx7DjkI3">Jeanette B. Taylor</a>, Alderman, 20th Ward (<a href="/directdemocracy/app/ward-race/20">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/1hdYo5n3HxQqQl4BiraSUjOq8LZ2">Ronnie L. Mosley</a>, Alderman, 21st Ward (<a href="/directdemocracy/app/ward-race/21">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/tZJK8M8LNUe4mEtzYif7pNaZUsj2">Michael D. Rodriguez</a>, Alderman, 22nd Ward (<a href="/directdemocracy/app/ward-race/22">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/0WySHPGaugWss2TSnCXMGWrSbg33">Silvana Tabares</a>, Alderman, 23rd Ward (<a href="/directdemocracy/app/ward-race/23">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/azyaZqfEWSh5gqDLD7JvrxrvIvp1">Monique L. Scott</a>, Alderman, 24th Ward (<a href="/directdemocracy/app/ward-race/24">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/8dXUfx3WNZTD9fmcozKI5A96YUA2">Byron Sigcho-Lopez</a>, Alderman, 25th Ward (<a href="/directdemocracy/app/ward-race/25">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/sWofjG1r8kSLqTzcrmFJqWZaTS22">Jessica L. Fuentes</a>, Alderman, 26th Ward (<a href="/directdemocracy/app/ward-race/26">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/ZiRF2RTSURYNwY2cJ1NTUsUSixx1">Walter R. Burnett</a>, Alderman, 27th Ward (<a href="/directdemocracy/app/ward-race/27">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/GNXjjPWkj6cZBfCZKpoHLJXSWNF3">Jason C. Ervin</a>, Alderman, 28th Ward (<a href="/directdemocracy/app/ward-race/28">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/wB6HLK9dPhNWxEt12fXONq48Rsj1">Chris Taliaferro</a>, Alderman, 29th Ward (<a href="/directdemocracy/app/ward-race/29">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/YOKTZUspN4WiX0GJVw0d8Mw3DCv1">Ruth Cruz</a>, Alderman, 30th Ward (<a href="/directdemocracy/app/ward-race/30">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/ajCoc0geL9YBHHgNulBNSZLagm02">Felix Cardona Jr.</a>, Alderman, 31st Ward (<a href="/directdemocracy/app/ward-race/31">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/5fDi9nffx4X1x4HzRGt82GP0yzP2">Scott Waguespack</a>, Alderman, 32nd Ward (<a href="/directdemocracy/app/ward-race/32">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/9dmr37kUUcToJtgpJSDIHPCrRg03">Rossana Rodriguez Sanchez</a>, Alderman, 33rd Ward (<a href="/directdemocracy/app/ward-race/33">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/zRXHNvFeO8eYTWl8Hdyw7U5S2Ha2">William Conway</a>, Alderman, 34th Ward (<a href="/directdemocracy/app/ward-race/34">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/vUeDnEnfLUVuhJTHBriBnI22Lns2">Anthony J. Quezada</a>, Alderman, 35th Ward (<a href="/directdemocracy/app/ward-race/35">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/680KCsNE3rewelRGs0dDSi8ATqt1">Gilbert Villegas</a>, Alderman, 36th Ward (<a href="/directdemocracy/app/ward-race/36">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/tRIMDX9iVHckJDAfE8A7UNTUSKz2">Emma Mitts</a>, Alderman, 37th Ward (<a href="/directdemocracy/app/ward-race/37">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/MIVAIoTNvuXPCzy2yXMbJSvX5bS2">Nicholas Sposato</a>, Alderman, 38th Ward (<a href="/directdemocracy/app/ward-race/38">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/ATQ6WZZpszPrwOeP8N9otGhowuq1">Samantha Nugent</a>, Alderman, 39th Ward (<a href="/directdemocracy/app/ward-race/39">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/qpSJJWg7QfVmHn4mIphx9hnmf712">Andre Vasquez Jr.</a>, Alderman, 40th Ward (<a href="/directdemocracy/app/ward-race/40">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/MtukoEvaYsXYAxNGxtVeuKxDvqG3">Anthony V. Napolitano</a>, Alderman, 41st Ward (<a href="/directdemocracy/app/ward-race/41">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/j3VDoAHbFwRs86WAGofmcCraL1j1">Brendan Reilly</a>, Alderman, 42nd Ward (<a href="/directdemocracy/app/ward-race/42">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/ZqbDKt6mVxQ1Gy0Gt3VHhboYfae2">Timothy R. Knudsen</a>, Alderman, 43rd Ward (<a href="/directdemocracy/app/ward-race/43">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/9890H67SXwYXXtIyUEm4EqW9DlF2">Bennett R. Lawson</a>, Alderman, 44th Ward (<a href="/directdemocracy/app/ward-race/44">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/epIQelE0M0QIIxFZ7TSuWw2G0Kr2">James M. Gardiner</a>, Alderman, 45th Ward (<a href="/directdemocracy/app/ward-race/45">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/JykWdqHEbUWDmBP3fPjCcXfDetj2">Angela Clay</a>, Alderman, 46th Ward (<a href="/directdemocracy/app/ward-race/46">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/JqwLxEslRaP5iWsLf7MbQpR0aij2">Matthew J. Martin</a>, Alderman, 47th Ward (<a href="/directdemocracy/app/ward-race/47">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/qXORElm2cwfWl558Zuu2BxWN73K3">Leni Manaa-Hoppenworth</a>, Alderman, 48th Ward (<a href="/directdemocracy/app/ward-race/48">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/k6sMt4WWAUe8jGQ3KnC91S7QwK13">Maria E. Hadden</a>, Alderman, 49th Ward (<a href="/directdemocracy/app/ward-race/49">2027 race</a>)</li>
+<li><a href="/directdemocracy/app/official/6omcD1J6JTWpPwBodJqUD0q11GB2">Debra L. Silverstein</a>, Alderman, 50th Ward (<a href="/directdemocracy/app/ward-race/50">2027 race</a>)</li>
+</ul>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

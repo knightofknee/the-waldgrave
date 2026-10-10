@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Frances Ann Hurley, candidate for Illinois Senate, 18th District | direct democracy</title>
+    <meta name="description" content="Frances Ann Hurley, candidate for Illinois Senate, 18th District. Her campaign lists three priorities: seniors (property tax relief, lower prescription…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-senate-18--frances-ann-hurley" />
+    <meta property="og:title" content="Frances Ann Hurley, candidate for Illinois Senate, 18th District" />
+    <meta property="og:description" content="Frances Ann Hurley, candidate for Illinois Senate, 18th District. Her campaign lists three priorities: seniors (property tax relief, lower prescription…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-senate-18--frances-ann-hurley" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Frances Ann Hurley</h1>
+<p>Illinois Senate, 18th District, on the Chicago ballot November 3, 2026. Party: Democratic.</p>
+<p><a href="https://franhurley.com/" rel="nofollow noopener">Campaign site (franhurley.com)</a></p>
+<h2>Running on</h2>
+<p>Her campaign lists three priorities: seniors (property tax relief, lower prescription drug costs), first responders (access to mental health services and suicide prevention resources), and affordability (rising costs of groceries, utilities and housing).</p>
+<h2>Background</h2>
+<p>State representative for the 35th District from 2013 to 2023, then a member of the Illinois Labor Relations Board; earlier an aide to 19th Ward aldermen and a project manager at the Cook County Sheriff&#39;s Office.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://franhurley.com/" rel="nofollow noopener">franhurley.com</a></li>
+<li><a href="https://franhurley.com/issues/" rel="nofollow noopener">franhurley.com</a></li>
+<li><a href="https://franhurley.com/meet-fran/" rel="nofollow noopener">franhurley.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Frances_Ann_Hurley" rel="nofollow noopener">en.wikipedia.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/William_Cunningham_(Illinois_politician)" rel="nofollow noopener">en.wikipedia.org</a></li>
+<li><a href="https://ilga.gov/Senate/Members" rel="nofollow noopener">ilga.gov</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/il-senate-18">Everyone in this race: Illinois Senate, 18th District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

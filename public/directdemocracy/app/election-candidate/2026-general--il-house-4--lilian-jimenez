@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Lilian Jimenez, candidate for Illinois House, 4th District | direct democracy</title>
+    <meta name="description" content="Lilian Jimenez, candidate for Illinois House, 4th District. Her campaign site says she wants to tax corporations and high earners rather than working…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-house-4--lilian-jimenez" />
+    <meta property="og:title" content="Lilian Jimenez, candidate for Illinois House, 4th District" />
+    <meta property="og:description" content="Lilian Jimenez, candidate for Illinois House, 4th District. Her campaign site says she wants to tax corporations and high earners rather than working…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-house-4--lilian-jimenez" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Lilian Jimenez</h1>
+<p>Illinois House, 4th District, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<p><a href="https://www.lilianforstaterep.com/" rel="nofollow noopener">Campaign site (lilianforstaterep.com)</a></p>
+<h2>Running on</h2>
+<p>Her campaign site says she wants to tax corporations and high earners rather than working people, stabilize property taxes, expand community land trusts, protect reproductive rights, and restrict immigration enforcement at schools, courthouses, day cares, universities, and hospitals. In a Sun-Times questionnaire she named ICE enforcement, health care, housing, child care costs, and property taxes as the district&#39;s top concerns.</p>
+<h2>Background</h2>
+<p>Immigration and labor attorney who served as chief of staff to Cook County Commissioner Jesus &#39;Chuy&#39; Garcia, director of the Fair Labor Standards Division at the Illinois Department of Labor, and administrator of the Office of Welcoming Centers at the Illinois Department of Human Services.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.lilianforstaterep.com/" rel="nofollow noopener">lilianforstaterep.com</a></li>
+<li><a href="https://chicago.suntimes.com/elections/2026/candidate-questionnaires/lilian-jimenez-illinois-house-primary-4th-district" rel="nofollow noopener">chicago.suntimes.com</a></li>
+<li><a href="https://www.ilga.gov/House/Members/Details/3417" rel="nofollow noopener">ilga.gov</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/il-house-4">Everyone in this race: Illinois House, 4th District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Anusha Thotakura, candidate for Chicago Board of Education, District 6a | direct democracy</title>
+    <meta name="description" content="Anusha Thotakura, candidate for Chicago Board of Education, District 6a. Thotakura says she is running to expand access to high-quality pre-K across…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/anusha-thotakura" />
+    <meta property="og:title" content="Anusha Thotakura, candidate for Chicago Board of Education, District 6a" />
+    <meta property="og:description" content="Anusha Thotakura, candidate for Chicago Board of Education, District 6a. Thotakura says she is running to expand access to high-quality pre-K across…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/anusha-thotakura" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Anusha Thotakura</h1>
+<p>Chicago Board of Education, District 6a, on the Chicago ballot November 3, 2026. Incumbent. Endorsed by the Chicago Teachers Union.</p>
+<p><a href="https://www.anushaforcps.com/" rel="nofollow noopener">Campaign site (anushaforcps.com)</a></p>
+<h2>Running on</h2>
+<p>Thotakura says she is running to expand access to high-quality pre-K across District 6A, put dedicated full-time counselors and social workers in every CPS school, and grow career and technical education tied to clean energy job training. She points to creating the Healthy Green Schools Fund and a board resolution launching renewable energy projects as first-term work she wants to continue.</p>
+<h2>Background</h2>
+<p>Executive director of Citizen Action/Illinois and a former bilingual middle school math teacher through Teach For America; she has served on the Chicago Board of Education for District 6A.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.anushaforcps.com/" rel="nofollow noopener">anushaforcps.com</a></li>
+<li><a href="https://www.chalkbeat.org/chicago/2026/08/11/chicago-public-schools-board-races-close-to-set/" rel="nofollow noopener">chalkbeat.org</a></li>
+<li><a href="https://www.chalkbeat.org/chicago/2026/07/14/ctu-announces-endorsements-in-school-board-election/" rel="nofollow noopener">chalkbeat.org</a></li>
+<li><a href="https://www.ctulocal1.org/movement/school-board-election-2026/" rel="nofollow noopener">ctulocal1.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/school-board/6a">Everyone in this race: Chicago Board of Education, District 6a</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

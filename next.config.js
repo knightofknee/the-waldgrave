@@ -76,6 +76,17 @@ const nextConfig = {
         source: `${DD_APP}/index.html`,
         headers: [{ key: "Cache-Control", value: "no-cache" }],
       },
+      {
+        // The app's publish writes a page per public screen (a candidate, a
+        // race, an alderman) as an extensionless file, e.g.
+        // /directdemocracy/app/official/<id>, so crawlers and link previews
+        // get that page's title, description, and content. With no extension
+        // Next would serve them as application/octet-stream; this serves them
+        // as HTML. Skips _expo/ and assets/ and any path whose last segment
+        // has an extension (scripts, images, sitemap.xml).
+        source: `${DD_APP}/:path((?!_expo/|assets/)(?:[^/]+/)*[^/.]+)`,
+        headers: [{ key: "Content-Type", value: "text/html; charset=utf-8" }],
+      },
     ];
   },
 };

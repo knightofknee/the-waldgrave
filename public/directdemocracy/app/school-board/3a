@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Chicago Board of Education, District 3a, November 3, 2026 ballot | direct democracy</title>
+    <meta name="description" content="Chicago Board of Education, District 3a, on the Chicago ballot November 3, 2026. One seat, voted on by district residents. Candidates: Norma Rios-Sierra…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/school-board/3a" />
+    <meta property="og:title" content="Chicago Board of Education, District 3a, November 3, 2026 ballot" />
+    <meta property="og:description" content="Chicago Board of Education, District 3a, on the Chicago ballot November 3, 2026. One seat, voted on by district residents. Candidates: Norma Rios-Sierra…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/school-board/3a" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Chicago Board of Education, District 3a</h1>
+<p>One seat, voted on by district residents. On the Chicago ballot November 3, 2026. School board districts do not follow ward lines.</p>
+<h2>On the ballot</h2>
+<ul>
+<li><a href="/directdemocracy/app/school-board-candidate/norma-rios-sierra">Norma Rios-Sierra</a> (Incumbent, CTU endorsed): Rios-Sierra says she is running for fully resourced schools with on-site mental health care and welcoming, peer-directed safe spaces to resolve conflicts, expanded equitable access to arts education, and protections for…</li>
+<li><a href="/directdemocracy/app/school-board-candidate/peter-gonzales">Peter Gonzales</a>: Gonzales says he is running for budgets you can actually read before anyone asks for another dollar, manageable class sizes and real backing for teachers, and fully resourced schools across District 3A, not just the ones…</li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

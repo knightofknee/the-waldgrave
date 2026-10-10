@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>All other declared candidates, 2027 mayoral race | direct democracy</title>
+    <meta name="description" content="All other declared candidates, 2027 mayoral race. Listed: Danielle Carter-Walters; Zoe Ma; Lisa Nee." />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/candidate/other-declared-candidates" />
+    <meta property="og:title" content="All other declared candidates, 2027 mayoral race" />
+    <meta property="og:description" content="All other declared candidates, 2027 mayoral race. Listed: Danielle Carter-Walters; Zoe Ma; Lisa Nee." />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/candidate/other-declared-candidates" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>All other declared candidates</h1>
+<p>2027 mayoral race</p>
+<p>These candidates have declared for mayor but published no platform anywhere on their campaign sites, so there is nothing to import and nothing to debate yet. Each entry is what is publicly known, with links. Anyone here who publishes a real platform gets a full candidate page like the rest. Brandon Johnson has not announced a campaign; Maria Pappas has not formally entered.</p>
+<h2>the more perfect platform</h2>
+<ul>
+<li><a href="/directdemocracy/app/candidate/other-declared-candidates/danielle-carter-walters">Danielle Carter-Walters</a>: Small business owner, wife of a retired Chicago police officer, and co-founder of Chicago Flips Red, running as a law-and-order outsider. Her site lists 19 issue areas, from public safety and a &quot;Chicago DOGE&quot; audit to…</li>
+<li><a href="/directdemocracy/app/candidate/other-declared-candidates/zoe-ma">Zoe Ma</a>: Real estate developer from Bronzeville and an immigrant from China; she would be the city&#39;s first Chinese American and first Muslim mayor. Entered the race in late August 2026, running as an independent. Her site…</li>
+<li><a href="/directdemocracy/app/candidate/other-declared-candidates/lisa-nee">Lisa Nee</a>: Cardiologist and former ICU nurse from Humboldt Park, known for blowing the whistle on unnecessary cardiac procedures at a VA hospital. Announced July 7, 2026. Her three campaign themes, affordability, safety, and fiscal…</li>
+</ul>
+<h2>The other mayoral candidates</h2>
+<ul>
+<li><a href="/directdemocracy/app/candidate/wsDeB2jwTGR6XgX96uoOsG2y3hm2">Alexi Giannoulias</a></li>
+<li><a href="/directdemocracy/app/candidate/Oi9BL1sX8kQQbLSk2UaYuyVLUvs1">Brian Carlisle</a></li>
+<li><a href="/directdemocracy/app/candidate/wPkdvjAnedapNl1KNSw1YANnKEB2">George Cardenas</a></li>
+<li><a href="/directdemocracy/app/candidate/1oCf1IYduwev0n0JU8tgdNzcZyx2">Joe Holberg</a></li>
+<li><a href="/directdemocracy/app/candidate/tNryhx8sZkX1HFkBZmOCdkCte9F2">John Kelly</a></li>
+<li><a href="/directdemocracy/app/candidate/KnLjUieynrQZjpMcCTdI2XuuIt83">Mark Su</a></li>
+<li><a href="/directdemocracy/app/candidate/yEOHKeU0AAQnb91496PDiIjOmZg2">Matt Brewer</a></li>
+<li><a href="/directdemocracy/app/candidate/4oD2IFEWjzeL4Q7iu3zq8EefPqY2">Mike Quigley</a></li>
+<li><a href="/directdemocracy/app/candidate/xJE4JOm5uIgUG16LnC67XvZEUZl1">Susana Mendoza</a></li>
+<li><a href="/directdemocracy/app/candidate/uRbM4OJrAMYax0qyhbP48maOg2u1">Toni Brooks</a></li>
+<li><a href="/directdemocracy/app/candidate/Mg0DTiPuSyRCjXnNjBWneSPfX5u1">Willie Wilson</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Leni Manaa-Hoppenworth, candidate for 48th Ward alderman | direct democracy</title>
+    <meta name="description" content="Leni Manaa-Hoppenworth, candidate for 48th Ward alderman. Kicked off her reelection campaign in July 2026 by collecting petition signatures, and her…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--leni-manaa-hoppenworth" />
+    <meta property="og:title" content="Leni Manaa-Hoppenworth, candidate for 48th Ward alderman" />
+    <meta property="og:description" content="Leni Manaa-Hoppenworth, candidate for 48th Ward alderman. Kicked off her reelection campaign in July 2026 by collecting petition signatures, and her…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--leni-manaa-hoppenworth" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Leni Manaa-Hoppenworth</h1>
+<p>48th Ward alderman, on the Chicago ballot February 23, 2027. Incumbent.</p>
+<p><a href="https://www.lenifor48th.com/" rel="nofollow noopener">Campaign site (lenifor48th.com)</a></p>
+<h2>Running on</h2>
+<p>Kicked off her reelection campaign in July 2026 by collecting petition signatures, and her campaign reported more than 650 signatures two days later. Her campaign says health, housing and safety are human rights, and lists education, environment, public safety, housing, LGBTQ+ and reproductive rights, small business and transportation as priorities. She cites the Green Social Housing ordinance and more than $2 million for pedestrian safety around ward schools.</p>
+<h2>Background</h2>
+<p>48th Ward alderwoman since 2023 and 48th Ward Democratic committeewoman; small-business owner since 2003 and co-founder of Indivisible Illinois.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.politico.com/newsletters/illinois-playbook/2026/07/28/governors-unlikely-group-chat-01013209" rel="nofollow noopener">politico.com</a></li>
+<li><a href="https://www.politico.com/newsletters/illinois-playbook/2026/07/30/hanah-jubehs-political-pivot-01015959" rel="nofollow noopener">politico.com</a></li>
+<li><a href="https://www.lenifor48th.com/" rel="nofollow noopener">lenifor48th.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Leni_Manaa-Hoppenworth" rel="nofollow noopener">en.wikipedia.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/ward-race/48">Everyone in this race: 48th Ward</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

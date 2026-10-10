@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Cook County Assessor, November 3, 2026 ballot | direct democracy</title>
+    <meta name="description" content="Cook County Assessor on the Chicago ballot November 3, 2026. Sets the property values your tax bill is built on; an open seat after the incumbent lost his…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-race/cook-assessor" />
+    <meta property="og:title" content="Cook County Assessor, November 3, 2026 ballot" />
+    <meta property="og:description" content="Cook County Assessor on the Chicago ballot November 3, 2026. Sets the property values your tax bill is built on; an open seat after the incumbent lost his…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-race/cook-assessor" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Cook County Assessor</h1>
+<p>Sets the property values your tax bill is built on; an open seat after the incumbent lost his primary.</p>
+<p>On the Chicago ballot November 3, 2026.</p>
+<h2>On the ballot</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--nico-tsatsoulis">Nico Tsatsoulis</a> (Libertarian): Proposes limiting effective property taxes to 1 percent of a property&#39;s real value and basing assessments on actual sales prices rather than government estimates. He argues the current system disproportionately burdens…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--pat-hynes">Pat Hynes</a> (Democratic): Campaigns on making property assessments more accurate, equitable, and transparent, saying too many residents have found the system confusing and unfair. He emphasizes correcting the property tax rolls, including…</li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

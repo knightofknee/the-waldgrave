@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Delia Ramirez, candidate for US House, 3rd District | direct democracy</title>
+    <meta name="description" content="Delia Ramirez, candidate for US House, 3rd District. Ramirez&#39;s campaign site says she is running on housing justice, healthcare for all, public education…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--us-house-3--delia-ramirez" />
+    <meta property="og:title" content="Delia Ramirez, candidate for US House, 3rd District" />
+    <meta property="og:description" content="Delia Ramirez, candidate for US House, 3rd District. Ramirez&#39;s campaign site says she is running on housing justice, healthcare for all, public education…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--us-house-3--delia-ramirez" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Delia Ramirez</h1>
+<p>US House, 3rd District, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<p><a href="https://www.deliaforcongress.com/" rel="nofollow noopener">Campaign site (deliaforcongress.com)</a></p>
+<h2>Running on</h2>
+<p>Ramirez&#39;s campaign site says she is running on housing justice, healthcare for all, public education, community safety, community-centered economic development, and the rights of women and the LGBTQ+ community. Her issue pages say she supports Medicare for All and legislation to lower prescription drug costs, building affordable housing and protecting renters from corporate landlords, and a pathway to citizenship for undocumented immigrants including permanent status for DACA recipients. She also lists co-leading the Dream and Promise Act and pushing comprehensive immigration reform.</p>
+<h2>Background</h2>
+<p>She served in the Illinois House of Representatives for the 4th District from 2018 to 2023, where she was Majority Floor Leader, after 18 years in nonprofit leadership including chairing the boards of LUCHA and the Logan Square Neighborhood Association.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.deliaforcongress.com/" rel="nofollow noopener">deliaforcongress.com</a></li>
+<li><a href="https://www.deliaforcongress.com/meet-delia" rel="nofollow noopener">deliaforcongress.com</a></li>
+<li><a href="https://www.deliaforcongress.com/issues/housing" rel="nofollow noopener">deliaforcongress.com</a></li>
+<li><a href="https://www.deliaforcongress.com/issues/healthcare" rel="nofollow noopener">deliaforcongress.com</a></li>
+<li><a href="https://www.deliaforcongress.com/issues/immigration" rel="nofollow noopener">deliaforcongress.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Delia_Ramirez" rel="nofollow noopener">en.wikipedia.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/us-house-3">Everyone in this race: US House, 3rd District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

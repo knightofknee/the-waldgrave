@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Claudia Zuno, candidate for 12th Ward alderman | direct democracy</title>
+    <meta name="description" content="Claudia Zuno, candidate for 12th Ward alderman. Challenging Ald. Julia Ramirez. Her top pledge is removing the concrete barriers and protected bike lanes…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--claudia-zuno" />
+    <meta property="og:title" content="Claudia Zuno, candidate for 12th Ward alderman" />
+    <meta property="og:description" content="Claudia Zuno, candidate for 12th Ward alderman. Challenging Ald. Julia Ramirez. Her top pledge is removing the concrete barriers and protected bike lanes…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--claudia-zuno" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Claudia Zuno</h1>
+<p>12th Ward alderman, on the Chicago ballot February 23, 2027.</p>
+<p><a href="https://www.claudiafor12thward.com/" rel="nofollow noopener">Campaign site (claudiafor12thward.com)</a></p>
+<h2>Running on</h2>
+<p>Challenging Ald. Julia Ramirez. Her top pledge is removing the concrete barriers and protected bike lanes on Archer and Kedzie avenues and finding alternatives that keep pedestrian routes safe while accommodating truck routes. She also wants to restore gunshot detection technology such as ShotSpotter, support law enforcement, and help small businesses with a chamber of commerce and access to grants and training.</p>
+<h2>Background</h2>
+<p>Second-generation owner of Zuno Photographic, a family photography business founded in 1969; lifelong Brighton Park resident who has served with the Mexican Civic Society of Illinois, the Mexican-American Women&#39;s Auxiliary, and the National Museum of Mexican Art.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://blockclubchicago.org/2026/02/18/fight-over-bike-lanes-in-brighton-park-propels-claudia-zuno-to-run-for-12th-ward-alderperson/" rel="nofollow noopener">blockclubchicago.org</a></li>
+<li><a href="https://www.claudiafor12thward.com/about" rel="nofollow noopener">claudiafor12thward.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/ward-race/12">Everyone in this race: 12th Ward</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

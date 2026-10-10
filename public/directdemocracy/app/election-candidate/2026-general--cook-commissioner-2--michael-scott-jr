@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Michael Scott, Jr., candidate for Cook County Commissioner, 2nd District | direct democracy</title>
+    <meta name="description" content="Michael Scott, Jr., candidate for Cook County Commissioner, 2nd District. Scott says his priorities are expanding access to affordable housing and health…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--cook-commissioner-2--michael-scott-jr" />
+    <meta property="og:title" content="Michael Scott, Jr., candidate for Cook County Commissioner, 2nd District" />
+    <meta property="og:description" content="Michael Scott, Jr., candidate for Cook County Commissioner, 2nd District. Scott says his priorities are expanding access to affordable housing and health…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--cook-commissioner-2--michael-scott-jr" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Michael Scott, Jr.</h1>
+<p>Cook County Commissioner, 2nd District, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<h2>Running on</h2>
+<p>Scott says his priorities are expanding access to affordable housing and health care. His district office site lists public safety, economic growth, and quality-of-life improvements for residents as his focus areas.</p>
+<h2>Background</h2>
+<p>Alderman of Chicago&#39;s 24th Ward from 2015 to 2022, then head of industry and community relations at Cinespace Chicago Film Studios; earlier worked for the Chicago Park District, Chicago Public Schools, and After School Matters.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.cookcountyil.gov/all-people/michael-scott-jr" rel="nofollow noopener">cookcountyil.gov</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Michael_Scott_Jr." rel="nofollow noopener">en.wikipedia.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cook_County_Board_of_Commissioners_2nd_district" rel="nofollow noopener">en.wikipedia.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Cook_County_Board_of_Commissioners_election" rel="nofollow noopener">en.wikipedia.org</a></li>
+<li><a href="https://www.chicagotribune.com/2026/02/18/editorial-michael-scott-jr-cook-county-board-2nd-district-primary/" rel="nofollow noopener">chicagotribune.com</a></li>
+<li><a href="https://www.commissionerscott.com/" rel="nofollow noopener">commissionerscott.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/cook-commissioner-2">Everyone in this race: Cook County Commissioner, 2nd District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Mike Porfirio, candidate for Illinois Senate, 11th District | direct democracy</title>
+    <meta name="description" content="Mike Porfirio, candidate for Illinois Senate, 11th District. Bills he has sponsored, as listed on ilga.gov, center on veterans&#39; affairs and procurement…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-senate-11--mike-porfirio" />
+    <meta property="og:title" content="Mike Porfirio, candidate for Illinois Senate, 11th District" />
+    <meta property="og:description" content="Mike Porfirio, candidate for Illinois Senate, 11th District. Bills he has sponsored, as listed on ilga.gov, center on veterans&#39; affairs and procurement…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-senate-11--mike-porfirio" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Mike Porfirio</h1>
+<p>Illinois Senate, 11th District, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<h2>Running on</h2>
+<p>Bills he has sponsored, as listed on ilga.gov, center on veterans&#39; affairs and procurement preferences for veteran-owned businesses, first responder support, transportation, local government operations and property taxes. We could not find a published 2026 campaign platform.</p>
+<h2>Background</h2>
+<p>A Naval Academy graduate and Navy Reserve officer who served in Iraq and Afghanistan, he was administrator of the Village of Summit, public works director in Bridgeview and a Lyons Township trustee before his 2022 election to the Senate.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.ilga.gov/Senate/Members/Details/3404" rel="nofollow noopener">ilga.gov</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mike_Porfirio" rel="nofollow noopener">en.wikipedia.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/il-senate-11">Everyone in this race: Illinois Senate, 11th District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>US House, 4th District, November 3, 2026 ballot | direct democracy</title>
+    <meta name="description" content="US House, 4th District on the Chicago ballot November 3, 2026. Chicago is split across nine congressional districts. Candidates: Chris Getty, Ed Hershey…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-race/us-house-4" />
+    <meta property="og:title" content="US House, 4th District, November 3, 2026 ballot" />
+    <meta property="og:description" content="US House, 4th District on the Chicago ballot November 3, 2026. Chicago is split across nine congressional districts. Candidates: Chris Getty, Ed Hershey…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-race/us-house-4" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>US House, 4th District</h1>
+<p>Chicago is split across nine congressional districts.</p>
+<p>On the Chicago ballot November 3, 2026.</p>
+<h2>On the ballot</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-4--chris-getty">Chris Getty</a> (Independent): Getty&#39;s campaign site lists cost of living, immigration and public safety, and government accountability as his priorities, and says he wants to restore trust in government and protect the integrity of elections. At an…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-4--ed-hershey">Ed Hershey</a> (Working Class Party): At an April 2026 candidate forum at UIC, Hershey said he is running against the system, criticized both major parties for deporting immigrants and spending heavily on wars, and called for abolishing ICE. In his 2024…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-4--lupe-castillo">Lupe Castillo</a> (Republican): Castillo&#39;s campaign site lists no tax on tips and overtime, voter ID for voting and registration, border security, school choice for low-income families, and support for law enforcement. She also says she wants to…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-4--patty-garcia">Patty Garcia</a> (Democratic): Garcia&#39;s campaign site lists raising the federal minimum wage, passing the PRO Act, expanding the Child Tax Credit, Medicare for All, and fully funding public schools. She says she supports a pathway to citizenship…</li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

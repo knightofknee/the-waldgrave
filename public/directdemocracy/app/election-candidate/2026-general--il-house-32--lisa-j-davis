@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Lisa J. Davis, candidate for Illinois House, 32nd District | direct democracy</title>
+    <meta name="description" content="Lisa J. Davis, candidate for Illinois House, 32nd District. Says she wants to be a voice for women, working families and seniors, keep communities safer…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-house-32--lisa-j-davis" />
+    <meta property="og:title" content="Lisa J. Davis, candidate for Illinois House, 32nd District" />
+    <meta property="og:description" content="Lisa J. Davis, candidate for Illinois House, 32nd District. Says she wants to be a voice for women, working families and seniors, keep communities safer…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--il-house-32--lisa-j-davis" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Lisa J. Davis</h1>
+<p>Illinois House, 32nd District, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<p><a href="https://www.lisadavisforstaterepresentative.com/" rel="nofollow noopener">Campaign site (lisadavisforstaterepresentative.com)</a></p>
+<h2>Running on</h2>
+<p>Says she wants to be a voice for women, working families and seniors, keep communities safer, and make the criminal justice system fair. Her ilga.gov bill record covers maternal health education, school safety, substance abuse treatment and clean energy workforce development.</p>
+<h2>Background</h2>
+<p>An attorney admitted to the Illinois bar in 2008 who works as an assistant public defender in the Cook County Public Defender&#39;s Office and is a member of AFSCME Local 3315.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.ilga.gov/House/Members/Details/3458" rel="nofollow noopener">ilga.gov</a></li>
+<li><a href="https://www.lisadavisforstaterepresentative.com/" rel="nofollow noopener">lisadavisforstaterepresentative.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/il-house-32">Everyone in this race: Illinois House, 32nd District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

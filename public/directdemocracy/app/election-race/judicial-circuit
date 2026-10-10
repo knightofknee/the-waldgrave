@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Circuit Court, countywide vacancies, November 3, 2026 ballot | direct democracy</title>
+    <meta name="description" content="Circuit Court, countywide vacancies on the Chicago ballot November 3, 2026. Trial judges elected by the whole county. Candidates: D&#39;Anthony &quot;Tony&quot;…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-race/judicial-circuit" />
+    <meta property="og:title" content="Circuit Court, countywide vacancies, November 3, 2026 ballot" />
+    <meta property="og:description" content="Circuit Court, countywide vacancies on the Chicago ballot November 3, 2026. Trial judges elected by the whole county. Candidates: D&#39;Anthony &quot;Tony&quot;…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-race/judicial-circuit" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Circuit Court, countywide vacancies</h1>
+<p>Trial judges elected by the whole county.</p>
+<p>On the Chicago ballot November 3, 2026.</p>
+<p>Every Cook County judge up for retention needs a yes from 60 percent of voters to keep the job. Bar associations screen each one; Injustice Watch reports on their records. <a href="https://2026retention.injusticewatch.org/" rel="nofollow noopener">Injustice Watch judicial guide</a>, <a href="https://www.chicagobar.org/votejudges" rel="nofollow noopener">Chicago Bar Association evaluations</a>.</p>
+<p>Every contested judicial seat has one candidate in November: no Republican or independent filed for judge in Cook County this cycle. Each candidate shows the Chicago Bar Association&#39;s and the Illinois State Bar Association&#39;s ratings for the November election, both unchanged from March, plus every Not Recommended or Not Qualified from the other members of the Alliance of Bar Associations. The Alliance rates any candidate who does not take part in its screening Not Recommended.</p>
+<h2>On the ballot</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--judicial-circuit--d-anthony-tony-thedford">D&#39;Anthony &quot;Tony&quot; Thedford</a> (Democratic, Incumbent): Circuit judge appointed by the Illinois Supreme Court in 2024, previously a criminal defense and civil rights lawyer and Cook County assistant public defender; unopposed in the primary.</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--judicial-circuit--ashonta-c-rice">Ashonta C. Rice</a> (Democratic): Family-law attorney in private practice since 2007 and a court-appointed child representative; defeated appointed judge Michael Cabonargi in the primary, 60.44% to 39.56%.</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--judicial-circuit--ava-george-stewart">Ava George Stewart</a> (Democratic): Solo practitioner in traffic, DUI, criminal and civil cases, former chief of the Lake County State&#39;s Attorney&#39;s misdemeanor and traffic division, and vice chair of the Illinois Guardianship and Advocacy Commission…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--judicial-circuit--luz-maria-toledo">Luz Maria Toledo</a> (Democratic): Cook County assistant state&#39;s attorney since 2007, now in the civil bureau after 11 years prosecuting criminal cases; defeated appointed judge Linda Sackey in the primary, 56.83% to 43.17%.</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--judicial-circuit--steven-q-mckenzie">Steven Q. McKenzie</a> (Democratic): Assistant corporation counsel supervisor in the Chicago Law Department since 2006, handling building-code lawsuits against property owners; unopposed in the primary.</li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

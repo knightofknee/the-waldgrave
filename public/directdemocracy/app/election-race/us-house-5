@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>US House, 5th District, November 3, 2026 ballot | direct democracy</title>
+    <meta name="description" content="US House, 5th District on the Chicago ballot November 3, 2026. Chicago is split across nine congressional districts. Candidates: Mike Quigley, Tommy…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-race/us-house-5" />
+    <meta property="og:title" content="US House, 5th District, November 3, 2026 ballot" />
+    <meta property="og:description" content="US House, 5th District on the Chicago ballot November 3, 2026. Chicago is split across nine congressional districts. Candidates: Mike Quigley, Tommy…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-race/us-house-5" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>US House, 5th District</h1>
+<p>Chicago is split across nine congressional districts.</p>
+<p>On the Chicago ballot November 3, 2026.</p>
+<h2>On the ballot</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-5--mike-quigley">Mike Quigley</a> (Democratic, Incumbent): In his 2026 Sun-Times questionnaire, Quigley says the most important issue facing his constituents is the affordability crisis, and that he will keep prioritizing federal funding for transportation infrastructure and…</li>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-5--tommy-hanson">Tommy Hanson</a> (Republican): Hanson&#39;s campaign issues page lists the family, the economy, growth and development, crime, immigration, small business, and inflation. He says he is pro-life, wants to use the Tenth Amendment to limit federal spending…</li>
+</ul>
+<h2>Write-in candidates</h2>
+<p>These names are not printed on the ballot. To vote for one, write the name in the blank write-in space for that office and fill in the oval (on a touchscreen, follow the write-in steps on screen). Votes count only for write-ins who filed a declaration. The Chicago Board of Elections does not post those names, so this list comes from the Cook County Clerk&#39;s list and campaign announcements; election judges at your polling place have the official one.</p>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2026-general--us-house-5--frank-rowder">Frank Rowder</a> (Independent, Write-in): Declared write-in candidate; the name is not printed on the ballot. No platform or campaign website found.</li>
+</ul>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

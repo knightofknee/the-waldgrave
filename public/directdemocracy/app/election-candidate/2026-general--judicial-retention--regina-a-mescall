@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Regina A. Mescall, judge up for retention | direct democracy</title>
+    <meta name="description" content="Regina A. Mescall, judge up for retention. Elected in 2020; hears domestic relations cases at the Bridgeview courthouse after hearing eviction cases and…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--judicial-retention--regina-a-mescall" />
+    <meta property="og:title" content="Regina A. Mescall, judge up for retention" />
+    <meta property="og:description" content="Regina A. Mescall, judge up for retention. Elected in 2020; hears domestic relations cases at the Bridgeview courthouse after hearing eviction cases and…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--judicial-retention--regina-a-mescall" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Regina A. Mescall</h1>
+<p>Judge up for retention, on the Chicago ballot November 3, 2026. Incumbent.</p>
+<p>Circuit Court of Cook County</p>
+<h2>Ratings</h2>
+<ul>
+<li>Chicago Bar Association: <a href="https://www.chicagobar.org/votejudges#:~:text=Regina%20A.%20Mescall" rel="nofollow noopener">Qualified</a></li>
+<li>Illinois State Bar Association: <a href="https://www.isba.org/judicial-elections/counties/cook#:~:text=Regina%20Ann%20Mescall" rel="nofollow noopener">Yes</a></li>
+<li>Injustice Watch: <a href="https://2026retention.injusticewatch.org/candidate/regina-a-mescall-35839" rel="nofollow noopener">Former prosecutor</a></li>
+</ul>
+<h2>Record</h2>
+<p>Elected in 2020; hears domestic relations cases at the Bridgeview courthouse after hearing eviction cases and felony preliminary hearings in the First Municipal District. Injustice Watch reports that in 2025 the Illinois Appellate Court reversed her $75,000 judgment against a tenant in a 2023 eviction case, finding she should have held an evidentiary hearing because the parties disagreed about whether the tenant had moved out; the court noted it was a case of first impression. A judge stays on the bench with a yes from 60 percent of voters.</p>
+<h2>Background</h2>
+<p>Cook County assistant state&#39;s attorney prosecuting felonies and misdemeanors (2007-2020); assistant district attorney in Albuquerque, New Mexico, prosecuting misdemeanors and felony crimes against children (2002-2007). Law degree from UIC Law (formerly John Marshall Law School) (2001).</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-09/Candidate%20List_20260911-1.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://2026retention.injusticewatch.org/candidate/regina-a-mescall-35839" rel="nofollow noopener">2026retention.injusticewatch.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/judicial-retention">Everyone in this race: Judges up for retention</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

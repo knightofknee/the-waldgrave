@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Frank Rowder, write-in candidate for US House, 5th District | direct democracy</title>
+    <meta name="description" content="Frank Rowder, write-in candidate for US House, 5th District. Declared write-in candidate; the name is not printed on the ballot. No platform or campaign…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--us-house-5--frank-rowder" />
+    <meta property="og:title" content="Frank Rowder, write-in candidate for US House, 5th District" />
+    <meta property="og:description" content="Frank Rowder, write-in candidate for US House, 5th District. Declared write-in candidate; the name is not printed on the ballot. No platform or campaign…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--us-house-5--frank-rowder" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Frank Rowder</h1>
+<p>US House, 5th District, on the Chicago ballot November 3, 2026. Party: Independent. Declared write-in.</p>
+<p>These names are not printed on the ballot. To vote for one, write the name in the blank write-in space for that office and fill in the oval (on a touchscreen, follow the write-in steps on screen). Votes count only for write-ins who filed a declaration. The Chicago Board of Elections does not post those names, so this list comes from the Cook County Clerk&#39;s list and campaign announcements; election judges at your polling place have the official one.</p>
+<h2>Running on</h2>
+<p>Declared write-in candidate; the name is not printed on the ballot. No platform or campaign website found.</p>
+<h2>Background</h2>
+<p>Repeat write-in candidate, including for this seat in 2020 and 2024 and in the March 2026 Republican primaries for state senate and the Water Reclamation District.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://ballotpedia.org/Frank_Rowder" rel="nofollow noopener">ballotpedia.org</a></li>
+<li><a href="https://api.open.fec.gov/v1/candidate/H6IL05226/?api_key=DEMO_KEY" rel="nofollow noopener">api.open.fec.gov</a></li>
+<li><a href="https://www.cookcountyclerkil.gov/elections/november-3-2026-write-candidates" rel="nofollow noopener">cookcountyclerkil.gov</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/us-house-5">Everyone in this race: US House, 5th District</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

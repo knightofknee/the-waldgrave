@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Michael A. Forti, judge up for retention | direct democracy</title>
+    <meta name="description" content="Michael A. Forti, judge up for retention. Appointed to the Circuit Court in 2016 and again in 2018 after losing an election, selected as an associate judge…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--judicial-retention--michael-a-forti" />
+    <meta property="og:title" content="Michael A. Forti, judge up for retention" />
+    <meta property="og:description" content="Michael A. Forti, judge up for retention. Appointed to the Circuit Court in 2016 and again in 2018 after losing an election, selected as an associate judge…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--judicial-retention--michael-a-forti" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Michael A. Forti</h1>
+<p>Judge up for retention, on the Chicago ballot November 3, 2026. Incumbent.</p>
+<p>Circuit Court of Cook County</p>
+<h2>Ratings</h2>
+<ul>
+<li>Chicago Bar Association: <a href="https://www.chicagobar.org/votejudges#:~:text=Michael%20A.%20Forti" rel="nofollow noopener">Qualified</a></li>
+<li>Illinois State Bar Association: <a href="https://www.isba.org/judicial-elections/counties/cook#:~:text=Michael%20A.%20Forti" rel="nofollow noopener">Yes</a></li>
+</ul>
+<h2>Record</h2>
+<p>Appointed to the Circuit Court in 2016 and again in 2018 after losing an election, selected as an associate judge in 2019, and elected a circuit judge in 2020; hears cases in the Domestic Relations Division. Injustice Watch reports that in 2022 he held Steve Fanady in civil contempt and ordered him jailed for failing to turn over $10 million in stock awarded to his ex-wife in their divorce; Fanady says he does not own the stock, and in 2025 the appellate court affirmed Judge Forti. He told Injustice Watch, &quot;I followed the law and I was affirmed.&quot; A judge stays on the bench with a yes from 60 percent of voters.</p>
+<h2>Background</h2>
+<p>Chief counsel and ethics officer at the Illinois Department of Transportation (2012-2015); earlier an attorney in the City of Chicago Law Department, rising to deputy corporation counsel (1994-2012), and an equity partner at Bell, Boyd &amp; Lloyd (1980-1994). Law degree from Northwestern University (1980).</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-09/Candidate%20List_20260911-1.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://2026retention.injusticewatch.org/candidate/michael-a-forti-35849" rel="nofollow noopener">2026retention.injusticewatch.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/judicial-retention">Everyone in this race: Judges up for retention</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

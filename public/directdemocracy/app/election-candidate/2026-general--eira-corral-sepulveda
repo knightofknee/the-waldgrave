@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Eira Corral Sepulveda, candidate for MWRD Commissioners | direct democracy</title>
+    <meta name="description" content="Eira Corral Sepulveda, candidate for MWRD Commissioners. Describes the MWRD as sitting at the intersection of fighting climate change, infrastructure…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--eira-corral-sepulveda" />
+    <meta property="og:title" content="Eira Corral Sepulveda, candidate for MWRD Commissioners" />
+    <meta property="og:description" content="Eira Corral Sepulveda, candidate for MWRD Commissioners. Describes the MWRD as sitting at the intersection of fighting climate change, infrastructure…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--eira-corral-sepulveda" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Eira Corral Sepulveda</h1>
+<p>MWRD Commissioners, on the Chicago ballot November 3, 2026. Party: Democratic. Incumbent.</p>
+<h2>Running on</h2>
+<p>Describes the MWRD as sitting at the intersection of fighting climate change, infrastructure investment, workforce development, and equity, and is seeking a second 6-year term.</p>
+<h2>Background</h2>
+<p>First Latina elected to the MWRD board, inaugurated in 2020; previously served three terms as Village Clerk of Hanover Park.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://news.wttw.com/elections/voters-guide/2026-primary/races/mwrd-commissioner-6-year-term" rel="nofollow noopener">news.wttw.com</a></li>
+<li><a href="https://mwrd.org/board-commissioners/eira-l-corral-sepulveda" rel="nofollow noopener">mwrd.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/mwrd">Everyone in this race: MWRD Commissioners</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>

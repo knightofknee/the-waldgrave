@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Aaron &quot;Jitu&quot; Brown, candidate for Chicago Board of Education, District 5a | direct democracy</title>
+    <meta name="description" content="Aaron &quot;Jitu&quot; Brown, candidate for Chicago Board of Education, District 5a. Brown says he is running to responsibly expand the Sustainable Community Schools…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/aaron-jitu-brown" />
+    <meta property="og:title" content="Aaron &quot;Jitu&quot; Brown, candidate for Chicago Board of Education, District 5a" />
+    <meta property="og:description" content="Aaron &quot;Jitu&quot; Brown, candidate for Chicago Board of Education, District 5a. Brown says he is running to responsibly expand the Sustainable Community Schools…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/school-board-candidate/aaron-jitu-brown" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Aaron &quot;Jitu&quot; Brown</h1>
+<p>Chicago Board of Education, District 5a, on the Chicago ballot November 3, 2026. Incumbent. Endorsed by the Chicago Teachers Union.</p>
+<p><a href="https://www.aaronjitubrown4cps.org/" rel="nofollow noopener">Campaign site (aaronjitubrown4cps.org)</a></p>
+<h2>Running on</h2>
+<p>Brown says he is running to responsibly expand the Sustainable Community Schools model with community input, ensure equitable access to early childhood education starting with pre-K, and win equitable funding from the state of Illinois. His platform also calls for increasing the number of Black and Brown educators, strengthening Local School Councils, culturally relevant curriculum, and ending punitive standardized testing, with District 5 families building a pre-K through 12th grade vision for their schools.</p>
+<h2>Background</h2>
+<p>Brown is a longtime education organizer who serves as national director of the Journey for Justice Alliance and was a lead organizer in the 2015 hunger strike that saved Dyett High School, helping develop the Sustainable Community Schools model. He served about 15 years on Local School Councils and won the District 5 seat in November 2024.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://www.aaronjitubrown4cps.org/" rel="nofollow noopener">aaronjitubrown4cps.org</a></li>
+<li><a href="https://www.wbez.org/education/2025/01/15/aaron-jitu-brown-elected-board-member-district-5" rel="nofollow noopener">wbez.org</a></li>
+<li><a href="https://ballotpedia.org/Chicago_Public_Schools,_Illinois,_elections_(2026)" rel="nofollow noopener">ballotpedia.org</a></li>
+<li><a href="https://www.ctulocal1.org/movement/school-board-election-2026/" rel="nofollow noopener">ctulocal1.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/school-board/5a">Everyone in this race: Chicago Board of Education, District 5a</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-fdc5e582cee8884c206e5d91b766ed45.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-284e57ffb41ac33c166d7a89fa589bb9.js" defer></script>
+</body>
+</html>
