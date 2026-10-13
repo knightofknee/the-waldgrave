@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.waldgrave.com/directdemocracy/app/sitemap.xml
+Sitemap: https://www.waldgrave.com/sitemap.xml
