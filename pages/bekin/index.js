@@ -7,7 +7,10 @@ export default function BeKin() {
       <h1>BeKin</h1>
       <p className="tagline">Friends-only social media. Light the beacon when you&apos;re down to hang, and see only your friends&apos; posts.</p>
 
-      <AppStoreCta url="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014" />
+      <AppStoreCta
+        url="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014"
+        play="https://play.google.com/store/apps/details?id=com.waldgrave.bekin"
+      />
 
       <div className="features">
         <div className="feature">
