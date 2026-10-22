@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { useEffect, useMemo } from 'react'
+import HomeButton from '../../components/HomeButton'
 
 // Firebase's "action URL" for the direct democracy project points here, so
 // every email Firebase sends for the app (sign-in link, password reset,
@@ -58,6 +59,7 @@ export default function DirectDemocracyAuth({ search, spanish }) {
 
   return (
     <div className="container">
+      <HomeButton />
       <Head>
         <title>{spanish ? 'Termina de iniciar sesión' : 'Finish signing in'}</title>
         <meta name="robots" content="noindex" />

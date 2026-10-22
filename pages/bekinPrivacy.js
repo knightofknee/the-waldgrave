@@ -1,6 +1,9 @@
+import HomeButton from '../components/HomeButton'
+
 export default function aboutWaldgrave() {
   return (
     <div className="container">
+      <HomeButton />
       <p><strong>Privacy Policy — Waldgrave's Bekin application</strong><br/>Last updated: September 9, 2026</p>
 <p>The Waldgrave's BeKin platform is a social availability app that lets you light a beacon for friends, view friends' beacons, and post to a feed shared with your friends. This policy explains what we collect, how we use it, and your choices.</p>
 <p><strong>Information we collect</strong>: account information (email, display name/username); your social graph (friends you add, stored as user IDs and display names); content you create (posts, optional links, timestamps) and your beacon status (active/expired and optional message); device data needed to deliver push notifications if you opt in (a device push token); and basic diagnostics and logs to keep the service reliable. We do not collect precise location.</p>

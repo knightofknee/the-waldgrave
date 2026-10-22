@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function ScrollsOfElysiumPrivacy() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Privacy Policy</h1>
       <p className="subtitle">Scrolls of Elysium</p>
       <p className="updated">Last updated: August 11, 2026</p>

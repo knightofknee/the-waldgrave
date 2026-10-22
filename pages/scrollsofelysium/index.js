@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function ScrollsOfElysium() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Scrolls of Elysium</h1>
       <p className="tagline">A focused notes app. Capture your thoughts, keep them forever.</p>
 

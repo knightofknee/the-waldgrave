@@ -1,9 +1,11 @@
 import Link from 'next/link'
 import AppStoreCta from '../../components/AppStoreCta'
+import HomeButton from '../../components/HomeButton'
 
 export default function BeKin() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>BeKin</h1>
       <p className="tagline">Friends-only social media. Light the beacon when you&apos;re down to hang, and see only your friends&apos; posts.</p>
 

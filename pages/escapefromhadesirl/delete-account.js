@@ -1,9 +1,11 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function EscapeFromHadesIRLDeleteAccount() {
   return (
     <div className="container">
+      <HomeButton />
       <Head>
         <title>Delete Your Account | Escape from Hades IRL</title>
       </Head>

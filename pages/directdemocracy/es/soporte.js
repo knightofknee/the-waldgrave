@@ -1,9 +1,11 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import HomeButton from '../../../components/HomeButton'
 
 export default function DirectDemocracySoporte() {
   return (
     <div className="container">
+      <HomeButton />
       <Head>
         <title>Soporte: direct democracy</title>
         <meta name="description" content="Ayuda para direct democracy: cómo verificarte, cambiar el idioma, recuperar tu cuenta o eliminarla, y cómo contactarnos." />

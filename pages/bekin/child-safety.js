@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function BekinChildSafety() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Child Safety Standards</h1>
       <p className="subtitle">BeKin</p>
       <p className="updated">Last updated: October 20, 2026</p>

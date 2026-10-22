@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
+import HomeButton from '../../../components/HomeButton'
 
 // When the app IS installed, iOS Universal Links / Android App Links open BeKin directly and this
 // page never loads. Reaching this page means the app is (probably) not installed, so we send the
@@ -49,6 +50,7 @@ export default function BekinInvite() {
 
   return (
     <div className="wrap">
+      <HomeButton />
       <h1>🔥 You're invited to BeKin</h1>
       <p className="tagline">
         BeKin is a simple way to tell friends you're free to hang out. A friend wants to connect

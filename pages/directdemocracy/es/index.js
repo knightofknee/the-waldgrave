@@ -1,12 +1,14 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import AppStoreCta from '../../../components/AppStoreCta'
+import HomeButton from '../../../components/HomeButton'
 
 const APP_STORE = 'https://apps.apple.com/us/app/direct-democracy-chicago/id6797189381'
 
 export default function DirectDemocracyEs() {
   return (
     <div className="container">
+      <HomeButton />
       <Head>
         <title>direct democracy: la voz cívica de Chicago</title>
         <meta name="description" content="Un tablero de las preocupaciones de toda la ciudad, votaciones por distrito y AMAs donde la comunidad decide si los oficiales realmente respondieron." />

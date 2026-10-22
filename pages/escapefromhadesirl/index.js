@@ -1,9 +1,11 @@
 import Link from 'next/link'
 import AppStoreCta from '../../components/AppStoreCta'
+import HomeButton from '../../components/HomeButton'
 
 export default function EscapeFromHadesIRL() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Escape from Hades IRL</h1>
       <p className="tagline">A habit tracking and note-taking app to help you escape the underworld of disorganization.</p>
 

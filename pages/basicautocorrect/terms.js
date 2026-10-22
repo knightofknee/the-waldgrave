@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function BasicAutocorrectTerms() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Terms of Service</h1>
       <p className="subtitle">Basic Autocorrect</p>
       <p className="updated">Last updated: October 7, 2026</p>

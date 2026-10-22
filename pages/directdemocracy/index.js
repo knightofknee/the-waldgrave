@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import AppStoreCta from '../../components/AppStoreCta'
+import HomeButton from '../../components/HomeButton'
 
 const APP_STORE = 'https://apps.apple.com/us/app/direct-democracy-chicago/id6797189381'
 
@@ -17,6 +18,7 @@ export async function getServerSideProps({ query, resolvedUrl }) {
 export default function DirectDemocracy() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>direct democracy</h1>
       <p className="tagline">Chicago&apos;s civic voice: a citywide big board of the people&apos;s concerns, ward-level votes, your whole ballot, and AMAs where the community decides whether officials actually answered.</p>
 

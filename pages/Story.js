@@ -1,7 +1,9 @@
 import Head from 'next/head'
+import HomeButton from '../components/HomeButton'
 
 export default function Story() {
   return (<div className="container">
+    <HomeButton />
   <Head>
     <title>Story · The Waldgrave</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />

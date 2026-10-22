@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function BasicAutocorrect() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Basic Autocorrect</h1>
       <p className="tagline">Autocorrect for your browser. Free. Works locally. Your keystrokes never leave your browser.</p>
 

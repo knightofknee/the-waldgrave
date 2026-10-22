@@ -11,7 +11,7 @@ export default function HomeButton() {
     <div className='smackThat'>
     <button onClick={handleClick} className="home-button">
       <div style={{ display: 'block', margin: '0 auto' }}>
-<img src="thew1.png" />
+<img src="/thew1.png" alt="The Waldgrave home" />
 </div>
     </button>
     <style jsx>{`

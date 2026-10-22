@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function BekinDeleteAccount() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Delete Your BeKin Account</h1>
       <p className="subtitle">BeKin</p>
       <p className="updated">Last updated: May 27, 2026</p>

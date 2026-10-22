@@ -1,8 +1,10 @@
 import Head from 'next/head'
+import HomeButton from '../components/HomeButton'
 
 export default function EndOfTheUniverse() {
   return (
 <div className="container">
+  <HomeButton />
   <Head>
     <title>The End of the Universe · The Waldgrave</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />

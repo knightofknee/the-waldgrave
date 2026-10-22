@@ -1,8 +1,10 @@
 import Link from 'next/link'
+import HomeButton from '../../components/HomeButton'
 
 export default function EscapeFromHadesIRLPrivacy() {
   return (
     <div className="container">
+      <HomeButton />
       <h1>Privacy Policy</h1>
       <p className="subtitle">Escape from Hades IRL</p>
       <p className="updated">Last updated: October 1, 2026</p>

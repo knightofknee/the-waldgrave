@@ -1,6 +1,8 @@
+import HomeButton from '../components/HomeButton'
 
 export default function Brainstree () {
   return (<div>
+  <HomeButton />
   <div style={{display:'flex', justifyContent:'center', flexDirection:'column',alignItems:'center'}}>
   <h2>(update) name selected, and I started meditating an hour a day</h2>
   <h2>
