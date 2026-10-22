@@ -105,7 +105,27 @@
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/us-senate</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/city-treasurer</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/clerk</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-1</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-10</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-11</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-12</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-14</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-15</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-16</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-17</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-18</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-19</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-2</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-20</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-22</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-24</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-25</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-4</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-5</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-6</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-7</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-8</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-race/pdc-9</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--alexi-giannoulias</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--anna-schiefelbein</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--beth-mcelroy-kirkwood</loc></url>
@@ -341,28 +361,57 @@
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--us-house-9--daniel-biss</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--us-house-9--john-elleson</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2026-general--whitfield-harrington-jr</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--abdallah-alkodah</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--agnieszka-kozielska</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--aida-flores</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--al-cacciottolo</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--allyson-scrutchens</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--andre-vasquez</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--angela-clay</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--anna-valencia</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--anthony-beale</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--anthony-napolitano</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--anthony-quezada</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--bennett-lawson</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--bill-conway</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--bill-morton</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--bill-thanoukos</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--brendan-reilly</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--brian-hopkins</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--bruce-leon</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--byron-sigcho-lopez</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--carmelita-earls</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--chris-taliaferro</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--claudia-zuno</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--dan-olas</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--daniel-la-spata</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--daniel-tobon</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--david-moore</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--debra-silverstein</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--dennis-dj-doran</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--derrick-curtis</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--desmon-yancy</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--elianne-bahena</loc></url>
-  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--erin-ross</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--emma-mitts</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--erin-healy-ross</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--felix-cardona-jr</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--gilbert-gil-villegas</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--gregory-mitchell</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--ian-watkins</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jacob-schulz</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--james-morgan</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jamesenna-anderson</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jason-ervin</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jaye-jones</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jeanette-taylor</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jessica-jessie-fuentes</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jeylu-gutierrez</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jillian-robinson</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jim-gardiner</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--jonathan-stevanovich</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--joshua-barksdale</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--judy-velez</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--julia-ramirez</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--justin-carmien</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--kalen-luciano</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--kristian-armendariz</loc></url>
@@ -372,23 +421,107 @@
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--leni-manaa-hoppenworth</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--leonardo-quintero</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--leonardo-rojas-banda</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--maria-gordils</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--maria-hadden</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--matt-martin</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--melissa-conyears-ervin</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--michael-keating</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--michelle-harris</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--miguel-chacon</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--monique-scott</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--nate-pendleton</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--nathan-bean</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--nicholas-sposato</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--nicole-lee</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--nubia-batista-willman</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--omari-bektemba</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pat-dowell</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--patrick-gilsenan</loc></url>
-  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-19--jenny-schaffer</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-1--adrienne-johnson</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-1--sarah-kammerer</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-10--alexia-luna</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-10--crystal-redditt</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-10--ken-alvarado</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-10--robbie-johnson</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-11--alees-edwards</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-11--bryan-j-ramson-jr</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-11--jocelyn-a-woodards</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-12--andres-guzman</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-12--guadalupe-lupe-puga</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-12--rolando-cabrera</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-14--christopher-m-laurent</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-14--david-canario</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-14--hector-villafuerte</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-14--nia-blessing-s-armstrong</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-14--siobhan-peterson-quinn</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-14--steve-jensen</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-15--rebecca-cook</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-16--amelia-kabat</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-16--colleen-murphy</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-16--goran-davidovac</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-17--christina-pilto</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-17--elizabeth-beth-rochford</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-17--john-murphy</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-17--linda-rogel</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-17--lisa-levy</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-17--patrick-paddy-lindley</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-18--brad-kessler</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-18--joe-vietri</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-18--karen-kane</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-19--jennifer-jenny-schaffer</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-19--ridge-knapp</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-19--sam-schoenburg</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-2--ephraim-lee</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-20--eric-smith</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-20--nassir-faulkner</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-20--rebecca-kling</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-20--timothy-kennedy</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-22--lee-bielecki</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-22--paul-mulchrone</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-24--ishmael-rufus</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-24--keola-jean-joseph</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-24--michael-j-harrington</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-25--allyssa-bujdoso</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-25--angelica-green</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-25--carlos-j-vasquez-jr</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-25--geary-yonker</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-25--gumersindo-david-rivera</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-4--brenda-d-waters</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-4--gloria-jenkins</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-4--lovie-bernard</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-5--pauline-w-sylvain</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-5--ponchita-moore</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-6--aisha-humphries</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-6--brian-k-metcalf</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-6--robert-e-pincham-jr</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-7--dion-mcgill</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-7--joseph-g-williams</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-7--patricia-williams</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-7--robert-walker</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-7--teresa-r-chandler</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-8--jason-huff</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-8--mark-hamberlin</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-8--rosaura-ro-bocanegra</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-9--evelyn-aguayo</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-9--maximilian-esterhammer-fic</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--peter-chico</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--raheem-uqdah</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--raymond-lopez</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--ronnie-mosley</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--rossana-rodriguez-sanchez</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--ruth-cruz</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--s-gronkiewicz-doran</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--samantha-sam-nugent</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--scott-waguespack</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--sheila-gunn-ward</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--shenina-fletcher</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--silvana-tabares</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--skyler-cepek</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--stephanie-coleman</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--timmy-knudsen</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--troy-mcmillan</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--walter-red-burnett</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--yolonda-mack</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/ward-race/1</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/ward-race/2</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/ward-race/3</loc></url>
@@ -461,6 +594,7 @@
   <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board/10a</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board/10b</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board-candidate/aaron-jitu-brown</loc></url>
+  <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board-candidate/alexander-angeles</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board-candidate/angel-alvarez</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board-candidate/angel-gutierrez</loc></url>
   <url><loc>https://www.waldgrave.com/directdemocracy/app/school-board-candidate/anthony-hargrove</loc></url>

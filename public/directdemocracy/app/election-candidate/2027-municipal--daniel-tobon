@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Daniel Tobon, candidate for 35th Ward alderman | direct democracy</title>
+    <meta name="description" content="Daniel Tobon, candidate for 35th Ward alderman. Filed nominating petitions on Oct. 19, 2026 to challenge Ald. Anthony Quezada, whom Mayor Brandon Johnson…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--daniel-tobon" />
+    <meta property="og:title" content="Daniel Tobon, candidate for 35th Ward alderman" />
+    <meta property="og:description" content="Daniel Tobon, candidate for 35th Ward alderman. Filed nominating petitions on Oct. 19, 2026 to challenge Ald. Anthony Quezada, whom Mayor Brandon Johnson…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--daniel-tobon" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Daniel Tobon</h1>
+<p>35th Ward alderman, on the Chicago ballot February 23, 2027.</p>
+<p><a href="https://www.tobonfor35.com/" rel="nofollow noopener">Campaign site (tobonfor35.com)</a></p>
+<h2>Running on</h2>
+<p>Filed nominating petitions on Oct. 19, 2026 to challenge Ald. Anthony Quezada, whom Mayor Brandon Johnson appointed to the seat in 2025. His campaign lists nine priorities: affordability through more housing, zoning reform, and a housing-first approach to homelessness; a city charter and budget transparency; simpler, faster permitting for small businesses; violence prevention, mental health resources, and accountable policing; protecting immigrant families; strong neighborhood schools and responsible CPS finances; independence at City Hall; November elections and ranked choice voting; and safer streets and better transit through Vision Zero and Complete Streets. Endorsed by VoteVets.</p>
+<h2>Background</h2>
+<p>Born in Medellín, Colombia, he came to the Chicago area at age 7. Army veteran who deployed to Iraq with the Illinois National Guard; University of Chicago law graduate and former ACLU fellow; entrepreneur who leads a business with operations in Colombia and founded a company serving the cannabis and hemp industry. Former Local School Council member at Kelvyn Park High School. In 2025 he and Quezada were the only two applicants with complete applications for the 35th Ward vacancy.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20Filing%20Report_20261021171438536.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://www.tobonfor35.com/about.html" rel="nofollow noopener">tobonfor35.com</a></li>
+<li><a href="https://www.tobonfor35.com/priorities.html" rel="nofollow noopener">tobonfor35.com</a></li>
+<li><a href="https://bsky.app/profile/tobonfor35.bsky.social" rel="nofollow noopener">bsky.app</a></li>
+<li><a href="https://www.cbsnews.com/chicago/news/mayor-brandon-johnson-picks-anthony-quezada-35th-ward-alderman/" rel="nofollow noopener">cbsnews.com</a></li>
+</ul>
+<p><a href="/directdemocracy/app/ward-race/35">Everyone in this race: 35th Ward</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8d1c8106f60128c1f6a77e8bfef94fa.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-f6062202378c2974944941358b7469e8.js" defer></script>
+</body>
+</html>

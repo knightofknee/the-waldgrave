@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Ephraim Lee, candidate for 2nd Police District Council | direct democracy</title>
+    <meta name="description" content="Ephraim Lee, candidate for 2nd Police District Council. Filed nominating petitions on Oct. 19, 2026 for reelection. His council biography says he wants to…" />
+    <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-2--ephraim-lee" />
+    <meta property="og:title" content="Ephraim Lee, candidate for 2nd Police District Council" />
+    <meta property="og:description" content="Ephraim Lee, candidate for 2nd Police District Council. Filed nominating petitions on Oct. 19, 2026 for reelection. His council biography says he wants to…" />
+    <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/election-candidate/2027-municipal--pdc-2--ephraim-lee" />
+    <meta property="og:site_name" content="direct democracy" />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary" />
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  <link rel="icon" href="/directdemocracy/app/favicon.ico"/><link rel="preload" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
+<link rel="stylesheet" href="/directdemocracy/app/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"></head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
+<h1>Ephraim Lee</h1>
+<p>2nd Police District Council, on the Chicago ballot February 23, 2027. Incumbent.</p>
+<h2>Running on</h2>
+<p>Filed nominating petitions on Oct. 19, 2026 for reelection. His council biography says he wants to act as a mediator of fairness, dignity, and transparency between the Chicago Police Department and residents who have lost faith in it.</p>
+<h2>Background</h2>
+<p>2nd District Council member since 2023 and the council&#39;s chair; served 26 years in the U.S. Navy; B.A. in psychology from Chicago State University and master&#39;s in social work from the University of Illinois Chicago; lives in Bronzeville.</p>
+<p>Compiled from public sources:</p>
+<ul>
+<li><a href="https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20Filing%20Report_20261021171438536.pdf" rel="nofollow noopener">cboeprod.blob.core.usgovcloudapi.net</a></li>
+<li><a href="https://ccpsa.chicago.gov/district-council/2nd-district-council/" rel="nofollow noopener">ccpsa.chicago.gov</a></li>
+<li><a href="https://ccpsa.chicago.gov/member/ephraim-lee/" rel="nofollow noopener">ccpsa.chicago.gov</a></li>
+<li><a href="https://ballotpedia.org/Municipal_elections_in_Chicago,_Illinois_(2023)" rel="nofollow noopener">ballotpedia.org</a></li>
+</ul>
+<p><a href="/directdemocracy/app/election-race/pdc-2">Everyone in this race: 2nd Police District Council</a></p>
+<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+</main></div>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8d1c8106f60128c1f6a77e8bfef94fa.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-f6062202378c2974944941358b7469e8.js" defer></script>
+</body>
+</html>

@@ -5,10 +5,10 @@
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>38th Ward race for alderman, February 23, 2027 | direct democracy</title>
-    <meta name="description" content="The 38th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Nicholas Sposato. No challengers have declared yet." />
+    <meta name="description" content="The 38th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Nicholas Sposato. Declared challengers: Agnieszka Kozielska." />
     <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/ward-race/38" />
     <meta property="og:title" content="38th Ward race for alderman, February 23, 2027" />
-    <meta property="og:description" content="The 38th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Nicholas Sposato. No challengers have declared yet." />
+    <meta property="og:description" content="The 38th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Nicholas Sposato. Declared challengers: Agnieszka Kozielska." />
     <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/ward-race/38" />
     <meta property="og:site_name" content="direct democracy" />
     <meta property="og:type" content="website" />
@@ -45,11 +45,14 @@
 <p>Alderman, on the ballot February 23, 2027. Candidates file October 19-26, 2026.</p>
 <h2>The incumbent</h2>
 <p><a href="/directdemocracy/app/official/MIVAIoTNvuXPCzy2yXMbJSvX5bS2">Nicholas Sposato</a>, Alderman, 38th Ward</p>
-<h2>Challengers</h2>
-<p>No declared challengers on record here yet. Candidates file October 19-26, 2026; this page fills in as they go public and file.</p>
+<p><a href="/directdemocracy/app/election-candidate/2027-municipal--nicholas-sposato">What they say they&#39;re running on</a>: Filed nominating petitions for reelection on Oct. 21, 2026. No campaign website or platform for a new term found yet.</p>
+<h2>Declared challengers</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2027-municipal--agnieszka-kozielska">Agnieszka Kozielska</a>: Filed nominating petitions on Oct. 19, 2026 to challenge Ald. Nicholas Sposato. No campaign website or platform found.</li>
+</ul>
 <p><a href="/directdemocracy/app/officials">Every Chicago alderman</a></p>
 <p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
 </main></div>
-  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8d1c8106f60128c1f6a77e8bfef94fa.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-2de8e81cb6d33614c407708fc1cfa223.js" defer></script>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8d1c8106f60128c1f6a77e8bfef94fa.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-f6062202378c2974944941358b7469e8.js" defer></script>
 </body>
 </html>
