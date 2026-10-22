@@ -7,7 +7,7 @@ export default function DirectDemocracyChildSafety() {
       <HomeButton />
       <h1>Child Safety Standards</h1>
       <p className="subtitle">direct democracy</p>
-      <p className="updated">Last updated: August 30, 2026</p>
+      <p className="updated">Last updated: October 22, 2026</p>
 
       <div className="content">
         <p>direct democracy is a civic engagement app for Chicago, built by The Waldgrave and intended for adults. These standards describe our policies against child sexual abuse and exploitation (CSAE) and how we enforce them.</p>
@@ -18,8 +18,10 @@ export default function DirectDemocracyChildSafety() {
         <h2>An adult platform by design</h2>
         <p>The app is directed at adults: its target audience is 18 and over, and identity verification confirms participants are adult Chicago residents. We do not knowingly permit accounts held by children, and content is text-only - the app hosts no user-uploaded images or video.</p>
 
-        <h2>In-app reporting</h2>
-        <p>Every piece of user content carries a report action, available to any signed-in user. Reports go directly to the platform operator for review. Users can also block any account to immediately hide its content on their devices.</p>
+        <h2>In-app reporting and feedback</h2>
+        <p>Every piece of user content in direct democracy carries a report action: tap the flag on it, pick every reason that applies (child safety is a reason of its own), and send. Reports go directly to the platform operator.</p>
+        <p>Anyone can also reach the operator without leaving the app, signed in or not, from Settings &gt; Send feedback or report a problem, where child safety is the first topic.</p>
+        <p>Child safety reports and messages alert the operator immediately; other reports are reviewed every week. Users can also block any account to immediately hide its content on their devices.</p>
 
         <h2>Enforcement</h2>
         <p>Reported content is reviewed by the operator. Content that violates these standards is removed and the account responsible is terminated. Where content appears to constitute CSAM or child exploitation, we preserve what the law requires and report it to the National Center for Missing and Exploited Children (NCMEC) and to law enforcement, in accordance with applicable law, including 18 U.S.C. 2258A.</p>
