@@ -25,6 +25,17 @@
             "comment": "Shared links to the web version open the installed app (1.0.15+ strips the prefix); without the app they stay on the web"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "R3H7M2M4F5.com.briancarlisle.escapefromhadesirl"
+        ],
+        "components": [
+          {
+            "/": "/escapefromhadesirl/friend/*",
+            "comment": "Chore friend invites open the app; without it the page offers the code and store links"
+          }
+        ]
       }
     ]
   }

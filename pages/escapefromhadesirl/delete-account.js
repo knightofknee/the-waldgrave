@@ -41,6 +41,8 @@ export default function EscapeFromHadesIRLDeleteAccount() {
           <li>Your habits and every daily record, including step counts and meditation sessions</li>
           <li>Quests and their progress</li>
           <li>Chores and their completion history</li>
+          <li>Chore friends, invites, the name friends see, and notification tokens. You leave chores others shared with you, and chores you shared are deleted for everyone</li>
+          <li>60-day quests and their badges</li>
           <li>Notes, checklists, and tags</li>
           <li>Vacation days and app settings</li>
           <li>Habit tile icon images you uploaded</li>
