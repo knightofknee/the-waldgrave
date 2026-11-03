@@ -5,10 +5,10 @@
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>5th Ward race for alderman, February 23, 2027 | direct democracy</title>
-    <meta name="description" content="The 5th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Desmon C. Yancy. No challengers have declared yet." />
+    <meta name="description" content="The 5th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Desmon C. Yancy. Declared challengers: Ryan Greenlaw." />
     <link rel="canonical" href="https://www.waldgrave.com/directdemocracy/app/ward-race/5" />
     <meta property="og:title" content="5th Ward race for alderman, February 23, 2027" />
-    <meta property="og:description" content="The 5th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Desmon C. Yancy. No challengers have declared yet." />
+    <meta property="og:description" content="The 5th Ward race for alderman on the February 23, 2027 Chicago ballot. Alderman now: Desmon C. Yancy. Declared challengers: Ryan Greenlaw." />
     <meta property="og:url" content="https://www.waldgrave.com/directdemocracy/app/ward-race/5" />
     <meta property="og:site_name" content="direct democracy" />
     <meta property="og:type" content="website" />
@@ -46,11 +46,13 @@
 <h2>The incumbent</h2>
 <p><a href="/directdemocracy/app/official/ChPZ067vyaPTSeOdQhVXQ9gP6aE2">Desmon C. Yancy</a>, Alderman, 5th Ward</p>
 <p><a href="/directdemocracy/app/election-candidate/2027-municipal--desmon-yancy">What they say they&#39;re running on</a>: Filed nominating petitions for reelection on Oct. 20, 2026. No campaign website or platform for a new term found yet.</p>
-<h2>Challengers</h2>
-<p>No declared challengers on record here yet. Candidates file October 19-26, 2026; this page fills in as they go public and file.</p>
+<h2>Declared challengers</h2>
+<ul>
+<li><a href="/directdemocracy/app/election-candidate/2027-municipal--ryan-greenlaw">Ryan Greenlaw</a>: Filed nominating petitions to run for the seat held by Ald. Desmon Yancy; on the Chicago Board of Elections candidate list as of Oct. 30, 2026. No campaign website or platform found.</li>
+</ul>
 <p><a href="/directdemocracy/app/officials">Every Chicago alderman</a></p>
 <p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
 </main></div>
-  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8bacb5c3caf9fc527e2245727b47588.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-e72a1a41ba21c40dce5ff62b05715098.js" defer></script>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8bacb5c3caf9fc527e2245727b47588.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-8a16a271c5f4a0aa63c6060f9b37d6ef.js" defer></script>
 </body>
 </html>
