@@ -45,6 +45,10 @@ for (const route of collectRoutes(path.join(__dirname, "pages"))) {
 // path under it is a screen of the app, so it gets the app's index.html and
 // the app's router takes it from there.
 const DD_APP = "/directdemocracy/app";
+// BeKin's web version, same setup: the app's single-page export lives in public/bekin/app (copied in
+// by `npm run publish-web` in the bekin8 repo). No per-screen SEO pages (everything is behind sign-in),
+// so every non-file path just gets the app's index.html.
+const BEKIN_APP = "/bekin/app";
 
 const nextConfig = {
   // Claude Code previews build into .next-claude so they never collide with
@@ -58,6 +62,8 @@ const nextConfig = {
       afterFiles: [
         { source: DD_APP, destination: `${DD_APP}/index.html` },
         { source: `${DD_APP}/:path((?!_expo/|assets/).*)`, destination: `${DD_APP}/index.html` },
+        { source: BEKIN_APP, destination: `${BEKIN_APP}/index.html` },
+        { source: `${BEKIN_APP}/:path((?!_expo/|assets/|canvaskit\\.wasm).*)`, destination: `${BEKIN_APP}/index.html` },
       ],
     };
   },
@@ -75,6 +81,19 @@ const nextConfig = {
       {
         source: `${DD_APP}/index.html`,
         headers: [{ key: "Cache-Control", value: "no-cache" }],
+      },
+      {
+        source: `${BEKIN_APP}/_expo/static/:path*`,
+        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
+      },
+      {
+        source: `${BEKIN_APP}/index.html`,
+        headers: [{ key: "Cache-Control", value: "no-cache" }],
+      },
+      {
+        // Skia's CanvasKit runtime: browsers only stream-compile wasm served with this type.
+        source: `${BEKIN_APP}/canvaskit.wasm`,
+        headers: [{ key: "Content-Type", value: "application/wasm" }],
       },
       {
         // The app's publish writes a page per public screen (a candidate, a

@@ -12,7 +12,11 @@ export default function BeKin() {
       <AppStoreCta
         url="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014"
         play="https://play.google.com/store/apps/details?id=com.waldgrave.bekin"
-      />
+      >
+        <p className="also">
+          Free app, or <a href="/bekin/app">use your browser</a>
+        </p>
+      </AppStoreCta>
 
       <div className="features">
         <div className="feature">
@@ -54,6 +58,14 @@ export default function BeKin() {
           font-size: 1.1em;
           color: #666;
           margin-bottom: 2em;
+        }
+        .also {
+          margin: 0.75em 0 0;
+          font-size: 0.95em;
+          color: #666;
+        }
+        .also a {
+          color: #42b983;
         }
         .features {
           display: flex;
