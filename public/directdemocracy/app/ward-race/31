@@ -42,7 +42,7 @@
     <!-- The root element for your Expo app. -->
     <div id="root"><main style="flex:1;overflow:auto;padding:16px;font-family:system-ui,sans-serif;line-height:1.5;max-width:44rem">
 <h1>31st Ward: race for alderman</h1>
-<p>Alderman, on the ballot February 23, 2027. Candidates file October 19-26, 2026.</p>
+<p>Alderman, on the ballot February 23, 2027. Petitions were filed October 19-26, 2026; the Board of Elections certifies the ballot by December 17.</p>
 <h2>The incumbent</h2>
 <p><a href="/directdemocracy/app/official/ajCoc0geL9YBHHgNulBNSZLagm02">Felix Cardona Jr.</a>, Alderman, 31st Ward</p>
 <p><a href="/directdemocracy/app/election-candidate/2027-municipal--felix-cardona-jr">What they say they&#39;re running on</a>: Filed nominating petitions for reelection on Oct. 19, 2026. No campaign website or platform for a new term found yet.</p>
@@ -52,8 +52,8 @@
 <li><a href="/directdemocracy/app/election-candidate/2027-municipal--ramona-t-bonilla-anaiel">Ramona T. Bonilla-Anaiel</a>: Filed nominating petitions to run for the seat held by Ald. Felix Cardona Jr.; on the Chicago Board of Elections candidate list as of Oct. 30, 2026. No campaign website or platform found.</li>
 </ul>
 <p><a href="/directdemocracy/app/officials">Every Chicago alderman</a></p>
-<p><a href="/directdemocracy/app/election">Every race on the Chicago ballot</a></p>
+<p><a href="/directdemocracy/app/election">The mayor games: every candidate for mayor of Chicago, and every race on the February 23, 2027 ballot</a></p>
 </main></div>
-  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-e8bacb5c3caf9fc527e2245727b47588.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-3b0b5c3da0278da5c6e7310e4062154b.js" defer></script>
+  <script src="/directdemocracy/app/_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/__common-0ec3c39880e1c8217e069275362a23d7.js" defer></script><script src="/directdemocracy/app/_expo/static/js/web/entry-3248f8bc80a4ac6a134ea305f8e69f83.js" defer></script>
 </body>
 </html>
