@@ -36,6 +36,17 @@
             "comment": "Chore friend invites open the app; without it the page offers the code and store links"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "R3H7M2M4F5.com.waldgrave.ucs"
+        ],
+        "components": [
+          {
+            "/": "/ucs/app/*",
+            "comment": "Shared UCS links open the installed app; without it they stay on the web"
+          }
+        ]
       }
     ]
   }

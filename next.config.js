@@ -49,6 +49,10 @@ const DD_APP = "/directdemocracy/app";
 // by `npm run publish-web` in the bekin8 repo). No per-screen SEO pages (everything is behind sign-in),
 // so every non-file path just gets the app's index.html.
 const BEKIN_APP = "/bekin/app";
+// Universal Complaint System's web version, same setup: the app's single-page export lives in
+// public/ucs/app (copied in by `npm run publish-web` in the UniversalComplaintSystem repo). Every
+// non-file path under it is a screen of the app, so it gets the app's index.html.
+const UCS_APP = "/ucs/app";
 
 const nextConfig = {
   // Claude Code previews build into .next-claude so they never collide with
@@ -64,6 +68,8 @@ const nextConfig = {
         { source: `${DD_APP}/:path((?!_expo/|assets/).*)`, destination: `${DD_APP}/index.html` },
         { source: BEKIN_APP, destination: `${BEKIN_APP}/index.html` },
         { source: `${BEKIN_APP}/:path((?!_expo/|assets/|canvaskit\\.wasm).*)`, destination: `${BEKIN_APP}/index.html` },
+        { source: UCS_APP, destination: `${UCS_APP}/index.html` },
+        { source: `${UCS_APP}/:path((?!_expo/|assets/).*)`, destination: `${UCS_APP}/index.html` },
       ],
     };
   },
@@ -88,6 +94,14 @@ const nextConfig = {
       },
       {
         source: `${BEKIN_APP}/index.html`,
+        headers: [{ key: "Cache-Control", value: "no-cache" }],
+      },
+      {
+        source: `${UCS_APP}/_expo/static/:path*`,
+        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
+      },
+      {
+        source: `${UCS_APP}/index.html`,
         headers: [{ key: "Cache-Control", value: "no-cache" }],
       },
       {
