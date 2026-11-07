@@ -4,7 +4,7 @@ import HomeButton from '../../components/HomeButton'
 
 // Kept word for word in step with src/app/privacy.tsx in the Universal
 // Complaint System repo (the in-app copy). Change both together.
-const UPDATED = "November 6, 2026"
+const UPDATED = "November 7, 2026"
 const SECTIONS = [
   {
     heading: "Who we are",
@@ -52,7 +52,7 @@ const SECTIONS = [
   {
     heading: "AI processing",
     body: [
-      "When you check a complaint before sending it, its text and photos are sent to Anthropic (Claude) to split it into points, match it to what others have said, suggest how to file it, spot personal data, and rate its tone (a rant also gets a score for how good a read it is, which sorts \"Best rants\"). Complaint and point text is also sent to Google (Vertex AI) to compute the search vectors that make matching work across languages. Photos are also checked by Google Cloud Vision (SafeSearch) for sexual or violent content before anyone else can see them. Both process it on our behalf under their commercial API terms, under which API data is not used to train their models by default.",
+      "When you check a complaint before sending it, its text and photos are sent to Anthropic (Claude) to split it into points, match it to what others have said, suggest how to file it, spot personal data, and rate its tone and how heated its language is (a spice level of one to five peppers; five, name-calling at people, is sent back with suggested rewrites; a rant also gets a score for how good a read it is, which sorts \"Best rants\"). Complaint and point text is also sent to Google (Vertex AI) to compute the search vectors that make matching work across languages. Photos are also checked by Google Cloud Vision (SafeSearch) for sexual or violent content before anyone else can see them. Both process it on our behalf under their commercial API terms, under which API data is not used to train their models by default.",
       "Nothing is sent to the public record or to an organization until you have seen how it will be filed and confirmed it.",
     ],
   },
