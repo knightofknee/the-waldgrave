@@ -25,8 +25,8 @@ export default function UcsDeleteAccount() {
         <ol>
           <li>Open the app (or the <a href="/ucs/app">web version</a>) on the device or account you use.</li>
           <li>Go to the <strong>Me</strong> tab.</li>
-          <li>Tap <strong>Account</strong> (it reads <strong>Add an email</strong> if you never added one).</li>
-          <li>Under <strong>Delete account</strong>, tap <strong>Delete my account</strong> and confirm.</li>
+          <li>Scroll to the bottom and tap <strong>Delete account</strong>.</li>
+          <li>Tap <strong>Delete my account</strong> and confirm.</li>
         </ol>
         <p>Deletion runs immediately and cannot be undone.</p>
 
@@ -34,7 +34,7 @@ export default function UcsDeleteAccount() {
         <ul>
           <li>Your private complaints, their conversations and photos.</li>
           <li>The text, photos and display name of your public complaints.</li>
-          <li>Every &ldquo;Same here&rdquo; and fix confirmation you gave; the counts drop.</li>
+          <li>Your support, your votes, and what you said about fixes; the counts drop. Fixes you proposed.</li>
           <li>Your organization access and requests, queued complaints, hidden-author list, notifications, phone tokens, and sign-in.</li>
         </ul>
 
@@ -47,7 +47,7 @@ export default function UcsDeleteAccount() {
 
         <h2>No app? Ask us by email</h2>
         <p>If you can&apos;t use the app, email <a href="mailto:bricarlis@gmail.com?subject=Delete%20my%20UCS%20account">bricarlis@gmail.com</a> from the email address on your account and ask us to delete it. Sending from that address is how we know the request comes from the account&apos;s owner. We delete the same data listed above.</p>
-        <p>An account you never added an email to exists only on the device that made it, so it can only be deleted from inside the app on that device.</p>
+        <p>An account you never signed in to exists only on the device that made it, so it can only be deleted from inside the app on that device.</p>
       </div>
 
       <footer className="footer">

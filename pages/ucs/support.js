@@ -16,7 +16,7 @@ export default function UcsSupport() {
 
       <div className="content">
         <h2>Get help</h2>
-        <p>Email <a href="mailto:bricarlis@gmail.com">bricarlis@gmail.com</a> with what happened and, if you can, what you were doing in the app. If you added an email to your account, writing from that address helps us find it.</p>
+        <p>Email <a href="mailto:bricarlis@gmail.com">bricarlis@gmail.com</a> with what happened and, if you can, what you were doing in the app. If you signed in, writing from that email address helps us find your account.</p>
 
         <h2>Report something</h2>
         <p>Every complaint, point, organization response, organization or topic page, and private message has a <strong>Report</strong> link. Tap it, pick what is wrong (threats, hate or harassment; a private person targeted; personal details shown; spam; something illegal; or something else), and send.</p>
