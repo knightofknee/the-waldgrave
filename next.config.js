@@ -69,6 +69,9 @@ const nextConfig = {
         { source: BEKIN_APP, destination: `${BEKIN_APP}/index.html` },
         { source: `${BEKIN_APP}/:path((?!_expo/|assets/|canvaskit\\.wasm).*)`, destination: `${BEKIN_APP}/index.html` },
         { source: UCS_APP, destination: `${UCS_APP}/index.html` },
+        // One complaint, one page of complaints, one person's complaint: the same app page, with
+        // that complaint's title and description written in for link previews (pages/api/ucs/share.js).
+        { source: `${UCS_APP}/:kind(point|subject|submission)/:id`, destination: "/api/ucs/share?kind=:kind&id=:id" },
         { source: `${UCS_APP}/:path((?!_expo/|assets/).*)`, destination: `${UCS_APP}/index.html` },
       ],
     };
