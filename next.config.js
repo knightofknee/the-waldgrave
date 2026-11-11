@@ -61,6 +61,16 @@ const nextConfig = {
   env: {
     CASE_ROUTES: JSON.stringify({ static: staticRoutes, dynamic: dynamicPrefixes }),
   },
+  // The original web social pages (Login/feed/profile/createPost/friends) talked to BeKin's Firebase
+  // project with no App Check. App Check is enforced on that project since 2026-11-11, so those pages
+  // can no longer read or sign in; BeKin's web version replaces them.
+  async redirects() {
+    return ["/Login", "/feed", "/profile", "/createPost", "/friends"].map((source) => ({
+      source,
+      destination: BEKIN_APP,
+      permanent: false,
+    }));
+  },
   async rewrites() {
     return {
       afterFiles: [
