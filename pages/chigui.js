@@ -30,6 +30,9 @@ export default function OpenChicago() {
   <HomeButton />
   <div className="page">
     <h2 className="pageTitle">Dear Chicago, Welcome to the Chi-GUI Conspiracy</h2>
+    <aside className="update" role="note">
+      <p><b>UPDATE</b> We didn&rsquo;t get enough signatures to make the ballot. The platform stays up and every idea below still stands: read it, share it, steal from it, and send me better ones. You can still <a href="https://forms.gle/zovJHB9DLAzYY7Rz7">sign up</a> to help.</p>
+    </aside>
     {/* <h4>Phase</h4>
     <div style={{display: 'flex', padding: '10px'}}>
       <div>Ideation</div>
@@ -491,6 +494,30 @@ h4 {
   font-weight: 700;
   letter-spacing: 0.08em;
   color: rgb(115, 45, 115);
+  margin-right: 0.4em;
+}
+
+/* Campaign news, above everything else: amber so it reads as news, not as
+   part of the platform. Same shape as the TLDR. */
+.update {
+  margin: 0 0 1.4em;
+  padding: 0.85em 1.2em 0.9em;
+  background: rgba(214, 140, 20, 0.12);
+  border-left: 4px solid rgb(176, 104, 0);
+  border-radius: 0 8px 8px 0;
+}
+.update p {
+  margin: 0;
+  text-align: left;
+  line-height: 1.55;
+  text-wrap: pretty;
+}
+.update b {
+  font-family: 'Instrument Sans', 'Avenir', Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: rgb(150, 85, 0);
   margin-right: 0.4em;
 }
 

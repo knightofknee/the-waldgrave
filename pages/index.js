@@ -31,6 +31,10 @@ export default function Home() {
 
       <h2>Projects</h2>
       <div className="products">
+        <Link className="product" href="/ucs">
+          <span className="productName">Universal Complaint System</span>
+          <span className="productBlurb">complain about anything</span>
+        </Link>
         <Link className="product" href="/bekin">
           <span className="productName">BeKin</span>
           <span className="productBlurb">friends-only social media</span>
