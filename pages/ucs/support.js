@@ -19,7 +19,7 @@ export default function UcsSupport() {
         <p>Email <a href="mailto:bricarlis@gmail.com">bricarlis@gmail.com</a> with what happened and, if you can, what you were doing in the app. If you signed in, writing from that email address helps us find your account.</p>
 
         <h2>Report something</h2>
-        <p>Every complaint, problem, organization response, organization or topic page, and private message has a <strong>Report</strong> link. Tap it, pick what is wrong (threats, hate or harassment; a private person targeted; personal details shown; spam; something illegal; or something else), and send.</p>
+        <p>Every complaint, issue, organization response, organization or topic page, and private message has a <strong>Report</strong> link. Tap it, pick what is wrong (threats, hate or harassment; a private person targeted; personal details shown; spam; something illegal; or something else), and send.</p>
         <p>Reports go to the people who run UCS, never to the organization concerned, and organizations never see who reported what. We review every report within a day. Content that breaks the <Link href="/ucs/terms">terms of use</Link> is removed and listed in the public removal log, and accounts behind threats, hate, harassment or sexual content are suspended.</p>
 
         <h2>Hide an author</h2>
@@ -30,7 +30,7 @@ export default function UcsSupport() {
 
         <h2>For organizations</h2>
         <p>Anyone who works for an organization can respond for it with a verified work email at the organization&apos;s domain. In the app, go to <strong>Me &gt; Work somewhere? Respond for it</strong>, add and verify your work email if you haven&apos;t, pick the organization, and request access.</p>
-        <p>If your email domain is already known for that organization you can respond right away. Otherwise we check your domain against the organization&apos;s website, and anything we can&apos;t confirm is reviewed by hand. Organizations can respond publicly, reply to private complaints sent to them, and mark problems fixed (a fix counts only once the people who raised it confirm it). They can never edit or remove what anyone wrote.</p>
+        <p>If your email domain is already known for that organization you can respond right away. Otherwise we check your domain against the organization&apos;s website, and anything we can&apos;t confirm is reviewed by hand. Organizations can respond publicly, reply to private complaints sent to them, and mark issues fixed (a fix counts only once the people who raised it confirm it). They can never edit or remove what anyone wrote.</p>
 
         <h2>Your account</h2>
         <p>You can delete your account at any time from <strong>Me &gt; About &gt; Delete account</strong>. See <Link href="/ucs/delete-account">deleting your account</Link> for exactly what is removed.</p>

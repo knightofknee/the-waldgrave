@@ -40,7 +40,7 @@ export default function UcsDeleteAccount() {
 
         <h2>What is kept</h2>
         <ul>
-          <li>The problems your public complaints fed stay on the record without your name, because other people share them.</li>
+          <li>The issues your public complaints raised stay on the record without your name, because other people share them. What your complaints said about each issue is deleted.</li>
           <li>Reports you sent stay, without your account attached.</li>
           <li>An organization&apos;s private counts keep the anonymous number, which contains none of your words.</li>
         </ul>

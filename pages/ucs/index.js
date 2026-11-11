@@ -43,8 +43,8 @@ export default function UniversalComplaintSystem() {
           <li>Complain in seconds, in any language, no account needed.</li>
           <li>See if others already said it, and add your support with one tap.</li>
           <li>
-            Your complaint is split into specific problems and merged with everyone who shares them, so a hundred people
-            saying the same thing count as one loud point.
+            Your complaint is read for the issues it raises and joined with everyone who has the same issue, so a hundred
+            people saying the same thing become one issue backed by a hundred people.
           </li>
           <li>Organizations respond publicly. Each one&apos;s page shows how much it has seen, answered and fixed.</li>
           <li>Fixes only count when the people who raised them agree.</li>
