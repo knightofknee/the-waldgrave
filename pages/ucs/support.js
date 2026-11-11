@@ -19,7 +19,7 @@ export default function UcsSupport() {
         <p>Email <a href="mailto:bricarlis@gmail.com">bricarlis@gmail.com</a> with what happened and, if you can, what you were doing in the app. If you signed in, writing from that email address helps us find your account.</p>
 
         <h2>Report something</h2>
-        <p>Every complaint, point, organization response, organization or topic page, and private message has a <strong>Report</strong> link. Tap it, pick what is wrong (threats, hate or harassment; a private person targeted; personal details shown; spam; something illegal; or something else), and send.</p>
+        <p>Every complaint, problem, organization response, organization or topic page, and private message has a <strong>Report</strong> link. Tap it, pick what is wrong (threats, hate or harassment; a private person targeted; personal details shown; spam; something illegal; or something else), and send.</p>
         <p>Reports go to the people who run UCS, never to the organization concerned, and organizations never see who reported what. We review every report within a day. Content that breaks the <Link href="/ucs/terms">terms of use</Link> is removed and listed in the public removal log, and accounts behind threats, hate, harassment or sexual content are suspended.</p>
 
         <h2>Hide an author</h2>
