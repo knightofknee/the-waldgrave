@@ -33,7 +33,7 @@ export default function UcsSupport() {
         <p>If your email domain is already known for that organization you can respond right away. Otherwise we check your domain against the organization&apos;s website, and anything we can&apos;t confirm is reviewed by hand. Organizations can respond publicly, reply to private complaints sent to them, and mark problems fixed (a fix counts only once the people who raised it confirm it). They can never edit or remove what anyone wrote.</p>
 
         <h2>Your account</h2>
-        <p>You can delete your account at any time from <strong>Me &gt; Account</strong>. See <Link href="/ucs/delete-account">deleting your account</Link> for exactly what is removed.</p>
+        <p>You can delete your account at any time from <strong>Me &gt; About &gt; Delete account</strong>. See <Link href="/ucs/delete-account">deleting your account</Link> for exactly what is removed.</p>
       </div>
 
       <footer className="footer">

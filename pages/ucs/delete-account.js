@@ -25,7 +25,7 @@ export default function UcsDeleteAccount() {
         <ol>
           <li>Open the app (or the <a href="/ucs/app">web version</a>) on the device or account you use.</li>
           <li>Go to the <strong>Me</strong> tab.</li>
-          <li>Scroll to the bottom and tap <strong>Delete account</strong>.</li>
+          <li>Scroll to the bottom and tap <strong>About</strong>, then <strong>Delete account</strong>.</li>
           <li>Tap <strong>Delete my account</strong> and confirm.</li>
         </ol>
         <p>Deletion runs immediately and cannot be undone.</p>
