@@ -23,7 +23,7 @@ export default function UcsSupport() {
         <p>Reports go to the people who run UCS, never to the organization concerned, and organizations never see who reported what. We review every report within a day. Content that breaks the <Link href="/ucs/terms">terms of use</Link> is removed and listed in the public removal log, and accounts behind threats, hate, harassment or sexual content are suspended.</p>
 
         <h2>Hide an author</h2>
-        <p>On any complaint, tap <strong>Hide this author</strong> and you won&apos;t see their complaints anymore. They won&apos;t know. Undo it in <strong>Me &gt; Hidden authors</strong>.</p>
+        <p>On any complaint, tap the eye icon to hide its author. Their complaints fold shut for you, with no name, and you can open one if you want. They won&apos;t know. Undo it in <strong>Me &gt; Hidden authors</strong>.</p>
 
         <h2>Block someone in a private conversation</h2>
         <p>Either side of a private conversation can block the other: open the conversation and tap <strong>Block</strong>. Nobody can send in it until you unblock it, from the same button. You can still report any abusive message.</p>

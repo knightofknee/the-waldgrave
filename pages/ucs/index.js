@@ -41,7 +41,7 @@ export default function UniversalComplaintSystem() {
         </p>
         <ul>
           <li>Complain in seconds, in any language, no account needed.</li>
-          <li>See if others already said it, and add your &ldquo;Same here&rdquo;.</li>
+          <li>See if others already said it, and add your support with one tap.</li>
           <li>
             Your complaint is split into specific points and merged with everyone who shares them, so a hundred people
             saying the same thing count as one loud point.
