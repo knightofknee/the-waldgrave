@@ -25,5 +25,18 @@
         "1E:F3:9F:B0:F9:E6:5A:5C:3F:A2:8B:12:8A:96:0A:3B:A2:9E:EC:19:3C:C5:CB:1D:B1:19:C0:83:59:65:8B:A8"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.waldgrave.ucs",
+      "sha256_cert_fingerprints": [
+        "ED:12:4D:B8:60:C5:63:EA:3A:2C:64:31:E9:12:68:CF:43:CB:A1:65:11:00:67:24:6E:7A:37:92:74:22:E2:1A",
+        "D8:5F:FA:DD:D8:5A:EC:50:6C:98:33:74:B7:07:84:8B:15:18:76:BB:67:05:B2:F1:9C:FA:C0:1B:4A:75:F8:72"
+      ]
+    }
   }
 ]
