@@ -45,6 +45,13 @@ export default function UcsDeleteAccount() {
           <li>An organization&apos;s private counts keep the anonymous number, which contains none of your words.</li>
         </ul>
 
+        <h2 id="delete-data">Delete some of your data and keep your account</h2>
+        <ul>
+          <li><strong>A complaint:</strong> open it and tap the bin icon. Its words, photos and what it said about each issue are deleted, the support it gave is withdrawn, and an issue that was only yours goes with it.</li>
+          <li><strong>Your support:</strong> tap the arrow on an issue again to take it back.</li>
+          <li><strong>Your votes:</strong> tap <strong>Best rant</strong> or <strong>Easy peasy</strong> again to take a vote back, and change or take back how you rated a proposed fix the same way.</li>
+        </ul>
+
         <h2>No app? Ask us by email</h2>
         <p>If you can&apos;t use the app, email <a href="mailto:bricarlis@gmail.com?subject=Delete%20my%20UCS%20account">bricarlis@gmail.com</a> from the email address on your account and ask us to delete it. Sending from that address is how we know the request comes from the account&apos;s owner. We delete the same data listed above.</p>
         <p>An account you never signed in to exists only on the device that made it, so it can only be deleted from inside the app on that device.</p>
