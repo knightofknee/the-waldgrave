@@ -4,7 +4,7 @@ import HomeButton from '../../components/HomeButton'
 
 // Kept word for word in step with src/app/privacy.tsx in the Universal
 // Complaint System repo (the in-app copy). Change both together.
-const UPDATED = "November 10, 2026"
+const UPDATED = "November 15, 2026"
 const SECTIONS = [
   {
     heading: "Who we are",
@@ -33,7 +33,7 @@ const SECTIONS = [
   {
     heading: "What is public",
     body: [
-      "Public complaints: their text, the photos that pass our checks, your display name, and the issues they raised, with what each complaint said about each issue. Before a public complaint is posted we offer to remove personal details such as order numbers, phone numbers, and the names of private people; that is on by default.",
+      "Public complaints: their text, the photos that pass our checks, your display name, and the issues they raised, with what each complaint said about each issue. Before a public complaint is posted we offer to remove personal details such as order numbers, phone numbers, and private people's full names (a staff member's first name stays); that is on by default.",
       "Counts: how many people support each issue, how many issues each organization and topic has, and how organizations have responded.",
       "Never public: your email, which issues you supported, your fix confirmations, your reports, who you hid, and anything about private complaints except as described below.",
       "Some complaints come from public government records (the Consumer Financial Protection Bureau and NHTSA complaint databases). They are labelled with their source and link to it, and contain only what the agency already published.",
