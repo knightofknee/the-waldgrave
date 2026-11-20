@@ -8,14 +8,14 @@ export default function BeKin() {
     <div className="container">
       <Head>
         <title>BeKin: light your beacon when you&apos;re free to hang</title>
-        <meta name="description" content="Light your beacon when you're free. Your friends see it and say they're in. Just your friends, no feed to scroll." />
+        <meta name="description" content="Light the beacon when you're down to hang." />
         <meta property="og:title" content="BeKin" />
-        <meta property="og:description" content="Free to hang? Light your beacon. Your friends see it and say they're in." />
+        <meta property="og:description" content="Light the beacon when you're down to hang." />
         <meta property="og:image" content="https://www.waldgrave.com/bekin/icon.png" />
       </Head>
       <HomeButton />
       <h1>BeKin</h1>
-      <p className="tagline">Free to hang? Light your beacon. Your friends see it and say they&apos;re in.</p>
+      <p className="tagline">Light the beacon when you&apos;re down to hang.</p>
 
       <AppStoreCta
         url="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014"

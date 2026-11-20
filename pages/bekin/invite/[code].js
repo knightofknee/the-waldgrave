@@ -213,7 +213,7 @@ export default function BekinInvite({ code, b, preview: initial }) {
     : `${inviter} invited you to BeKin`;
   const description = beacon
     ? beacon.message || "Open it to see the plan and say you're in."
-    : "BeKin is how friends say they're free to hang out. Tap to connect.";
+    : "Light the beacon when you're down to hang.";
   const url = `${SITE}/bekin/invite/${code}${b ? `?b=${b}` : ""}`;
   const webAppUrl = `/bekin/app?invite=${code}${b ? `&b=${b}` : ""}`;
   const going = beacon?.going || [];
@@ -329,8 +329,8 @@ export default function BekinInvite({ code, b, preview: initial }) {
             <h1>{inviter} invited you to BeKin</h1>
             <p className="lead">
               {preview?.ended ? "That beacon has ended, but the invite stands. " : ""}
-              BeKin is how friends say they&apos;re free to hang out: light your beacon, and your friends see it and
-              say they&apos;re in. Install it and you&apos;re connected with {inviter} automatically.
+              On BeKin you light the beacon when you&apos;re down to hang. Install it and you&apos;re connected with
+              {inviter} automatically.
             </p>
           </>
         )}
