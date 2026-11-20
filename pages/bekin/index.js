@@ -1,13 +1,21 @@
 import Link from 'next/link'
+import Head from 'next/head'
 import AppStoreCta from '../../components/AppStoreCta'
 import HomeButton from '../../components/HomeButton'
 
 export default function BeKin() {
   return (
     <div className="container">
+      <Head>
+        <title>BeKin: light your beacon when you&apos;re free to hang</title>
+        <meta name="description" content="Light your beacon when you're free. Your friends see it and say they're in. Just your friends, no feed to scroll." />
+        <meta property="og:title" content="BeKin" />
+        <meta property="og:description" content="Free to hang? Light your beacon. Your friends see it and say they're in." />
+        <meta property="og:image" content="https://www.waldgrave.com/bekin/icon.png" />
+      </Head>
       <HomeButton />
       <h1>BeKin</h1>
-      <p className="tagline">Friends-only social media. Light the beacon when you&apos;re down to hang, and see only your friends&apos; posts.</p>
+      <p className="tagline">Free to hang? Light your beacon. Your friends see it and say they&apos;re in.</p>
 
       <AppStoreCta
         url="https://apps.apple.com/us/app/bekin-by-the-waldgrave/id6746952014"
@@ -20,18 +28,23 @@ export default function BeKin() {
 
       <div className="features">
         <div className="feature">
-          <h3>Light the Beacon</h3>
-          <p>Let your friends know you&apos;re down to hang.</p>
+          <h3>Light it</h3>
+          <p>One tap says you&apos;re free tonight. Add a time and a note if you have a plan, or don&apos;t.</p>
         </div>
         <div className="feature">
-          <h3>Just Your Friends</h3>
-          <p>You choose whose posts and recommendations you see. No algorithms, and no notifications required.</p>
+          <h3>Friends jump in</h3>
+          <p>They get the alert, tap &quot;I&apos;m in&quot;, and the plan comes together in the beacon&apos;s chat.</p>
         </div>
         <div className="feature">
-          <h3>Built to Be Put Down</h3>
-          <p>A post limit keeps it from taking over your day. Yes, we want to minimize your app usage.</p>
+          <h3>Anyone can join</h3>
+          <p>Text your beacon to people who don&apos;t have the app. They can see it and say they&apos;re in from the link.</p>
         </div>
       </div>
+
+      <p className="fineprint">
+        Just your friends: no strangers, no ads, no feed built to keep you scrolling. Open it when you&apos;re free,
+        put it down when you&apos;re not.
+      </p>
 
       <footer className="footer">
         <Link href="/bekinPrivacy">Privacy Policy</Link>
@@ -66,6 +79,12 @@ export default function BeKin() {
         }
         .also a {
           color: #42b983;
+        }
+        .fineprint {
+          max-width: 560px;
+          margin: 0 auto;
+          color: #666;
+          line-height: 1.5;
         }
         .features {
           display: flex;
